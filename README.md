@@ -1,5 +1,3 @@
-# First time contributors.
-
 Repo for first timers to PR onto, with their name, etc.
 
 ## I contributed to my-first-pr.
