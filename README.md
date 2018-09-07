@@ -1,20 +1,22 @@
 Repo for first timers to PR onto, with their name, etc.
 
-## I contributed to my-first-pr.
+## Contributors
 
-* ### Luke Oliff
-    - Technical Writer @ [Auth0](https://auth0.com)
-    - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
-      [![facebook-alt][facebook-img]](https://facebook.com/getauth0)
-      [![github-alt][github-img]](https://github.com/lukeoliff)
-* ### Example Profile
-    - I'm an example that you can copy, if you want :)
-    - [![twitter-alt][twitter-img]](https://twitter.com/example)
-      [![facebook-alt][facebook-img]](https://facebook.com/example)
-      [![google-img][google-img]](https://plus.google.com/+Example)
-      [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
-      [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
-      [![github-alt][github-img]](https://github.com/example)
+Please read [CONTRIBUTING](CONTRIBUTING.md) before submitting your PR.
+
+### Luke Oliff
+- Technical Writer @ [Auth0](https://auth0.com)
+- [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
+  [![facebook-alt][facebook-img]](https://facebook.com/getauth0)
+  [![github-alt][github-img]](https://github.com/lukeoliff)
+### Example Profile
+- I'm an example that you can copy, if you want :)
+- [![twitter-alt][twitter-img]](https://twitter.com/example)
+  [![facebook-alt][facebook-img]](https://facebook.com/example)
+  [![google-img][google-img]](https://plus.google.com/+Example)
+  [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
+  [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
+  [![github-alt][github-img]](https://github.com/example)
 
 [twitter-alt]: Twitter
 [facebook-alt]: Facebook
