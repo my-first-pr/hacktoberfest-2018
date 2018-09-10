@@ -22,9 +22,9 @@ Please read [CONTRIBUTING](CONTRIBUTING.md) before submitting your PR.
 [dribbble-alt]: Dribbble
 [github-alt]: GitHub
 
-[twitter-img]: http://i.imgur.com/wWzX9uB.png
-[facebook-img]: http://i.imgur.com/fep1WsG.png
-[google-img]: http://i.imgur.com/VlgBKQ9.png
-[tumblr-img]: http://i.imgur.com/jDRp47c.png
-[dribbble-img]: http://i.imgur.com/Vvy3Kru.png
-[github-img]: http://i.imgur.com/9I6NRUm.png
+[twitter-img]: https://i.imgur.com/wWzX9uB.png
+[facebook-img]: https://i.imgur.com/fep1WsG.png
+[google-img]: https://i.imgur.com/VlgBKQ9.png
+[tumblr-img]: https://i.imgur.com/jDRp47c.png
+[dribbble-img]: https://i.imgur.com/Vvy3Kru.png
+[github-img]: https://i.imgur.com/9I6NRUm.png
