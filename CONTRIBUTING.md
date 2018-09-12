@@ -1,8 +1,29 @@
 # Contributing
 
+## How to Contribute
+
+This repository is built for the purpose of encouraging your contributions, big or small. **All** changes are considered, as long as they do not complicate the process for others.
+
+That said, suggest ways to contribute include:
+
+### Your name on the readme.md
+
 * Fork the project.
-* Make your addition or fix.
-* Send a pull request. Bonus points for topic branches.
+* Add your name to the readme.md using the example provided.
+* Commit and send a pull request. Bonus points for correctly named branches.
+
+### A code sample
+
+* Fork the project.
+* Create a code sample under `/code` named <yourname>.<language-file-extension>. I.e. `lukeoliff.js`, `lukeoliff.php`
+* Create a working hello world example inside your file.
+* Commit and send a pull request. Bonus points for correctly named branches.
+
+### Anything else
+
+* Fork the project.
+* Make your change.
+* Commit and send a pull request. Bonus points for correctly named branches.
 
 ## Code of Conduct
 
