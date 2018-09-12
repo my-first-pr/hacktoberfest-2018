@@ -33,6 +33,10 @@ That said, suggest ways to contribute include:
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
+## Contributors List
+
+Start adding your names here:
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
