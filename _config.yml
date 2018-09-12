@@ -3,3 +3,4 @@ title: My First PR
 description: Helping first time contributors to make their first contribution. My First PR.
 logo: https://raw.githubusercontent.com/my-first-pr/my-first-pr.github.io/master/assets/images/logo.png
 show_downloads: false
+include: CONTRIBUTING.md
