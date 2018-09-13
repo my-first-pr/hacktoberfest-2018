@@ -14,6 +14,7 @@
 This repository is for anyone to create pull requests during Hacktoberfest 2018, with their name, code samples, etc. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktofebest contributions.
 
 ![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fall_is_coming_dg3x.svg)
+![Hacktoberfest 2018](https://my-first-pr.github.io/assets/images/Hacktoberfest_2018_logo_lockup.png)
 
 ## Contributors List
 
