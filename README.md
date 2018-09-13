@@ -3,6 +3,7 @@
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
 ![GitHub](https://img.shields.io/github/license/my-first-pr/hacktoberfest-2018.svg)
+![GitHub forks](https://img.shields.io/github/forks/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub issues](https://img.shields.io/github/issues/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/my-first-pr/hacktoberfest-2018.svg) 
 ![GitHub contributors](https://img.shields.io/github/contributors/my-first-pr/hacktoberfest-2018.svg) 
