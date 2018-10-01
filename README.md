@@ -51,6 +51,12 @@ Start adding your names here:
 - I am a young developer in india
 - I'm currently a student!
 
+### Shubham Nishad
+- Fourth year student in Computer Science.
+- you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
+- [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
+  [![github-alt][github-img]](https://github.com/shubhamnishad97)
+  
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
