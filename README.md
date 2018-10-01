@@ -81,6 +81,11 @@ Start adding your names here:
 - you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
+  
+### Aditya Choudhary
+- Software Engineer in India
+- [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
+  [![github-alt][github-img]](https://github.com/adich23)
 
 ### Mathieu Jolivet (Cynferdd)
 - Developper as a hobby since 1996, professionaly since 2005.
