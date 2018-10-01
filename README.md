@@ -24,7 +24,7 @@ Start adding your names here:
 ### Akshay N Shaju
 - Software Developer From India.🇧
 - Hobbies:
-  - Coding
+  - Coding,
   - Gaming
 - [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
   [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
