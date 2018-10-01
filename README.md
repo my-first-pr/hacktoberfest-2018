@@ -31,6 +31,15 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
+  
+### BenTechy66
+- I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
+- I'm currently a student!
+- My hobbies include:
+ - Coding
+ - Gaming
+ - ~~Having a social life~~ 
+  [![github-alt][github-img]](https://github.com/BenTechy66)
 
 ## How to Contribute
 
