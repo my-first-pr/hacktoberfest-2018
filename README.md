@@ -21,6 +21,14 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### JillianAndersonSlate
+- I am a 25-year-old from the United States of America, and I recently moved with my husband to Barcelona, Spain.
+- As part of the move I have decided to pursue coding as a new career!
+- I am working toward a junior-level position doing front-end work with HTML, CSS, JavaScript, and React.
+- My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye: 
+- [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
+  [![github-alt][github-img]](https://github.com/jillianandersonslate)
+
 ### BenTechy66
 - I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
 - I'm currently a student!
