@@ -101,6 +101,10 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
 
+### Arjun Rajpal
+- Software Engineer and a ML Enthusiast
+- [![github-alt][github-img]](https://github.com/arjunrajpal)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
