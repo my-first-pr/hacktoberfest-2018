@@ -95,6 +95,11 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
   [![github-alt][github-img]](https://github.com/adich23)
 
+### Vaibhav Agarwal
+- Fourth year undergraduate at IIT Mandi, Computer Science.
+- [![twitter-alt][twitter-img]](https://twitter.com/vaibhav_a1997)
+  [![github-alt][github-img]](https://github.com/vaibhavagarwal220)
+
 ### Mathieu Jolivet (Cynferdd)
 - Developper as a hobby since 1996, professionaly since 2005.
 - Bass player, I also love reading, photography and beer.
