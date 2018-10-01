@@ -20,8 +20,10 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 ## Contributors List
 
 Start adding your names here:
-- Karen Geerts. I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
-  [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
+
+### Karen Geerts
+- I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
+- [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
   [![github-alt][github-img]](https://github.com/karengeerts)
 
 ### Example Profile
