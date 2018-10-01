@@ -116,6 +116,12 @@ Start adding your names here:
 - Fourth year student in Mechanical Engineering.
 - [![github-alt][github-img]](https://github.com/UtkarshKunwar)
 
+### Anastasis Xouzafeiris (aka anksos)
+- I am a VMware engineer
+- I'm currently working as a Virtualization Specialist
+  [![twitter-alt][twitter-img]](https://twitter.com/ankso)
+  [![github-alt][github-img]](https://github.com/anksos)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
