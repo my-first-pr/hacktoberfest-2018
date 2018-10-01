@@ -148,6 +148,13 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
   [![github-alt][github-img]](https://github.com/suvink)
 
+
+### Alok Rajasukumaran
+- AI Architect by profession
+- [!Know more at](https://alokraj68.in)
+- [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
+  [![github-alt][github-img]](https://github.com/alokraj68)
+
 ## How to Contribute
 
 Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request.
