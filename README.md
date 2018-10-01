@@ -20,7 +20,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 ## Contributors List
 
 Start adding your names here:
-Anshima Chaudhary
+### Anshima Chaudhary
+- I'm a contributor :)
+- I study CS 
+- My hobbies include coding, debating and dancing
+  [![github-alt][github-img]](https://github.com/anshima1)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
