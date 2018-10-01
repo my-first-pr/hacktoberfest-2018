@@ -61,6 +61,15 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
 
+  ### Anush93
+  - I am a young developer in Sri Lanka
+  - I'm currently a undergraduate
+  - My hobbies include:
+   - Coding
+   - Gaming
+   -Nature Photography
+    [![github-alt][github-img]](https://github.com/Anush93)
+
 ### Shubham Nishad
 - Fourth year student in Computer Science.
 - you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
