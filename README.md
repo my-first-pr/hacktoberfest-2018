@@ -5,8 +5,8 @@
 ![GitHub](https://img.shields.io/github/license/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub forks](https://img.shields.io/github/forks/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub issues](https://img.shields.io/github/issues/my-first-pr/hacktoberfest-2018.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/my-first-pr/hacktoberfest-2018.svg) 
-![GitHub contributors](https://img.shields.io/github/contributors/my-first-pr/hacktoberfest-2018.svg) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/my-first-pr/hacktoberfest-2018.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/w/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/my-first-pr/hacktoberfest-2018.svg)
@@ -27,18 +27,28 @@ Start adding your names here:
 - My hobbies include:
  - Coding
  - Gaming
- - ~~Having a social life~~ 
+ - ~~Having a social life~~
   [![github-alt][github-img]](https://github.com/BenTechy66)
 
 ### Karen Geerts
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
 - [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
   [![github-alt][github-img]](https://github.com/karengeerts)
-  
+
 ### Luke Oliff
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
   [![github-alt][github-img]](https://github.com/lukeoliff)
+
+### rahman95
+- Software Developer born in Germany raised in the UK. 🇩🇪 🇬🇧
+- Hobbies include:
+  - Coding
+  - Tinkering
+  - Photography
+  - Gastronomy
+- [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
+  [![github-alt][github-img]](https://github.com/rahman95)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -50,6 +60,7 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
+
 
 ## How to Contribute
 
