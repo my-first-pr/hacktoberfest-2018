@@ -21,6 +21,12 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Yash Agrawal
+- I am a student at IIT Mandi persuin B.Tech. in computer science.
+- I like more of competitive programming.
+- I am the co-ordinator of programming club, IIT Mandi.
+  [![github-alt][github-img]](https://github.com/YashAgrawal0)
+
 ### BenTechy66
 - I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
 - I'm currently a student!
