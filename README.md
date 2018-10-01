@@ -21,6 +21,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 Ananya
+-I'm a junior year student.
+-I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
+-I like to listen to music while I code.
+-[![facebook-alt][facebook-img]](https://www.facebook.com/ac.ananya)
+ [![github-alt][github-img]](https://github.com/ananya1304)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
