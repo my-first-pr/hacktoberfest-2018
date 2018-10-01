@@ -46,7 +46,7 @@ Start adding your names here:
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
   [![github-alt][github-img]](https://github.com/lukeoliff)
-  
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
@@ -61,6 +61,12 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
 
+### Shubham Nishad
+- Fourth year student in Computer Science.
+- you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
+- [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
+  [![github-alt][github-img]](https://github.com/shubhamnishad97)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
@@ -71,7 +77,6 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-
 
 ## How to Contribute
 
