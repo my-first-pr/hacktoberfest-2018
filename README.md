@@ -152,6 +152,10 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
 
+### James
+- DevOps Engineer
+- Taking part in my first Hacktober
+
 ### Arjun Rajpal
 - Software Engineer and a ML Enthusiast
 - [![github-alt][github-img]](https://github.com/arjunrajpal)
@@ -165,6 +169,7 @@ Start adding your names here:
 - I'm currently working as a Virtualization Specialist
   [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
+
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
