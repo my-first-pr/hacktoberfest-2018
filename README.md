@@ -67,6 +67,12 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
 
+### Mathieu Jolivet (Cynferdd)
+- Developper as a hobby since 1996, professionaly since 2005.
+- Bass player, I also love reading, photography and beer.
+- [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
+  [![github-alt][github-img]](https://github.com/cynferdd)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
