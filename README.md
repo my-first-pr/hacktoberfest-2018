@@ -178,6 +178,12 @@ Start adding your names here:
 - I am the co-ordinator of programming club, IIT Mandi.
 - [![github-alt][github-img]](https://github.com/YashAgrawal0)
 
+### IGC
+- I am a Spanish CS student and developer.
+- I like Java and Python.
+- I am looking foward learning Django.
+- [![github-alt][github-img]](https://github.com/igcigc)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
