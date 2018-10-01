@@ -9,7 +9,13 @@ That said, suggest ways to contribute include:
 ### Your name on the readme.md
 
 * Fork the project.
-* Add your name to the readme.md using the example provided.
+* Add your name to the readme.md using this example;
+```
+### My Name
+- Description about me
+- [![twitter-alt][twitter-img]](https://twitter.com/example)
+  [![github-alt][github-img]](https://github.com/example)
+```
 * Commit and send a pull request. Bonus points for correctly named branches.
 
 ### A code sample
