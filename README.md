@@ -20,6 +20,12 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 ## Contributors List
 
 Start adding your names here:
+### Ananya
+- I'm a junior year student.
+- I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
+- I like to listen to music while I code.
+- [![facebook-alt][facebook-img]](https://www.facebook.com/ac.ananya)
+  [![github-alt][github-img]](https://github.com/ananya1304)
 
 ### BenTechy66
 - I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
