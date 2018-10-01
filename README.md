@@ -20,6 +20,7 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 ## Contributors List
 
 Start adding your names here:
+
 ### Ananya
 - I'm a junior year student.
 - I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
@@ -27,11 +28,17 @@ Start adding your names here:
 - [![facebook-alt][facebook-img]](https://www.facebook.com/ac.ananya)
   [![github-alt][github-img]](https://github.com/ananya1304)
 
+### Anshima Chaudhary
+- I'm a contributor :)
+- I study CS 
+- My hobbies include coding, debating and dancing
+- [![github-alt][github-img]](https://github.com/anshima1)
+
 ### Yash Agrawal
 - I am a student at IIT Mandi persuin B.Tech. in computer science.
 - I like more of competitive programming.
 - I am the co-ordinator of programming club, IIT Mandi.
-  [![github-alt][github-img]](https://github.com/YashAgrawal0)
+- [![github-alt][github-img]](https://github.com/YashAgrawal0)
 
 ### Akshay N Shaju
 - Software Developer From India.🇧
