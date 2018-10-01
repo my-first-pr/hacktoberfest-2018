@@ -40,6 +40,13 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
   [![github-alt][github-img]](https://github.com/lukeoliff)
 
+### duongoku
+- I'm a student and I'm in last year of highschool.
+- I'm interested in competitive programming, physics, calculus and tech stuff.
+- I also like listening to music and playing games.
+- [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
+  [![github-alt][github-img]](https://github.com/duongoku)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
