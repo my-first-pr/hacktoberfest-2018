@@ -60,6 +60,14 @@ Start adding your names here:
   - Gastronomy
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
+  
+  
+### pankhuri22
+- Computer Science Undergraduate
+- [![twitter-alt][twitter-img]](https://twitter.com/pankhuri221198)
+  [![github-alt][github-img]](https://github.com/pankhuri2211)
+  
+  
 
 ### Shubham Nishad
 - Fourth year student in Computer Science.
