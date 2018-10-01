@@ -12,7 +12,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/my-first-pr/hacktoberfest-2018.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/my-first-pr/hacktoberfest-2018.svg)
 
-This repository is for anyone to create pull requests during Hacktoberfest 2018, with their name, code samples, etc. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktofebest contributions.
+This repository is for anyone to create pull requests during Hacktoberfest 2018, with their name, code samples, etc. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 ![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fall_is_coming_dg3x.svg)
 ![Hacktoberfest 2018](https://my-first-pr.github.io/assets/images/Hacktoberfest_2018_logo_lockup.png)
@@ -30,6 +30,13 @@ Start adding your names here:
  - ~~Having a social life~~
   [![github-alt][github-img]](https://github.com/BenTechy66)
 
+### duongoku
+- I'm a student and I'm in last year of highschool.
+- I'm interested in competitive programming, physics, calculus and tech stuff.
+- I also like listening to music and playing games.
+- [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
+  [![github-alt][github-img]](https://github.com/duongoku)
+
 ### Karen Geerts
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
 - [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
@@ -39,6 +46,10 @@ Start adding your names here:
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
   [![github-alt][github-img]](https://github.com/lukeoliff)
+  
+### gursimran
+- I am a young developer in india
+- I'm currently a student!
 
 ### rahman95
 - Software Developer born in Germany raised in the UK. 🇩🇪 🇬🇧
