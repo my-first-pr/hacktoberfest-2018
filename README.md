@@ -118,6 +118,10 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
 
+### Arjun Rajpal
+- Software Engineer and a ML Enthusiast
+- [![github-alt][github-img]](https://github.com/arjunrajpal)
+
 ### Utkarsh Kunwar
 - Fourth year student in Mechanical Engineering.
 - [![github-alt][github-img]](https://github.com/UtkarshKunwar)
