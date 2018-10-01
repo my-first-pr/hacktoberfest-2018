@@ -59,6 +59,12 @@ Start adding your names here:
 - I also like listening to music and watching movies.
 - [![github-alt][github-img]](https://github.com/lunamana104)
 
+### janicek1m
+- I am currently a high school student.
+- I love robotics, programming, and web-development.
+- I also like playing the cello, watching shows on Netflix, and cooking.
+- [![github-alt][github-img]](https://github.com/janicek1m)
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
