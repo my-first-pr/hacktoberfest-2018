@@ -20,6 +20,12 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 ## Contributors List
 
 Start adding your names here:
+### Ananya
+- I'm a junior year student.
+- I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
+- I like to listen to music while I code.
+- [![facebook-alt][facebook-img]](https://www.facebook.com/ac.ananya)
+  [![github-alt][github-img]](https://github.com/ananya1304)
 
 ### BenTechy66
 - I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
@@ -52,6 +58,12 @@ Start adding your names here:
 - I love physics, technology and IT-related stuff.
 - I also like listening to music and watching movies.
 - [![github-alt][github-img]](https://github.com/lunamana104)
+
+### janicek1m
+- I am currently a high school student.
+- I love robotics, programming, and web-development.
+- I also like playing the cello, watching shows on Netflix, and cooking.
+- [![github-alt][github-img]](https://github.com/janicek1m)
 
 ### gursimran
 - I am a young developer in india
@@ -95,6 +107,11 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
   [![github-alt][github-img]](https://github.com/adich23)
 
+### Vaibhav Agarwal
+- Fourth year undergraduate at IIT Mandi, Computer Science.
+- [![twitter-alt][twitter-img]](https://twitter.com/vaibhav_a1997)
+  [![github-alt][github-img]](https://github.com/vaibhavagarwal220)
+
 ### Mathieu Jolivet (Cynferdd)
 - Developper as a hobby since 1996, professionaly since 2005.
 - Bass player, I also love reading, photography and beer.
@@ -104,6 +121,10 @@ Start adding your names here:
 ### Arjun Rajpal
 - Software Engineer and a ML Enthusiast
 - [![github-alt][github-img]](https://github.com/arjunrajpal)
+
+### Utkarsh Kunwar
+- Fourth year student in Mechanical Engineering.
+- [![github-alt][github-img]](https://github.com/UtkarshKunwar)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
