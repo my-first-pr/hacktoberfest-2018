@@ -21,6 +21,25 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Aditya Choudhary
+- Software Engineer in India
+- [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
+  [![github-alt][github-img]](https://github.com/adich23)
+
+### Akshay N Shaju
+- Software Developer From India.🇧
+- Hobbies:
+  - Coding
+  - Gaming
+- [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
+  [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
+
+### Alok Rajasukumaran
+- AI Architect by profession
+- [!Know more at](https://alokraj68.in)
+- [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
+  [![github-alt][github-img]](https://github.com/alokraj68)
+
 ### Ananya
 - I'm a junior year student.
 - I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
@@ -28,47 +47,39 @@ Start adding your names here:
 - [![facebook-alt][facebook-img]](https://www.facebook.com/ac.ananya)
   [![github-alt][github-img]](https://github.com/ananya1304)
 
+### Anastasis Xouzafeiris (aka anksos)
+- I am a VMware engineer
+- I'm currently working as a Virtualization Specialist
+- [![twitter-alt][twitter-img]](https://twitter.com/ankso)
+  [![github-alt][github-img]](https://github.com/anksos)
+
 ### Anshima Chaudhary
 - I'm a contributor :)
 - I study CS 
 - My hobbies include coding, debating and dancing
 - [![github-alt][github-img]](https://github.com/anshima1)
 
-### Yash Agrawal
-- I am a student at IIT Mandi persuin B.Tech. in computer science.
-- I like more of competitive programming.
-- I am the co-ordinator of programming club, IIT Mandi.
-- [![github-alt][github-img]](https://github.com/YashAgrawal0)
-
-### Akshay N Shaju
-- Software Developer From India.🇧
-- Hobbies:
-  - Coding,
+### Anush93
+- I am a young developer in Sri Lanka
+- I'm currently a undergraduate
+- My hobbies include:
+  - Coding
   - Gaming
-- [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
-  [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
+  - Nature Photography
+- [![github-alt][github-img]](https://github.com/Anush93)
 
-### JillianAndersonSlate
-- I am a 25-year-old from the United States of America, and I recently moved with my husband to Barcelona, Spain.
-- As part of the move I have decided to pursue coding as a new career!
-- I am working toward a junior-level position doing front-end work with HTML, CSS, JavaScript, and React.
-- My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye: 
-- [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
-  [![github-alt][github-img]](https://github.com/jillianandersonslate)
+### Arjun Rajpal
+- Software Engineer and a ML Enthusiast
+- [![github-alt][github-img]](https://github.com/arjunrajpal)
 
 ### BenTechy66
 - I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
 - I'm currently a student!
 - My hobbies include:
- - Coding
- - Gaming
- - ~~Having a social life~~
-  [![github-alt][github-img]](https://github.com/BenTechy66)
-
-###PatrickSedlacek
--I am a recent graduate from University and recently started my career as a developer.
--I volunteer with High School students teaching them programming and robotics.
--I will have each of them participate in Hacktoberfest tonight!!
+  - Coding
+  - Gaming
+  - ~~Having a social life~~
+- [![github-alt][github-img]](https://github.com/BenTechy66)
 
 ### duongoku
 - I'm a student and I'm in last year of highschool.
@@ -76,6 +87,28 @@ Start adding your names here:
 - I also like listening to music and playing games.
 - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
   [![github-alt][github-img]](https://github.com/duongoku)
+
+### gursimran
+- I am a young developer in india
+- I'm currently a student!
+
+### James
+- DevOps Engineer
+- Taking part in my first Hacktoberfest
+
+### janicek1m
+- I am currently a high school student.
+- I love robotics, programming, and web-development.
+- I also like playing the cello, watching shows on Netflix, and cooking.
+- [![github-alt][github-img]](https://github.com/janicek1m)
+
+### Jillian Anderson Slate
+- I am a 25-year-old from the United States of America, and I recently moved with my husband to Barcelona, Spain.
+- As part of the move I have decided to pursue coding as a new career!
+- I am working toward a junior-level position doing front-end work with HTML, CSS, JavaScript, and React.
+- My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye: 
+- [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
+  [![github-alt][github-img]](https://github.com/jillianandersonslate)
 
 ### Karen Geerts
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
@@ -93,15 +126,21 @@ Start adding your names here:
 - I also like listening to music and watching movies.
 - [![github-alt][github-img]](https://github.com/lunamana104)
 
-### janicek1m
-- I am currently a high school student.
-- I love robotics, programming, and web-development.
-- I also like playing the cello, watching shows on Netflix, and cooking.
-- [![github-alt][github-img]](https://github.com/janicek1m)
+### Mathieu Jolivet (Cynferdd)
+- Developper as a hobby since 1996, professionaly since 2005.
+- Bass player, I also love reading, photography and beer.
+- [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
+  [![github-alt][github-img]](https://github.com/cynferdd)
 
-### gursimran
-- I am a young developer in india
-- I'm currently a student!
+### pankhuri22
+- Computer Science Undergraduate
+- [![twitter-alt][twitter-img]](https://twitter.com/pankhuri221198)
+  [![github-alt][github-img]](https://github.com/pankhuri2211)
+
+### Patrick Sedlacek
+- I am a recent graduate from University and recently started my career as a developer.
+- I volunteer with High School students teaching them programming and robotics.
+- I will have each of them participate in Hacktoberfest tonight!!
 
 ### rahman95
 - Software Developer born in Germany raised in the UK. 🇩🇪 🇬🇧
@@ -112,64 +151,32 @@ Start adding your names here:
   - Gastronomy
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
-  
-  
-### pankhuri22
-- Computer Science Undergraduate
-- [![twitter-alt][twitter-img]](https://twitter.com/pankhuri221198)
-  [![github-alt][github-img]](https://github.com/pankhuri2211)
-  
-  
-
-### Anush93
-- I am a young developer in Sri Lanka
-- I'm currently a undergraduate
-- My hobbies include:
- - Coding
- - Gaming
- - Nature Photography
-- [![github-alt][github-img]](https://github.com/Anush93)
 
 ### Shubham Nishad
 - Fourth year student in Computer Science.
 - you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
-  
-### Aditya Choudhary
-- Software Engineer in India
-- [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
-  [![github-alt][github-img]](https://github.com/adich23)
+
+### Suvin Nimnaka
+- A Student from Sri Lanka
+- [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
+  [![github-alt][github-img]](https://github.com/suvink)
+
+### Utkarsh Kunwar
+- Fourth year student in Mechanical Engineering.
+- [![github-alt][github-img]](https://github.com/UtkarshKunwar)
 
 ### Vaibhav Agarwal
 - Fourth year undergraduate at IIT Mandi, Computer Science.
 - [![twitter-alt][twitter-img]](https://twitter.com/vaibhav_a1997)
   [![github-alt][github-img]](https://github.com/vaibhavagarwal220)
 
-### Mathieu Jolivet (Cynferdd)
-- Developper as a hobby since 1996, professionaly since 2005.
-- Bass player, I also love reading, photography and beer.
-- [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
-  [![github-alt][github-img]](https://github.com/cynferdd)
-
-### James
-- DevOps Engineer
-- Taking part in my first Hacktober
-
-### Arjun Rajpal
-- Software Engineer and a ML Enthusiast
-- [![github-alt][github-img]](https://github.com/arjunrajpal)
-
-### Utkarsh Kunwar
-- Fourth year student in Mechanical Engineering.
-- [![github-alt][github-img]](https://github.com/UtkarshKunwar)
-
-### Anastasis Xouzafeiris (aka anksos)
-- I am a VMware engineer
-- I'm currently working as a Virtualization Specialist
-  [![twitter-alt][twitter-img]](https://twitter.com/ankso)
-  [![github-alt][github-img]](https://github.com/anksos)
-
+### Yash Agrawal
+- I am a student at IIT Mandi persuin B.Tech. in computer science.
+- I like more of competitive programming.
+- I am the co-ordinator of programming club, IIT Mandi.
+- [![github-alt][github-img]](https://github.com/YashAgrawal0)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -181,18 +188,6 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
-  ### Suvin Nimnaka
-- A Student from Sri Lanka
-- [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
-  [![github-alt][github-img]](https://github.com/suvink)
-
-
-### Alok Rajasukumaran
-- AI Architect by profession
-- [!Know more at](https://alokraj68.in)
-- [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
-  [![github-alt][github-img]](https://github.com/alokraj68)
 
 ## How to Contribute
 
