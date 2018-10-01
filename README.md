@@ -30,6 +30,11 @@ Start adding your names here:
  - ~~Having a social life~~
   [![github-alt][github-img]](https://github.com/BenTechy66)
 
+###PatrickSedlacek
+-I am a recent graduate from University and recently started my career as a developer.
+-I volunteer with High School students teaching them programming and robotics.
+-I will have each of them participate in Hacktoberfest tonight!!
+
 ### duongoku
 - I'm a student and I'm in last year of highschool.
 - I'm interested in competitive programming, physics, calculus and tech stuff.
