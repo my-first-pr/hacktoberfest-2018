@@ -47,6 +47,10 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
   [![github-alt][github-img]](https://github.com/lukeoliff)
 
+### gursimran
+- I am a young developer in india
+- I'm currently a student!
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
