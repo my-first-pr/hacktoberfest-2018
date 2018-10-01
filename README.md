@@ -66,6 +66,11 @@ Start adding your names here:
 - you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
+  
+### Aditya Choudhary
+- Software Engineer in India
+- [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
+  [![github-alt][github-img]](https://github.com/adich23)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
