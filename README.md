@@ -33,6 +33,14 @@ Start adding your names here:
 - I am the co-ordinator of programming club, IIT Mandi.
   [![github-alt][github-img]](https://github.com/YashAgrawal0)
 
+### Akshay N Shaju
+- Software Developer From India.🇧
+- Hobbies:
+  - Coding,
+  - Gaming
+- [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
+  [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
+
 ### BenTechy66
 - I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
 - I'm currently a student!
