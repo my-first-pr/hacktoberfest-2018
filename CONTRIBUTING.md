@@ -4,7 +4,7 @@
 
 This repository is built for the purpose of encouraging your contributions, big or small. **All** changes are considered, as long as they do not complicate the process for others.
 
-That said, suggest ways to contribute include:
+That said, suggested ways to contribute include:
 
 ### Your name on the readme.md
 
