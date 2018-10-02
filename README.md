@@ -21,6 +21,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Hafpaf
+- Software student
+- Small electronics enthutiast.
+- [![github-alt][github-img]](https://github.com/hafpaf)
+
 ### Aditya Choudhary
 - Software Engineer in India
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
