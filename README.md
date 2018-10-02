@@ -365,6 +365,12 @@ Start adding your names here:
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Brian Burress
+- I'm Brian Burress, IT consultant with The Byte Stuff
+- Currently learning to program under Adruino IDE as well as design simple circuits
+- [![github-alt][github-img]](https://github.com/TheByteStuff )
+  [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
+
 ### Utsha Sinha
 - I'm an Information Technology third year student
 - :heart: for tech and passionate about how it influences our everyday lives
