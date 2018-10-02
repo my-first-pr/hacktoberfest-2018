@@ -96,6 +96,8 @@ Start adding your names here:
   [![github-alt][github-img]](https://github.com/duongoku)
 
 ### Danil Shankovskiy
+- I'm a student from Ukraine
+- Interested in Python, Django
 - [![github-alt][github-img]](https://github.com/BeAsYit)
 
 ### gursimran
