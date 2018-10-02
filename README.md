@@ -365,6 +365,11 @@ Start adding your names here:
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Utsha Sinha
+- I'm an Information Technology third year student
+- :heart: for tech and passionate about how it influences our everyday lives
+- [![github-alt][github-img]](https://github.com/utsha1510)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
