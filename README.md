@@ -95,6 +95,9 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
   [![github-alt][github-img]](https://github.com/duongoku)
 
+### Danil Shankovskiy
+- [![github-alt][github-img]](https://github.com/BeAsYit)
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
