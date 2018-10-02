@@ -208,6 +208,15 @@ Start adding your names here:
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
 
+### Ravindra Kumar Meena
+- Computer Sciene & Engineering Student
+- Hobbies:
+  - Coding
+  - Gaming
+  - Beatboxing
+- [![twitter-alt][twitter-img]](https://twitter.com/rmeena840)
+  [![github-alt][github-img]](https://github.com/rmeena840)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
