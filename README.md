@@ -87,7 +87,7 @@ Start adding your names here:
 - First time participating in Hacktoberfest
 [![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
 [![github-alt][github-img]](https://github.com/benocd)
-  
+
 ### duongoku
 - I'm a student and I'm in last year of highschool.
 - I'm interested in competitive programming, physics, calculus and tech stuff.
@@ -113,7 +113,7 @@ Start adding your names here:
 - I am a 25-year-old from the United States of America, and I recently moved with my husband to Barcelona, Spain.
 - As part of the move I have decided to pursue coding as a new career!
 - I am working toward a junior-level position doing front-end work with HTML, CSS, JavaScript, and React.
-- My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye: 
+- My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye:
 - [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
   [![github-alt][github-img]](https://github.com/jillianandersonslate)
 
@@ -207,6 +207,12 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+
+### Elijah Rwothoromo
+- Software Developer
+- I love movies, poetry and hangouts.
+- [![twitter-alt][twitter-img]](https://twitter.com/rwothoromo)
+  [![github-alt][github-img]](https://github.com/rwothoromo)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
