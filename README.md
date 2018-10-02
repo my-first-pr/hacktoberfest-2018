@@ -221,6 +221,12 @@ Start adding your names here:
 - I am the co-ordinator of programming club, IIT Mandi.
 - [![github-alt][github-img]](https://github.com/YashAgrawal0)
 
+### Nikhil Shrivastava
+- I am a student at ILovely Professional University persuingmy B.Tech degree in computer science.
+- I am very much passionate about programming.
+- I am a member of Microsoft Technical Community , LPU
+- [![github-alt][github-img]](https://github.com/NikhilShrivastava)
+
 ### IGC
 - I am a Spanish CS student and developer.
 - I like Java and Python.
