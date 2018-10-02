@@ -221,6 +221,13 @@ Start adding your names here:
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
 
+### Vishal Anand
+- Student
+- Programmer
+- Cricketer
+- Painter
+  [![github-alt][github-img]](https://github.com/Vishal1541)
+
 ### Jay Vasant
 - Python enthusiast.
 - My hobbies include:
