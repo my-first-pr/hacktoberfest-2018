@@ -191,6 +191,11 @@ Start adding your names here:
 - I am looking foward learning Django.
 - [![github-alt][github-img]](https://github.com/igcigc)
 
+### Nievas Martin
+- I'm an Electronic Engineer from Argentina.
+- Currently pursuing a PhD scholarship.
+  [![github-alt][github-img]](https://github.com/MartinNievas)
+
 ### Izabela Cardozo
 - I'm a Brazilian Electrical Engineer studant and Friends lover, by the way, How u doin'? ;)
 - My hobbies include:
