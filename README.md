@@ -191,6 +191,13 @@ Start adding your names here:
 - I am looking foward learning Django.
 - [![github-alt][github-img]](https://github.com/igcigc)
 
+### Izabela Cardozo
+- I'm a Brazilian Electrical Engineer studant and Friends lover, by the way, How u doin'? ;)
+- My hobbies include:
+	- Watch spanish TV shows (please watch Gran Hotel);
+	- Listen music.
+- [![twitter-alt][twitter-img]](https://twitter.com/izabela963)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
