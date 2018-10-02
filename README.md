@@ -365,6 +365,12 @@ Start adding your names here:
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Helus
+- I'm a mathematics student.
+- I'm interested in data science.
+- My hobbies include gaming and listening to classical music.
+- [![github-alt][github-img]](https://github.com/example)
+
 ### Brian Burress
 - I'm Brian Burress, IT consultant with The Byte Stuff
 - Currently learning to program under Adruino IDE as well as design simple circuits
