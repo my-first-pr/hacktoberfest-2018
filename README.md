@@ -220,7 +220,15 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
-  
+
+### Jay Vasant
+- Python enthusiast.
+- My hobbies include:
+	- Competitive Programming
+	- Reading and Writing Blogs
+- [![twitter-alt][twitter-img]](https://twitter.com/jayvasantjv)
+  [![github-alt][github-img]](https://github.com/jayvasantjv)
+
 ### Alexandre Pereira Santos
 - Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
 - Programmer at Stefanini - Working with Test Autamatization
