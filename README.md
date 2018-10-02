@@ -122,6 +122,12 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
   [![github-alt][github-img]](https://github.com/karengeerts)
 
+### Kundan Kumar
+- I am a high school graduate.
+- I love AI, programming and web development.
+- I love playing and making games.
+- [![github-alt][github-img]](https://github.com/kundan28)
+
 ### Luke Oliff
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
