@@ -86,8 +86,8 @@ Start adding your names here:
 - Final Year Computer Engineering student from Concepción, Chile
 - Raspberry Pi Enthusiast
 - First time participating in Hacktoberfest
-[![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
-[![github-alt][github-img]](https://github.com/benocd)
+- [![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
+  [![github-alt][github-img]](https://github.com/benocd)
 
 ### duongoku
 - I'm a student and I'm in last year of highschool.
@@ -95,6 +95,10 @@ Start adding your names here:
 - I also like listening to music and playing games.
 - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
   [![github-alt][github-img]](https://github.com/duongoku)
+
+### Dushyant
+- Software Developer and a ML enthusiast.
+- [![github-alt][github-img]](https://github.com/dushyantRathore)
 
 ### gursimran
 - I am a young developer in india
