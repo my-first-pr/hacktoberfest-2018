@@ -207,6 +207,14 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+  
+### Jay Vasant
+- Python enthusiast.
+- My hobbies include:
+	- Competitive Programming
+	- Reading and Writing Blogs
+- [![twitter-alt][twitter-img]](https://twitter.com/jayvasantjv)
+  [![github-alt][github-img]](https://github.com/jayvasantjv)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
