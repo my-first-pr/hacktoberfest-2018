@@ -365,6 +365,13 @@ Start adding your names here:
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Brian Burress
+- I'm Brian Burress, IT consultant with The Byte Stuff
+- Currently learning to program under Adruino IDE as well as design simple circuits
+- [![github-alt][github-img]](https://github.com/TheByteStuff )
+  [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
+
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
