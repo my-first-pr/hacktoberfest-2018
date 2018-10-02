@@ -327,6 +327,15 @@ Start adding your names here:
 - Lover of programming, drums, cars, ping-pong and anime.
 - [![github-alt][github-img]](https://github.com/costassolla)
 
+### Banso D. Wisdom
+- Software Engineer, Gamer and Machine Learning Enthusiast
+- Hobbies:
+  - Programming
+  - Gaming
+  - Netflix
+- Works with .NET, .NET Core, Ionic and Angular
+- [![github-alt][github-img]](https://github.com/Overrideveloper)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
