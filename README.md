@@ -95,6 +95,10 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
   [![github-alt][github-img]](https://github.com/duongoku)
 
+### Dushyant
+- Software Developer and a ML enthusiast.
+[![github-alt][github-img]](https://github.com/dushyantRathore)
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
