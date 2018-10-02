@@ -1,4 +1,4 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -183,6 +183,13 @@ Start adding your names here:
 - I like Java and Python.
 - I am looking foward learning Django.
 - [![github-alt][github-img]](https://github.com/igcigc)
+
+### Izabela Cardozo
+- I'm a Brazilian Electrical Engineer studant and Friends lover, by the way, How u doin'? ;)
+- My hobbies include:
+	- Watch spanish TV shows (please watch Gran Hotel);
+	- Listen music.
+- [![twitter-alt][twitter-img]](https://twitter.com/izabela963)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
