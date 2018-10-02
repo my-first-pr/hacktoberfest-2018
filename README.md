@@ -21,6 +21,7 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+
 ### Aditya Choudhary
 - Software Engineer in India
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
@@ -55,7 +56,7 @@ Start adding your names here:
 
 ### Anshima Chaudhary
 - I'm a contributor :)
-- I study CS 
+- I study CS
 - My hobbies include coding, debating and dancing
 - [![github-alt][github-img]](https://github.com/anshima1)
 
@@ -87,7 +88,7 @@ Start adding your names here:
 - First time participating in Hacktoberfest
 - [![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
   [![github-alt][github-img]](https://github.com/benocd)
-  
+
 ### duongoku
 - I'm a student and I'm in last year of highschool.
 - I'm interested in competitive programming, physics, calculus and tech stuff.
@@ -117,7 +118,7 @@ Start adding your names here:
 - I am a 25-year-old from the United States of America, and I recently moved with my husband to Barcelona, Spain.
 - As part of the move I have decided to pursue coding as a new career!
 - I am working toward a junior-level position doing front-end work with HTML, CSS, JavaScript, and React.
-- My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye: 
+- My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye:
 - [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
   [![github-alt][github-img]](https://github.com/jillianandersonslate)
 
@@ -125,6 +126,12 @@ Start adding your names here:
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
 - [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
   [![github-alt][github-img]](https://github.com/karengeerts)
+
+### Kundan Kumar
+- I am a high school graduate.
+- I love AI, programming and web development.
+- I love playing and making games.
+- [![github-alt][github-img]](https://github.com/kundan28)
 
 ### Luke Oliff
 - Technical Writer working for @auth0
@@ -174,6 +181,12 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
   [![github-alt][github-img]](https://github.com/suvink)
 
+### Tom Davis
+- IT Manager in The United States
+- [![twitter-alt][twitter-img]](https://twitter.com/kat35601)
+- [![github-alt][github-img]](https://github.com/kat35601)
+- I am an old computer guy wanting to learn new things
+
 ### Utkarsh Kunwar
 - Fourth year student in Mechanical Engineering.
 - [![github-alt][github-img]](https://github.com/UtkarshKunwar)
@@ -211,6 +224,35 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+
+### Dmytro Litvinov
+- Full Stack Python develop from Ukraine :snake:
+- [My website](https://DmytroLitvinov.com)
+- [![twitter-alt][twitter-img]](https://twitter.com/Dmytro_Litvinov)
+  [![github-alt][github-img]](https://github.com/DmytroLitvinov)
+
+### Vishal Anand
+- Student
+- Programmer
+- Cricketer
+- Painter
+  [![github-alt][github-img]](https://github.com/Vishal1541)
+
+### Jay Vasant
+- Python enthusiast.
+- My hobbies include:
+	- Competitive Programming
+	- Reading and Writing Blogs
+- [![twitter-alt][twitter-img]](https://twitter.com/jayvasantjv)
+  [![github-alt][github-img]](https://github.com/jayvasantjv)
+
+### Alexandre Pereira Santos
+- Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
+- Programmer at Stefanini - Working with Test Autamatization
+- Passionate about Technologies - Java, Ruby, C, C ++, C #, Ruby and Python
+- [![twitter-alt][twitter-img]](https://twitter.com/alexEndrios)
+- [![facebook-alt][facebook-img]](https://facebook.com/alex.endrios)
+- [![github-alt][github-img]](https://github.com/alexendrios)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
