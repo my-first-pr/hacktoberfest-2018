@@ -99,6 +99,13 @@ Start adding your names here:
 - I also like listening to music and playing games.
 - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
   [![github-alt][github-img]](https://github.com/duongoku)
+ 
+ ### festusdrakon
+- Interested in figuring out how to turn Data into Information, primarily to improve customer experiences on the web.
+- Permission Marketing FTW! (Just **never** at the cost of privacy invasion.)
+- I share as I learn at [DIY DS](https://www.instagram.com/dodsyourself/) and [DIY CS](https://www.instagram.com/docsyourself/) on instagram.
+- Started from the bottom, now we here:
+  [![github-alt][github-img]](https://github.com/festusdrakon)
 
 ### Dushyant
 - Software Developer and a ML enthusiast.
@@ -173,6 +180,7 @@ Start adding your names here:
   - Gastronomy
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
+  
 
 ### Shubham Nishad
 - Fourth year student in Computer Science.
