@@ -77,6 +77,12 @@ Start adding your names here:
 - My hobbies include coding, debating and dancing
 - [![github-alt][github-img]](https://github.com/anshima1)
 
+### Srishty Mittal
+- I'm a contributor and web developer
+- I study Electronics and Communication Engineering
+- My hobbies include coding, debating and acting
+- [![github-alt][github-img]](https://github.com/MittalS211)
+
 ### Anush93
 - I am a young developer in Sri Lanka
 - I'm currently a undergraduate
