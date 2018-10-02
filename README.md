@@ -184,6 +184,11 @@ Start adding your names here:
 - I am looking foward learning Django.
 - [![github-alt][github-img]](https://github.com/igcigc)
 
+### Nievas Martin
+- I'm an Electronic Engineer from Argentina.
+- Currently pursuing a PhD scholarship.
+  [![github-alt][github-img]](https://github.com/MartinNievas)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
