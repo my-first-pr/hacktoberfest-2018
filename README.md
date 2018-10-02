@@ -81,6 +81,13 @@ Start adding your names here:
   - ~~Having a social life~~
 - [![github-alt][github-img]](https://github.com/BenTechy66)
 
+### BenoCD
+- Final Year Computer Engineering student from Concepción, Chile
+- Raspberry Pi Enthusiast
+- First time participating in Hacktoberfest
+[![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
+[![github-alt][github-img]](https://github.com/benocd)
+  
 ### duongoku
 - I'm a student and I'm in last year of highschool.
 - I'm interested in competitive programming, physics, calculus and tech stuff.
