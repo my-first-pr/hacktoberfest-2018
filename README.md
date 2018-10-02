@@ -81,6 +81,13 @@ Start adding your names here:
   - ~~Having a social life~~
 - [![github-alt][github-img]](https://github.com/BenTechy66)
 
+### BenoCD
+- Final Year Computer Engineering student from Concepción, Chile
+- Raspberry Pi Enthusiast
+- First time participating in Hacktoberfest
+[![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
+[![github-alt][github-img]](https://github.com/benocd)
+  
 ### duongoku
 - I'm a student and I'm in last year of highschool.
 - I'm interested in competitive programming, physics, calculus and tech stuff.
@@ -188,6 +195,18 @@ Start adding your names here:
 - I'm an Electronic Engineer from Argentina.
 - Currently pursuing a PhD scholarship.
   [![github-alt][github-img]](https://github.com/MartinNievas)
+
+### Izabela Cardozo
+- I'm a Brazilian Electrical Engineer studant and Friends lover, by the way, How u doin'? ;)
+- My hobbies include:
+	- Watch spanish TV shows (please watch Gran Hotel);
+	- Listen music.
+- [![twitter-alt][twitter-img]](https://twitter.com/izabela963)
+
+### Francisco Nievas (frannievas)
+- Computer science student
+- Nerd, geek, gamer, I love TLoK
+  [![github-alt][github-img]](https://github.com/frannievas)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
