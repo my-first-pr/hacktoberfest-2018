@@ -354,6 +354,12 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/WitchScript)
   [![github-alt][github-img]](https://github.com/LaurenReilly)
 
+### Vidushi Jain
+- I'm a computer science student
+- Interested in app development
+- I love coding.
+- [![github-alt][github-img]](https://github.com/VidushiJain30)
+
 ### Petri-Johan Last
 - I'm an Electronic Engineer and busy with a Masters degree in Machine Learning
 - Currently learning the Rust programming language
