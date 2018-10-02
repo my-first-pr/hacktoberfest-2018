@@ -383,9 +383,9 @@ Start adding your names here:
 - [![github-alt][github-img]](https://github.com/utsha1510)
 
 ### Ben C.
--A high school student who is a beginner at code.
--I like to code and play games.
--[![github-alt][github-img]](https://github.com/yopamuhanu)
+- A high school student who is a beginner at code.
+- I like to code and play games.
+- [![github-alt][github-img]](https://github.com/yopamuhanu)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
