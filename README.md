@@ -207,6 +207,11 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+  
+### Naufal Yudhistira
+- Ordinary student.
+- Like to play with cats.
+- [![github-alt][github-img]](https://github.com/yudhst)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -218,6 +223,7 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
+  
 
 ## How to Contribute
 
