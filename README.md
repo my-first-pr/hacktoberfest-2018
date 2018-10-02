@@ -365,6 +365,12 @@ Start adding your names here:
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Helus
+- I'm a mathematics student.
+- I'm interested in data science.
+- My hobbies include gaming and listening to classical music.
+- [![github-alt][github-img]](https://github.com/example)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
