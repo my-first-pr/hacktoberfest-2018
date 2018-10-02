@@ -208,6 +208,13 @@ Start adding your names here:
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
 
+### Vishal Anand
+- Student
+- Programmer
+- Cricketer
+- Painter
+  [![github-alt][github-img]](https://github.com/Vishal1541)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
