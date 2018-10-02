@@ -207,6 +207,14 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+  
+### Alexandre Pereira Santos
+- Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
+- Programmer at Stefanini - Working with Test Autamatization
+- Passionate about Technologies - Java, Ruby, C, C ++, C #, Ruby and Python
+- [![twitter-alt][twitter-img]](https://twitter.com/alexEndrios)
+- [![facebook-alt][facebook-img]](https://facebook.com/alex.endrios)
+- [![github-alt][github-img]](https://github.com/alexendrios)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
