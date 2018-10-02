@@ -21,6 +21,14 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### BenTechy66
+- I am a young developer in India interested in c++,html/css,java(android).
+- I'm currently a computer science student!
+- My hobbies include:
+  - Coding
+  - Gaming
+- [![github-alt][github-img]](https://github.com/singhbir)
+
 ### Hafpaf
 - Software student
 - Small electronics enthutiast.
