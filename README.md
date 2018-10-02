@@ -21,6 +21,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Aditya Kolsur
+- I'm a 3rd year student.
+- I am a web developer.
+- [![github-alt][github-img]](https://github.com/adikolsur)
+
 ### Bir Singh
 - I am a young developer in India interested in c++,html/css,java(android).
 - I'm currently a computer science student!
