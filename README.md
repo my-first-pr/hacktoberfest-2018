@@ -210,7 +210,7 @@ Start adding your names here:
 
 ### Dmytro Litvinov
 - Full Stack Python develop from Ukraine :snake:
-- [!My website](https://DmytroLitvinov.com)
+- [My website](https://DmytroLitvinov.com)
 - [![twitter-alt][twitter-img]](https://twitter.com/Dmytro_Litvinov)
   [![github-alt][github-img]](https://github.com/DmytroLitvinov)
 
