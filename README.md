@@ -382,7 +382,7 @@ Start adding your names here:
 - :heart: for tech and passionate about how it influences our everyday lives
 - [![github-alt][github-img]](https://github.com/utsha1510)
 
-### My Name
+### slouch
 - Linux Systems Administrator turning DevOps person
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
