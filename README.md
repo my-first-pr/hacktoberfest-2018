@@ -354,6 +354,11 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/WitchScript)
   [![github-alt][github-img]](https://github.com/LaurenReilly)
 
+### Petri-Johan Last
+- I'm an Electronic Engineer and busy with a Masters degree in Machine Learning
+- Currently learning the Rust programming language
+- [![github-alt][github-img]](https://github.com/GuineaPiet)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
