@@ -367,7 +367,7 @@ Start adding your names here:
 
 ### Utsha Sinha
 - I'm an Information Technology third year student
-- Passionate about tech and how it influences our everyday live :heart:
+- :heart: for tech and passionate about how it influences our everyday lives
 - [![github-alt][github-img]](https://github.com/utsha1510)
 
 ### Example Profile
