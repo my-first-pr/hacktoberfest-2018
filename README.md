@@ -360,6 +360,11 @@ Start adding your names here:
 - I love coding.
 - [![github-alt][github-img]](https://github.com/VidushiJain30)
 
+### Petri-Johan Last
+- I'm an Electronic Engineer and busy with a Masters degree in Machine Learning
+- Currently learning the Rust programming language
+- [![github-alt][github-img]](https://github.com/GuineaPiet)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
