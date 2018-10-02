@@ -354,6 +354,12 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/WitchScript)
   [![github-alt][github-img]](https://github.com/LaurenReilly)
 
+### Vidushi Jain
+- I'm a computer science student
+- Interested in app development
+- I love coding.
+- [![github-alt][github-img]](https://github.com/VidushiJain30)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
