@@ -111,6 +111,11 @@ Start adding your names here:
 - Software Developer and a ML enthusiast.
 - [![github-alt][github-img]](https://github.com/dushyantRathore)
 
+### Danil Shankovskiy
+- I'm a student from Ukraine
+- Interested in Python, Django
+- [![github-alt][github-img]](https://github.com/BeAsYit)
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
