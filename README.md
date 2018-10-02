@@ -272,6 +272,12 @@ Start adding your names here:
   [![facebook-alt][facebook-img]](https://facebook.com/alex.endrios)
   [![github-alt][github-img]](https://github.com/alexendrios)
 
+### Elijah Rwothoromo
+- Software Developer
+- I love movies, poetry and hangouts.
+- [![twitter-alt][twitter-img]](https://twitter.com/rwothoromo)
+  [![github-alt][github-img]](https://github.com/rwothoromo)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
