@@ -336,6 +336,13 @@ Start adding your names here:
 - Works with .NET, .NET Core, Ionic and Angular
 - [![github-alt][github-img]](https://github.com/Overrideveloper)
 
+### Lauren Reilly
+- I'm a cat loving underwater gardener
+- Currently studying web development at a coding bootcamp
+- I love gaming and hope to become a game dev!
+- [![twitter-alt][twitter-img]](https://twitter.com/WitchScript)
+- [![github-alt][github-img]](https://github.com/LaurenReilly)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
