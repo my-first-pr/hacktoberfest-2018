@@ -180,7 +180,14 @@ Start adding your names here:
   - Gastronomy
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
-  
+
+### Rohit Swami
+- Data Science Aspirant
+- I love Python :heart:
+- Connect with me on social media platform
+- [![twitter-alt][twitter-img]](https://twitter.com/rowhitswami)
+  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)		
+  [![github-alt][github-img]](https://github.com/rowhitswami)
 
 ### Shubham Nishad
 - Fourth year student in Computer Science.
