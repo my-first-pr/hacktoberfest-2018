@@ -414,6 +414,12 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Darshan G
+- Computer Science student
+- Some of my hobbies include photography, math, writing code, video games and writing letters 
+- [![instagram-alt][instagram-img]](https://www.instagram.com/darsh4n/)
+  [![github-alt][github-img]](https://github.com/darshan934)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
