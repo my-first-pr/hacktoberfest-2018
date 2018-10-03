@@ -414,6 +414,12 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Shivani Gupta
+- I'm a computer science student.
+- I am Interested in Web Development.
+- I love designing frontend Webpages and Coding.
+- [![github-alt][github-img]](https://github.com/Gshivani1234)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
