@@ -57,6 +57,13 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
   [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
 
+### Celso Uliana
+- Last year student.
+- Perl and Node enthusiastic.
+- Regex, automating and graphs.
+- [![github-alt][github-img]](https://github.com/CelsoUliana)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100009599017240&ref=bookmarks)
+
 ### Alok Rajasukumaran
 - AI Architect by profession
 - [!Know more at](https://alokraj68.in)
