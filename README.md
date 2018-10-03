@@ -239,8 +239,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in figuring out how to turn Data into Information, primarily to improve customer experiences on the web.
 - Permission Marketing FTW! (Just **never** at the cost of privacy invasion.)
 - I share as I learn at [DIY DS](https://www.instagram.com/dodsyourself/) and [DIY CS](https://www.instagram.com/docsyourself/) on instagram.
-- Started from the bottom, now we here:
-[![github-alt][github-img]](https://github.com/festusdrakon)
+- Started from the bottom, now we here: [![github-alt][github-img]](https://github.com/festusdrakon)
 
 ### Francisco Nievas (frannievas)
 - Computer science student
@@ -266,11 +265,17 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies include gaming and listening to classical music.
 - [![github-alt][github-img]](https://github.com/example)
 
+### Himanshu Aggarwal (@haggcoder)
+- 3rd year CS undergraduate at Delhi Technological University
+- Microsoft Student Partner
+- [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100014377755202)
+  [![github-alt][github-img]](https://github.com/haggcoder)
+
 ### Himanshu Nailwal
 - I'm pursuing my post graduation.
 - I am an aspiring Data Scientist.
 - [![github-alt][github-img]](https://github.com/ryokugyu)
-- [![twitter-alt][twitter-img]](https://twitter.com/ryokugyu_)
+  [![twitter-alt][twitter-img]](https://twitter.com/ryokugyu_)
 
 # I
 
