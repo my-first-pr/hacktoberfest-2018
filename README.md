@@ -82,6 +82,11 @@ Start adding your names here:
 - My hobbies include coding, debating and dancing
 - [![github-alt][github-img]](https://github.com/anshima1)
 
+### thilna
+- I am a web developer.
+- I like to listen to music while I code.
+
+
 ### Srishty Mittal
 - I'm a contributor and web developer
 - I study Electronics and Communication Engineering
