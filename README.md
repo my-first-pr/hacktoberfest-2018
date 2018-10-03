@@ -419,7 +419,7 @@ Start adding your names here:
 - Shares a great deal of passion for electronics and aeronautics as well.
 - Slowly immersing myself into the world of Information Technology
 - [![facebook-alt][facebook-img]](https://facebook.com/shoumik.shonai)
-- [![github-alt][github-img]](https://github.com/shoumikdey)
+  [![github-alt][github-img]](https://github.com/shoumikdey)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
