@@ -479,6 +479,11 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Karthik Raja T.
+- A full stack developer.
+- I like to code and build applications.
+- [![github-alt][github-img]](https://github.com/Karthik-0)
+
 ### Ravi Thella
 - React Developer
 - Hobbies:
