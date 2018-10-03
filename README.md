@@ -387,6 +387,11 @@ Start adding your names here:
 - :heart: for tech and passionate about how it influences our everyday lives
 - [![github-alt][github-img]](https://github.com/utsha1510)
 
+### Sho Tozuro
+- Frontend Developer
+- :heart: javascript enthusiast
+- [![github-alt][github-img]](https://github.com/shotozuro)
+
 ### Reesea
 - I'm an MBA student
 - Hobbies:
