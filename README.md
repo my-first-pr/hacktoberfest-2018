@@ -1,4 +1,4 @@
-﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -25,7 +25,7 @@ Start adding your names here:
 - Software Engineer in NZ
 - [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
   [![github-alt][github-img]](https://github.com/gitruili)
-  
+
 ### Aditya Kolsur
 - I'm a 3rd year student.
 - I am a web developer.
@@ -57,6 +57,13 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
   [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
 
+### Celso Uliana
+- Last year student.
+- Perl and Node enthusiastic.
+- Regex, automating and graphs.
+- [![github-alt][github-img]](https://github.com/CelsoUliana)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100009599017240&ref=bookmarks)
+
 ### Alok Rajasukumaran
 - AI Architect by profession
 - [!Know more at](https://alokraj68.in)
@@ -70,52 +77,108 @@ Start adding your names here:
 - [![facebook-alt][facebook-img]](https://www.facebook.com/ac.ananya)
   [![github-alt][github-img]](https://github.com/ananya1304)
 
-### Anastasis Xouzafeiris (aka anksos)
-- I am a VMware engineer
-- I'm currently working as a Virtualization Specialist
-- [![twitter-alt][twitter-img]](https://twitter.com/ankso)
-  [![github-alt][github-img]](https://github.com/anksos)
-
-### Anshima Chaudhary
-- I'm a contributor :)
-- I study CS
-- My hobbies include coding, debating and dancing
-- [![github-alt][github-img]](https://github.com/anshima1)
-
-### Srishty Mittal
-- I'm a contributor and web developer
-- I study Electronics and Communication Engineering
-- My hobbies include coding, debating and acting
-- [![github-alt][github-img]](https://github.com/MittalS211)
-
 ### Anush93
-- I am a young developer in Sri Lanka
-- I'm currently a undergraduate
-- My hobbies include:
-  - Coding
-  - Gaming
-  - Nature Photography
-- [![github-alt][github-img]](https://github.com/Anush93)
+  - I am a young developer in Sri Lanka
+  - I'm currently a undergraduate
+  - My hobbies include:
+    - Coding
+    - Gaming
+    - Nature Photography
+  - [![github-alt][github-img]](https://github.com/Anush93)
 
-### Arjun Rajpal
-- Software Engineer and a ML Enthusiast
-- [![github-alt][github-img]](https://github.com/arjunrajpal)
+### Lincoln Anders
+- 1st year CS major at Georgia Tech
+- MERN full stack, primary interest in backend APIs
+- Node.js, Java, Bash, Swift
+- [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
+  [![github-alt][github-img]](https://github.com/lincolnanders5)
 
 ### BenTechy66
-- I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
-- I'm currently a student!
-- My hobbies include:
-  - Coding
-  - Gaming
-  - ~~Having a social life~~
-- [![github-alt][github-img]](https://github.com/BenTechy66)
+  - I am a young developer in England interested in node.js, python, C, and front-end web development frameworks
+  - I'm currently a student!
+  - My hobbies include:
+    - Coding
+    - Gaming
+    - ~~Having a social life~~
+  - [![github-alt][github-img]](https://github.com/BenTechy66)
 
 ### BenoCD
-- Final Year Computer Engineering student from Concepción, Chile
-- Raspberry Pi Enthusiast
-- First time participating in Hacktoberfest
-- [![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
-  [![github-alt][github-img]](https://github.com/benocd)
+  - Final Year Computer Engineering student from Concepción, Chile
+  - Raspberry Pi Enthusiast
+  - First time participating in Hacktoberfest
+  - [![twitter-alt][twitter-img]](https://twitter.com/beno_cd)
+    [![github-alt][github-img]](https://github.com/benocd)
+
+### Anshima Chaudhary
+  - I'm a contributor :)
+  - I study CS
+  - My hobbies include coding, debating and dancing
+  - [![github-alt][github-img]](https://github.com/anshima1)
+
+### Aditya Choudhary
+  - Software Engineer in India
+  - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
+    [![github-alt][github-img]](https://github.com/adich23)
+
+### duongoku
+  - I'm a student and I'm in last year of highschool.
+  - I'm interested in competitive programming, physics, calculus and tech stuff.
+  - I also like listening to music and playing games.
+  - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
+    [![github-alt][github-img]](https://github.com/duongoku)
+
+### Dushyant
+  - Software Developer and a ML enthusiast.
+  - [![github-alt][github-img]](https://github.com/dushyantRathore)
+
+### festusdrakon
+  - Interested in figuring out how to turn Data into Information, primarily to improve customer experiences on the web.
+  - Permission Marketing FTW! (Just **never** at the cost of privacy invasion.)
+  - I share as I learn at [DIY DS](https://www.instagram.com/dodsyourself/) and [DIY CS](https://www.instagram.com/docsyourself/) on instagram.
+  - Started from the bottom, now we here:
+    [![github-alt][github-img]](https://github.com/festusdrakon)
+
+### Hafpaf
+  - Software student
+  - Small electronics enthutiast.
+  - [![github-alt][github-img]](https://github.com/hafpaf)
+
+### Rui Li
+- Software Engineer in NZ
+- [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
+  [![github-alt][github-img]](https://github.com/gitruili)
+
+### Srishty Mittal
+  - I'm a contributor and web developer
+  - I study Electronics and Communication Engineering
+  - My hobbies include coding, debating and acting
+  - [![github-alt][github-img]](https://github.com/MittalS211)
+
+### Alok Rajasukumaran
+  - AI Architect by profession
+  - [!Know more at](https://alokraj68.in)
+  - [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
+    [![github-alt][github-img]](https://github.com/alokraj68)
+
+### Arjun Rajpal
+  - Software Engineer and a ML Enthusiast
+  - [![github-alt][github-img]](https://github.com/arjunrajpal)
+
+### Bir Singh
+  - I am a young developer in India interested in c++,html/css,java(android).
+  - I'm currently a computer science student!
+  - My hobbies include:
+    - Coding
+    - Gaming
+  - [![github-alt][github-img]](https://github.com/singhbir)
+
+### Akshay N Shaju
+  - Software Developer From India.🇧
+  - Hobbies:
+    - Coding
+    - Gaming
+  - [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
+    [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
 
 ### duongoku
 - I'm a student and I'm in last year of highschool.
@@ -123,7 +186,7 @@ Start adding your names here:
 - I also like listening to music and playing games.
 - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
   [![github-alt][github-img]](https://github.com/duongoku)
- 
+
  ### festusdrakon
 - Interested in figuring out how to turn Data into Information, primarily to improve customer experiences on the web.
 - Permission Marketing FTW! (Just **never** at the cost of privacy invasion.)
@@ -131,9 +194,11 @@ Start adding your names here:
 - Started from the bottom, now we here:
   [![github-alt][github-img]](https://github.com/festusdrakon)
 
-### Dushyant
-- Software Developer and a ML enthusiast.
-- [![github-alt][github-img]](https://github.com/dushyantRathore)
+### Anastasis Xouzafeiris (aka anksos)
+- I am a VMware engineer
+- I'm currently working as a Virtualization Specialist
+- [![twitter-alt][twitter-img]](https://twitter.com/ankso)
+  [![github-alt][github-img]](https://github.com/anksos)
 
 ### Danil Shankovskiy
 - I'm a student from Ukraine
@@ -215,7 +280,7 @@ Start adding your names here:
 - I love Python :heart:
 - Connect with me on social media platform
 - [![twitter-alt][twitter-img]](https://twitter.com/rowhitswami)
-  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)		
+  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)
   [![github-alt][github-img]](https://github.com/rowhitswami)
 
 ### Shubham Nishad
@@ -278,7 +343,7 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
 - [![github-alt][github-img]](https://github.com/frannievas)
-  
+
 ### Naufal Yudhistira
 - Ordinary student.
 - Like to play with cats.
@@ -414,11 +479,17 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
-
 ### Karthik Raja T.
 - A full stack developer.
 - I like to code and build applications.
 - [![github-alt][github-img]](https://github.com/Karthik-0)
+
+### Ravi Thella
+- React Developer
+- Hobbies:
+  - Programming
+  - Watching Tennis
+- [![github-alt][github-img]](https://github.com/ravikishorethella)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -430,7 +501,7 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
+
 
 ## How to Contribute
 
