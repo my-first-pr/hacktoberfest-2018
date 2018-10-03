@@ -21,6 +21,55 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Rui Li
+- Software Engineer in NZ
+- [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
+  [![github-alt][github-img]](https://github.com/gitruili)
+
+### Aditya Kolsur
+- I'm a 3rd year student.
+- I am a web developer.
+- [![github-alt][github-img]](https://github.com/adikolsur)
+
+### Bir Singh
+- I am a young developer in India interested in c++,html/css,java(android).
+- I'm currently a computer science student!
+- My hobbies include:
+  - Coding
+  - Gaming
+- [![github-alt][github-img]](https://github.com/singhbir)
+
+### Hafpaf
+- Software student
+- Small electronics enthutiast.
+- [![github-alt][github-img]](https://github.com/hafpaf)
+
+### Aditya Choudhary
+- Software Engineer in India
+- [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
+  [![github-alt][github-img]](https://github.com/adich23)
+
+### Akshay N Shaju
+- Software Developer From India.🇧
+- Hobbies:
+  - Coding
+  - Gaming
+- [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
+  [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
+
+### Celso Uliana
+- Last year student.
+- Perl and Node enthusiastic.
+- Regex, automating and graphs.
+- [![github-alt][github-img]](https://github.com/CelsoUliana)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100009599017240&ref=bookmarks)
+
+### Alok Rajasukumaran
+- AI Architect by profession
+- [!Know more at](https://alokraj68.in)
+- [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
+  [![github-alt][github-img]](https://github.com/alokraj68)
+
 ### Ananya
 - I'm a junior year student.
 - I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
@@ -131,6 +180,20 @@ Start adding your names here:
   - [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
     [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
 
+### duongoku
+- I'm a student and I'm in last year of highschool.
+- I'm interested in competitive programming, physics, calculus and tech stuff.
+- I also like listening to music and playing games.
+- [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
+  [![github-alt][github-img]](https://github.com/duongoku)
+
+ ### festusdrakon
+- Interested in figuring out how to turn Data into Information, primarily to improve customer experiences on the web.
+- Permission Marketing FTW! (Just **never** at the cost of privacy invasion.)
+- I share as I learn at [DIY DS](https://www.instagram.com/dodsyourself/) and [DIY CS](https://www.instagram.com/docsyourself/) on instagram.
+- Started from the bottom, now we here:
+  [![github-alt][github-img]](https://github.com/festusdrakon)
+
 ### Anastasis Xouzafeiris (aka anksos)
 - I am a VMware engineer
 - I'm currently working as a Virtualization Specialist
@@ -217,7 +280,7 @@ Start adding your names here:
 - I love Python :heart:
 - Connect with me on social media platform
 - [![twitter-alt][twitter-img]](https://twitter.com/rowhitswami)
-  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)		
+  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)
   [![github-alt][github-img]](https://github.com/rowhitswami)
 
 ### Shubham Nishad
@@ -280,7 +343,7 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
 - [![github-alt][github-img]](https://github.com/frannievas)
-  
+
 ### Naufal Yudhistira
 - Ordinary student.
 - Like to play with cats.
@@ -416,6 +479,13 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Ravi Thella
+- React Developer
+- Hobbies:
+  - Programming
+  - Watching Tennis
+- [![github-alt][github-img]](https://github.com/ravikishorethella)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
@@ -426,7 +496,7 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
+
 
 ## How to Contribute
 
