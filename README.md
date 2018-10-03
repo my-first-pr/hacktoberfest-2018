@@ -366,7 +366,7 @@ Start adding your names here:
 - I prefer the computer kind
 - and cats.
 - [![github-alt][github-img]](https://github.com/jcbrown602)
-  ![Alt text](imgs/freecodecamp.png)
+  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/jcbrown602)
   
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -378,6 +378,7 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
+  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/example)
   
 
 ## How to Contribute
