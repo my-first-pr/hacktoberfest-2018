@@ -25,7 +25,7 @@ Start adding your names here:
 - Software Engineer in NZ
 - [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
   [![github-alt][github-img]](https://github.com/gitruili)
-  
+
 ### Aditya Kolsur
 - I'm a 3rd year student.
 - I am a web developer.
@@ -123,7 +123,7 @@ Start adding your names here:
 - I also like listening to music and playing games.
 - [![twitter-alt][twitter-img]](https://twitter.com/duongoku)
   [![github-alt][github-img]](https://github.com/duongoku)
- 
+
  ### festusdrakon
 - Interested in figuring out how to turn Data into Information, primarily to improve customer experiences on the web.
 - Permission Marketing FTW! (Just **never** at the cost of privacy invasion.)
@@ -215,7 +215,7 @@ Start adding your names here:
 - I love Python :heart:
 - Connect with me on social media platform
 - [![twitter-alt][twitter-img]](https://twitter.com/rowhitswami)
-  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)		
+  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)
   [![github-alt][github-img]](https://github.com/rowhitswami)
 
 ### Shubham Nishad
@@ -278,7 +278,7 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
 - [![github-alt][github-img]](https://github.com/frannievas)
-  
+
 ### Naufal Yudhistira
 - Ordinary student.
 - Like to play with cats.
@@ -414,6 +414,13 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Ravi Thella
+- React Developer
+- Hobbies:
+  - Programming
+  - Watching Tennis
+- [![github-alt][github-img]](https://github.com/ravikishorethella)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
@@ -424,7 +431,7 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
+
 
 ## How to Contribute
 
