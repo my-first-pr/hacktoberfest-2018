@@ -414,6 +414,12 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Ben Mort
+- New to code but want to learn a lot 
+- love games and league of legends 
+- [![twitter-alt][twitter-img]](https://twitter.com/Ben_Aaron_Mort)
+  [![github-alt][github-img]](https://github.com/jmort125)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
