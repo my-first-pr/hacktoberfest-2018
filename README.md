@@ -104,11 +104,6 @@ Start adding your names here:
   - My hobbies include coding, debating and dancing
   - [![github-alt][github-img]](https://github.com/anshima1)
 
-### Aditya Choudhary
-  - Software Engineer in India
-  - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
-    [![github-alt][github-img]](https://github.com/adich23)
-
 ### Anush93
 - I am a young developer in Sri Lanka
 - I'm currently a undergraduate
@@ -117,6 +112,11 @@ Start adding your names here:
   - Gaming
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/Anush93)
+
+### Ardin
+- Software Engineer from Indonesia
+- I solve problem and make stuff
+- [![github-alt][github-img]](https://github.com/muhtarudinsiregar/)
 
 ### Arjun Rajpal
   - Software Engineer and a ML Enthusiast
