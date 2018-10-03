@@ -460,6 +460,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # S
 
+### Shiven S.
+- I'm a web developer and a high school student.
+- I do freelance projects and involve myself in internships.
+- [![twitter-alt][twitter-img]](https://twitter.com/sinha_shiven)
+  [![github-alt][github-img]](https://github.com/shivensinha4)
+
 ### Sho Tozuro
 - Frontend Developer
 - :heart: javascript enthusiast
