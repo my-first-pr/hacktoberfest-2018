@@ -414,6 +414,11 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Kamal Iqlaas
+- Pursuing Master in Business Intelligence and Data Analytics
+- Love tech, learn tech, use tech, teach tech.
+- [![github-alt][github-img]](https://github.com/Iqlaas)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
