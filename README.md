@@ -414,16 +414,10 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
-### Example Profile
-- I'm an example that you can copy, if you want :)
-- I work for...
-- My hobbies include...
-- [![twitter-alt][twitter-img]](https://twitter.com/example)
-  [![facebook-alt][facebook-img]](https://facebook.com/example)
-  [![google-img][google-img]](https://plus.google.com/+Example)
-  [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
-  [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
-  [![github-alt][github-img]](https://github.com/example)
+### Nabheet Madan
+- I'm a SAP Technical Consultant interested in #Technical stuff.
+- I like to code
+- [![twitter-alt][twitter-img]](https://twitter.com/nabheet)
   
 
 ## How to Contribute
