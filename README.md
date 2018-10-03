@@ -320,6 +320,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/WitchScript)
   [![github-alt][github-img]](https://github.com/LaurenReilly)
 
+### LemonPepsi
+- Electrical engineering student
+- A fair bit rusty in coding, hope to get back into it
+
 ### Lincoln Anders
 - 1st year CS major at Georgia Tech
 - MERN full stack, primary interest in backend APIs
