@@ -392,6 +392,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Pritish Thakkar
+- I'm an undergraduate from Punjab engineering college
+- My favourite programming language is C++ and I'm a sport programmer.
+- [![github-alt][github-img]](https://github.com/ma5terdrag0n)
+
 # Q
 
 # R
