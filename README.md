@@ -378,6 +378,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
 
+### Luis Chaglla
+- Software Engineer in Spain
+- [![github-alt][github-img]](https://github.com/lchaglla)
+
 ### Luke Oliff
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
