@@ -29,7 +29,8 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
+  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/example)
+
 ## How to Contribute
 
 Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request.
@@ -308,6 +309,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love robotics, programming, and web-development.
 - I also like playing the cello, watching shows on Netflix, and cooking.
 - [![github-alt][github-img]](https://github.com/janicek1m)
+
+### Jason
+- AI/ML enthusiast
+- High-functioning Autistic
+- I love languages, both the people kind and the computer kind
+- I prefer the computer kind
+- and cats.
+- [![github-alt][github-img]](https://github.com/jcbrown602)
+  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/jcbrown602)
 
 ### Jay Vasant
 - Python enthusiast.
