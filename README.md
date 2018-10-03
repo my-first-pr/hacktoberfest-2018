@@ -402,12 +402,18 @@ Start adding your names here:
 
 ### CohheeTime
 - I built my first website in 1999
-  [![github-alt][github-img]](https://github.com/CohheeTime)
+ -[![github-alt][github-img]](https://github.com/CohheeTime)
 
 ### Ben C.
 - A high school student who is a beginner at code.
 - I like to code and play games.
 - [![github-alt][github-img]](https://github.com/yopamuhanu)
+
+### Himanshu Nailwal
+- I'm pursuing my post graduation.
+- I am an aspiring Data Scientist.
+- [![github-alt][github-img]](https://github.com/ryokugyu)
+- [![twitter-alt][twitter-img]](https://twitter.com/ryokugyu_)
 
 ### slouch
 - Linux Systems Administrator turning DevOps person
