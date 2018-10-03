@@ -382,6 +382,14 @@ Start adding your names here:
 - :heart: for tech and passionate about how it influences our everyday lives
 - [![github-alt][github-img]](https://github.com/utsha1510)
 
+### Reesea
+- I'm an MBA student
+- Hobbies:
+  - Coding
+  - Learning
+- [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
+  [![github-alt][github-img]](https://github.com/reesea)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
