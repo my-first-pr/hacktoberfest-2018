@@ -397,6 +397,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
 
+### Md Shahbaz Alam 
+- I'm a Full Stack Developer, Technical Evangelist and Open Source enthusiast.
+- I like to speak at conferences, events and meet-ups.
+- [![twitter-alt][twitter-img]](https://twitter.com/mdsbzalam)
+  [![github-alt][github-img]](https://github.com/shahbaz17)
+
 # N
 
 ### Nikhil Singh
