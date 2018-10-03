@@ -359,6 +359,11 @@ Start adding your names here:
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### My Name
+- Description about me
+- [![github-alt][github-img]](https://github.com/jcbrown602)
+- ![freeCodeCamp](https://imgur.com/mFClFSE)
+  
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
