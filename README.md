@@ -140,6 +140,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like to code and play games.
 - [![github-alt][github-img]](https://github.com/yopamuhanu)
 
+### Ben Mort
+- New to code but want to learn a lot 
+- love games and league of legends 
+- [![twitter-alt][twitter-img]](https://twitter.com/Ben_Aaron_Mort)
+  [![github-alt][github-img]](https://github.com/jmort125)
+
 ### BenoCD
 - Final Year Computer Engineering student from Concepción, Chile
 - Raspberry Pi Enthusiast
