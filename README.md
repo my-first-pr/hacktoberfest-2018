@@ -1,4 +1,4 @@
-﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -88,12 +88,26 @@ Start adding your names here:
 - I'm currently working as a Virtualization Specialist
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
+ 
+### Anush93
+  - I am a young developer in Sri Lanka
+  - I'm currently a undergraduate
+  - My hobbies include:
+    - Coding
+    - Gaming
+    - Nature Photography
+  - [![github-alt][github-img]](https://github.com/Anush93)
 
 ### Anshima Chaudhary
-- I'm a contributor :)
-- I study CS
-- My hobbies include coding, debating and dancing
-- [![github-alt][github-img]](https://github.com/anshima1)
+  - I'm a contributor :)
+  - I study CS
+  - My hobbies include coding, debating and dancing
+  - [![github-alt][github-img]](https://github.com/anshima1)
+
+### Aditya Choudhary
+  - Software Engineer in India
+  - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
+    [![github-alt][github-img]](https://github.com/adich23)
 
 ### Anush93
 - I am a young developer in Sri Lanka
@@ -105,8 +119,8 @@ Start adding your names here:
 - [![github-alt][github-img]](https://github.com/Anush93)
 
 ### Arjun Rajpal
-- Software Engineer and a ML Enthusiast
-- [![github-alt][github-img]](https://github.com/arjunrajpal)
+  - Software Engineer and a ML Enthusiast
+  - [![github-alt][github-img]](https://github.com/arjunrajpal)
 
 # B
 
@@ -156,6 +170,13 @@ Start adding your names here:
 
 # C 
 
+### Celso Uliana
+- Last year student.
+- Perl and Node enthusiastic.
+- Regex, automating and graphs.
+- [![github-alt][github-img]](https://github.com/CelsoUliana)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100009599017240&ref=bookmarks)
+  
 ### Charlye
 - Student of Development of multiplatform applications - Last year.
 - Working in the Povisa hospital (Programming and systems).
@@ -281,6 +302,11 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
   [![github-alt][github-img]](https://github.com/karengeerts)
 
+### Karthik Raja T.
+- A full stack developer.
+- I like to code and build applications.
+- [![github-alt][github-img]](https://github.com/Karthik-0)
+
 ### Kundan Kumar
 - I am a high school graduate.
 - I love AI, programming and web development.
@@ -295,6 +321,13 @@ Start adding your names here:
 - I love gaming and hope to become a game dev!
 - [![twitter-alt][twitter-img]](https://twitter.com/WitchScript)
   [![github-alt][github-img]](https://github.com/LaurenReilly)
+
+### Lincoln Anders
+- 1st year CS major at Georgia Tech
+- MERN full stack, primary interest in backend APIs
+- Node.js, Java, Bash, Swift
+- [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
+  [![github-alt][github-img]](https://github.com/lincolnanders5)
 
 ### Luke Oliff
 - Technical Writer working for @auth0
@@ -371,6 +404,13 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
 
+### Ravi Thella
+- React Developer
+- Hobbies:
+  - Programming
+  - Watching Tennis
+- [![github-alt][github-img]](https://github.com/ravikishorethella)
+
 ### Ravindra Kumar Meena
 - Computer Sciene & Engineering Student
 - Hobbies:
@@ -393,7 +433,7 @@ Start adding your names here:
 - I love Python :heart:
 - Connect with me on social media platform
 - [![twitter-alt][twitter-img]](https://twitter.com/rowhitswami)
-  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)		
+  [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)
   [![github-alt][github-img]](https://github.com/rowhitswami)
 
 ### Rui Li
