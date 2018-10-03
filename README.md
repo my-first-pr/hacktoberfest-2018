@@ -1,4 +1,4 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -21,6 +21,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Rui Li
+- Software Engineer in NZ
+- [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
+  [![github-alt][github-img]](https://github.com/gitruili)
+  
 ### Aditya Kolsur
 - I'm a 3rd year student.
 - I am a web developer.
@@ -226,9 +231,9 @@ Start adding your names here:
 
 ### Tom Davis
 - IT Manager in The United States
-- [![twitter-alt][twitter-img]](https://twitter.com/kat35601)
-- [![github-alt][github-img]](https://github.com/kat35601)
 - I am an old computer guy wanting to learn new things
+- [![twitter-alt][twitter-img]](https://twitter.com/kat35601)
+  [![github-alt][github-img]](https://github.com/kat35601)
 
 ### Utkarsh Kunwar
 - Fourth year student in Mechanical Engineering.
@@ -263,10 +268,10 @@ Start adding your names here:
   [![github-alt][github-img]](https://github.com/MartinNievas)
 
 ### Izabela Cardozo
-- I'm a Brazilian Electrical Engineer studant and Friends lover, by the way, How u doin'? ;)
+- I'm a Brazilian Electrical Engineer student and Friends lover, by the way, How u doin'? ;)
 - My hobbies include:
-	- Watch spanish TV shows (please watch Gran Hotel);
-	- Listen music.
+	- Watching spanish TV shows (please watch Gran Hotel);
+	- Listening to music.
 - [![twitter-alt][twitter-img]](https://twitter.com/izabela963)
 
 ### Francisco Nievas (frannievas)
@@ -295,7 +300,7 @@ Start adding your names here:
 - Programmer
 - Cricketer
 - Painter
-  [![github-alt][github-img]](https://github.com/Vishal1541)
+- [![github-alt][github-img]](https://github.com/Vishal1541)
 
 ### Jay Vasant
 - Python enthusiast.
@@ -386,6 +391,28 @@ Start adding your names here:
 - Frontend Developer
 - :heart: javascript enthusiast
 - [![github-alt][github-img]](https://github.com/shotozuro)
+
+### Reesea
+- I'm an MBA student
+- Hobbies:
+  - Coding
+  - Learning
+- [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
+  [![github-alt][github-img]](https://github.com/reesea)
+
+### CohheeTime
+- I built my first website in 1999
+  [![github-alt][github-img]](https://github.com/CohheeTime)
+
+### Ben C.
+- A high school student who is a beginner at code.
+- I like to code and play games.
+- [![github-alt][github-img]](https://github.com/yopamuhanu)
+
+### slouch
+- Linux Systems Administrator turning DevOps person
+- Engineer at heart, if it isn't broken, break it!
+- [![github-alt][github-img]](https://github.com/slouchd)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
