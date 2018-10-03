@@ -202,6 +202,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in Python, Django
 - [![github-alt][github-img]](https://github.com/BeAsYit)
 
+### Darshan G
+- Computer Science student
+- Some of my hobbies include photography, math, writing code, video games and writing letters 
+- [![instagram-alt][instagram-img]](https://www.instagram.com/darsh4n/)
+  [![github-alt][github-img]](https://github.com/darshan934)
+
 ### Dmytro Litvinov
 - Full Stack Python develop from Ukraine :snake:
 - [My website](https://DmytroLitvinov.com)
