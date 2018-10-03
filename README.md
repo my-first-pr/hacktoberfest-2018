@@ -491,6 +491,11 @@ Start adding your names here:
   - Watching Tennis
 - [![github-alt][github-img]](https://github.com/ravikishorethella)
 
+### Md Akram Kazmi
+- Trying to learn what I can.
+- Love to play games!
+- [![github-alt][github-img]](https://github.com/akramkazmi71)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
