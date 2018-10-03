@@ -482,6 +482,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # S
 
+### Shivani Gupta
+- I'm a computer science student.
+- I am Interested in Web Development.
+- I love designing frontend Webpages and Coding.
+- [![github-alt][github-img]](https://github.com/Gshivani1234)
+
 ### Shiven S.
 - I'm a web developer and a high school student.
 - I do freelance projects and involve myself in internships.
