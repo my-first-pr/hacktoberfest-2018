@@ -254,9 +254,22 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # G
 
+### Gerlis A.C  :computer: (@gerlis18)
+- I am from Colombia.
+- I am a junior developer Java, Javascript, HTML.
+- I :hearts: the code :computer:
+- I :hearts: to play :guitar:
+- [![twitter-alt][twitter-img]](https://twitter.com/geralvarez15)
+[![github-alt][github-img]](https://github.com/gerlis18)
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
+
+### Gleb
+- Software engineer, Blockchain and .NET developer
+- My first hacktoberfest!
+- [![github-alt][github-img]](https://github.com/skibitsky)
 
 # H
 
@@ -378,6 +391,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
 
+### Luis Chaglla
+- Software Engineer in Spain
+- [![github-alt][github-img]](https://github.com/lchaglla)
+
 ### Luke Oliff
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
@@ -426,6 +443,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Code, Football, Dota2
 - [![github-alt][github-img]](https://github.com/thanhnha1103)
 
+### Niaw Junior
+- I'm an Frontend Developer from Thailand.
+- I like to code
+- [![github-alt][github-img]](https://github.com/niawjunior)
+
 ### Nievas Martin
 - I'm an Electronic Engineer from Argentina.
 - Currently pursuing a PhD scholarship.
@@ -459,6 +481,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### PotatoPuree
 - Interactive Media MSc. student from Cork
 - [![github-alt][github-img]](https://github.com/PotatoPuree)
+
+### Pranav Singh
+- Competitve Programmer
+- Open Source Contributor
+- Front End Developer
+  [![github-alt][github-img]](https://github.com/pranav0408)
 
 ### Pritish Thakkar
 - I'm an undergraduate from Punjab engineering college
