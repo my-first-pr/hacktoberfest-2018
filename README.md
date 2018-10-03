@@ -266,6 +266,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies include gaming and listening to classical music.
 - [![github-alt][github-img]](https://github.com/example)
 
+### Himanshu Nailwal
+- I'm pursuing my post graduation.
+- I am an aspiring Data Scientist.
+- [![github-alt][github-img]](https://github.com/ryokugyu)
+- [![twitter-alt][twitter-img]](https://twitter.com/ryokugyu_)
+
 # I
 
 ### IGC
