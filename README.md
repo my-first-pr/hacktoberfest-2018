@@ -254,6 +254,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # G
 
+### Gourav Thakur
+- OSS enthusiast
+- College, Cricket, Code and Coffee
+- [![twitter-alt][twitter-img]](https://twitter.com/gouravthakur39)
+  [![github-alt][github-img]](https://github.com/gouravthakur39)
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
