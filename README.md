@@ -21,6 +21,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Rui Li
+- Software Engineer in NZ
+- [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
+  [![github-alt][github-img]](https://github.com/gitruili)
+  
 ### Aditya Kolsur
 - I'm a 3rd year student.
 - I am a web developer.
@@ -386,6 +391,11 @@ Start adding your names here:
 - A high school student who is a beginner at code.
 - I like to code and play games.
 - [![github-alt][github-img]](https://github.com/yopamuhanu)
+
+### slouch
+- Linux Systems Administrator turning DevOps person
+- Engineer at heart, if it isn't broken, break it!
+- [![github-alt][github-img]](https://github.com/slouchd)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
