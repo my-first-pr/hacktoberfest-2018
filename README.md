@@ -478,6 +478,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Pranav Singh
+- Competitve Programmer
+- Open Source Contributor
+- Front End Developer
+  [![github-alt][github-img]](https://github.com/pranav0408)
+
 ### Pritish Thakkar
 - I'm an undergraduate from Punjab engineering college
 - My favourite programming language is C++ and I'm a sport programmer.
