@@ -414,6 +414,11 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Pritish Thakkar
+- I'm an undergraduate from Punjab engineering college
+- My favourite programming language is C++ and I'm a sport programmer.
+- [![github-alt][github-img]](https://github.com/ma5terdrag0n)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
