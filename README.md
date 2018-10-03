@@ -414,6 +414,12 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Shiven S.
+- I'm a web developer and a high school student.
+- I do freelance projects and involve myself in internships.
+- [![twitter-alt][twitter-img]](https://twitter.com/sinha_shiven)
+  [![github-alt][github-img]](https://github.com/shivensinha4)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
