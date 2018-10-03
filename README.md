@@ -207,6 +207,12 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+  
+### Uddeshya Singh
+- An Open Source developer with a knack for machine learning
+- Past Intern at OpenGenus Organisation
+- Expert in Kaggle
+- [![github-alt][github-img]](https://github.com/uds5501)
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
