@@ -359,10 +359,14 @@ Start adding your names here:
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
-### My Name
-- Description about me
+### Jason
+- AI/ML enthusiast
+- High-functioning Autistic
+- I love languages, both the people kind and the computer kind
+- I prefer the computer kind
+- and cats.
 - [![github-alt][github-img]](https://github.com/jcbrown602)
-- ![freeCodeCamp](https://imgur.com/mFClFSE)
+  ![Alt text](imgs/freecodecamp.png)
   
 ### Example Profile
 - I'm an example that you can copy, if you want :)
