@@ -414,6 +414,12 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Himanshu Aggarwal (@haggcoder)
+- 3rd year CS undergraduate at Delhi Technological University
+- Microsoft Student Partner
+- [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100014377755202)
+  [![github-alt][github-img]](https://github.com/haggcoder)
+ 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
