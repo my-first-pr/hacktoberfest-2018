@@ -21,6 +21,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 
 Start adding your names here:
 
+### Rui Li
+- Software Engineer in NZ
+- [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
+  [![github-alt][github-img]](https://github.com/gitruili)
+  
 ### Aditya Kolsur
 - I'm a 3rd year student.
 - I am a web developer.
