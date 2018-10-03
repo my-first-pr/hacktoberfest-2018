@@ -387,6 +387,11 @@ Start adding your names here:
 - :heart: for tech and passionate about how it influences our everyday lives
 - [![github-alt][github-img]](https://github.com/utsha1510)
 
+### slouch
+- Linux Systems Administrator turning DevOps person
+- Engineer at heart, if it isn't broken, break it!
+- [![github-alt][github-img]](https://github.com/slouchd)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
