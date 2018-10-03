@@ -11,11 +11,10 @@ That said, suggest ways to contribute include:
 * Fork the project.
 * Add your name to the readme.md using this example;
 ```
-### Uddeshya Singh
-- An Open Source developer with a knack for machine learning
-- Past Intern at OpenGenus Organisation
-- Expert in Kaggle
-- [![github-alt][github-img]](https://github.com/uds5501)
+### My Name
+- Description about me
+- [![twitter-alt][twitter-img]](https://twitter.com/example)
+  [![github-alt][github-img]](https://github.com/example)
 ```
 * Commit and send a pull request. Bonus points for correctly named branches.
 
