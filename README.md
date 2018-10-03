@@ -208,6 +208,12 @@ Start adding your names here:
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
 
+### Pranav Singh
+- Competitve Programmer
+- Open Source Contributor
+- Front End Developer
+  [![github-alt][github-img]](https://github.com/pranav0408)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
