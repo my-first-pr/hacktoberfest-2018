@@ -56,6 +56,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a web developer.
 - [![github-alt][github-img]](https://github.com/adikolsur)
 
+### Md Akram Kazmi
+- Trying to learn what I can.
+- Love to play games!
+- [![github-alt][github-img]](https://github.com/akramkazmi71)
+
 ### Akshay N Shaju
 - Software Developer From India.🇧
 - Hobbies:
