@@ -399,6 +399,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # N
 
+### Nikhil Singh
+- I'm a full stack Blokchain and NodeJS Developer.
+- I'm a huge Manchester United fan and an avid traveller.
+- [![github-alt][github-img]](https://github.com/nikmufc7)
+  [![twitter-alt][twitter-img]](https://twitter.com/creativemartial)
+
 ### Nabheet Madan
 - I'm a SAP Technical Consultant interested in #Technical stuff.
 - I like to code
