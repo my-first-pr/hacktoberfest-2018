@@ -266,6 +266,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a young developer in india
 - I'm currently a student!
 
+### Gleb
+- Software engineer, Blockchain and .NET developer
+- My first hacktoberfest!
+- [![github-alt][github-img]](https://github.com/skibitsky)
+
 # H
 
 ### Hafpaf
