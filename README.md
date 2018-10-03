@@ -414,6 +414,10 @@ Start adding your names here:
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Shweta Goyal
+- Computer Science Graduate
+- [![github-alt][github-img]](https://github.com/Shwetago)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
