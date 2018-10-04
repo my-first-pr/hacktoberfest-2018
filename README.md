@@ -478,6 +478,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Angel Pink
+- I'm a software engineer.
+- [![github-alt][github-img]](https://github.com/pinkangelin4u)
+
 ### PotatoPuree
 - Interactive Media MSc. student from Cork
 - [![github-alt][github-img]](https://github.com/PotatoPuree)
