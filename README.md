@@ -213,6 +213,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Some of my hobbies include photography, math, writing code, video games and writing letters 
 - [![instagram-alt][instagram-img]](https://www.instagram.com/darsh4n/)
   [![github-alt][github-img]](https://github.com/darshan934)
+  
+### Deepak (d02d33pak)
+- Computer Science graduate working for XYZ corp (don't want to reveal the name here)
+- [![twitter-alt][twitter-img]](https://twitter.com/d02d33pak)
+  [![github-alt][github-img]](https://github.com/d02d33pak)
 
 ### Dmytro Litvinov
 - Full Stack Python develop from Ukraine :snake:
