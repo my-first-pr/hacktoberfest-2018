@@ -151,6 +151,18 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - love games and league of legends 
 - [![twitter-alt][twitter-img]](https://twitter.com/Ben_Aaron_Mort)
   [![github-alt][github-img]](https://github.com/jmort125)
+  
+### Ben Thompson
+- New to open source 
+- Web Developer with experience in SEO and digital marketing
+- Currently looking for a junior-level job in Chicago - want to be part of an awesome team!
+- Hobbies:
+  - Outdoors
+  - Guitar
+  - Golf
+- [![twitter-alt][twitter-img]](https://twitter.com/BenThom21)
+- [![github-alt][github-img]](https://github.com/BenThom21)
+- - [!Know more at](https://benthompson.online)
 
 ### BenoCD
 - Final Year Computer Engineering student from Concepción, Chile
