@@ -565,6 +565,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # S
 
+### Samyak
+- Description about me
+- [![github-alt][github-img]](https://github.com/samyak-sopho)
+
 ### Shivani Gupta
 - I'm a computer science student.
 - I am Interested in Web Development.
