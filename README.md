@@ -232,6 +232,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in Python, Django
 - [![github-alt][github-img]](https://github.com/BeAsYit)
 
+
+### Darshan D V
+- I'm a CSE student studying at NITK Surathkal.
+- I am interested in Machine Learning, Deep Learning and have been working on related projects. 
+- Have worked on Android and Web Development also
+- [![github-alt][github-img]](https://github.com/darshandv)
+
 ### Darshan G
 - Computer Science student
 - Some of my hobbies include photography, math, writing code, video games and writing letters
