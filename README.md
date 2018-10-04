@@ -616,6 +616,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - :heart: for tech and passionate about how it influences our everyday lives
 - [![github-alt][github-img]](https://github.com/utsha1510)
 
+
+### Uddeshya Singh
+- An Open Source developer with a knack for machine learning
+- Past Intern at OpenGenus Organisation
+- Expert in Kaggle
+- [![github-alt][github-img]](https://github.com/uds5501)
+
 # V
 
 ### Vaibhav Agarwal
