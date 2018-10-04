@@ -278,6 +278,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Small electronics enthutiast.
 - [![github-alt][github-img]](https://github.com/hafpaf)
 
+### haqqer
+- Python Programmer and Web BackEnd Dev
+- college students, Open Source Enthusiast
+- My hobbies is coding, eat and sleep
+- [![twitter-alt][twitter-img]](https://twitter.com/ahmad_haqqer)
+  [![github-alt][github-img]](https://github.com/haqqer)
+  
 ### Helus
 - I'm a mathematics student.
 - I'm interested in data science.
@@ -649,11 +656,50 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # Y
 
-### Yash Agrawal
-- I am a student at IIT Mandi persuin B.Tech. in computer science.
-- I like more of competitive programming.
-- I am the co-ordinator of programming club, IIT Mandi.
-- [![github-alt][github-img]](https://github.com/YashAgrawal0)
+### Sho Tozuro
+- Frontend Developer
+- :heart: javascript enthusiast
+- [![github-alt][github-img]](https://github.com/shotozuro)
+
+### Reesea
+- I'm an MBA student
+- Hobbies:
+  - Coding
+  - Learning
+- [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
+  [![github-alt][github-img]](https://github.com/reesea)
+
+### CohheeTime
+- I built my first website in 1999
+  [![github-alt][github-img]](https://github.com/CohheeTime)
+
+### Ben C.
+- A high school student who is a beginner at code.
+- I like to code and play games.
+- [![github-alt][github-img]](https://github.com/yopamuhanu)
+
+### slouch
+- Linux Systems Administrator turning DevOps person
+- Engineer at heart, if it isn't broken, break it!
+- [![github-alt][github-img]](https://github.com/slouchd)
+ 
+### Example Profile
+- I'm an example that you can copy, if you want :)
+- I work for...
+- My hobbies include...
+- [![twitter-alt][twitter-img]](https://twitter.com/example)
+  [![facebook-alt][facebook-img]](https://facebook.com/example)
+  [![google-img][google-img]](https://plus.google.com/+Example)
+  [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
+  [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
+  [![github-alt][github-img]](https://github.com/example)
+  
+
+## How to Contribute
+
+Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request.
+
+## Code of Conduct
 
 # Z
 
