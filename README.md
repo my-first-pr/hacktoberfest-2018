@@ -41,11 +41,23 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ## Contributors List
 
-# A 
+# A
 
 ### Aadesh Mirajkar
 - Student, Code Ninza
 - [![github-alt][github-img]](https://github.com/captainadsh)
+
+### Aakash Goel
+- Student, Self-taught Developer, Aspiring Entreprenuer
+- Currently, my team is open to pick projects.
+- I am currently work on:
+    - Android Development
+    - Nodejs
+    - Django
+    - Reactjs.
+- [![github-alt][github-img]](https://github.com/goelaakash79)
+- [![instagram-alt][instagram-img]](https://www.instagram.com/goelaakash79)
+- [![linkedin-alt][linkedin-img]](https://www.instagram.com/in/goelaakash79)
 
 ### Aditya Choudhary
 - Software Engineer in India
@@ -96,7 +108,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm currently working as a Virtualization Specialist
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
- 
+
 ### Anush93
   - I am a young developer in Sri Lanka
   - I'm currently a undergraduate
@@ -147,8 +159,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/yopamuhanu)
 
 ### Ben Mort
-- New to code but want to learn a lot 
-- love games and league of legends 
+- New to code but want to learn a lot
+- love games and league of legends
 - [![twitter-alt][twitter-img]](https://twitter.com/Ben_Aaron_Mort)
   [![github-alt][github-img]](https://github.com/jmort125)
 
@@ -182,7 +194,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/TheByteStuff )
   [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
 
-# C 
+# C
 
 ### Celso Uliana
 - Last year student.
@@ -190,7 +202,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Regex, automating and graphs.
 - [![github-alt][github-img]](https://github.com/CelsoUliana)
   [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100009599017240&ref=bookmarks)
-  
+
 ### Charlye
 - Student of Development of multiplatform applications - Last year.
 - Working in the Povisa hospital (Programming and systems).
@@ -210,7 +222,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Darshan G
 - Computer Science student
-- Some of my hobbies include photography, math, writing code, video games and writing letters 
+- Some of my hobbies include photography, math, writing code, video games and writing letters
 - [![instagram-alt][instagram-img]](https://www.instagram.com/darsh4n/)
   [![github-alt][github-img]](https://github.com/darshan934)
 
@@ -231,7 +243,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Developer and a ML enthusiast.
 - [![github-alt][github-img]](https://github.com/dushyantRathore)
 
-# E 
+# E
 
 ### Elijah Rwothoromo
 - Software Developer
@@ -414,7 +426,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
 
-### Md Shahbaz Alam 
+### Md Shahbaz Alam
 - I'm a Full Stack Developer, Technical Evangelist and Open Source enthusiast.
 - I like to speak at conferences, events and meet-ups.
 - [![twitter-alt][twitter-img]](https://twitter.com/mdsbzalam)
