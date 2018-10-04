@@ -56,8 +56,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
     - Django
     - Reactjs.
 - [![github-alt][github-img]](https://github.com/goelaakash79)
-- [![instagram-alt][instagram-img]](https://www.instagram.com/goelaakash79)
-- [![linkedin-alt][linkedin-img]](https://www.instagram.com/in/goelaakash79)
 
 ### Aditya Choudhary
 - Software Engineer in India
