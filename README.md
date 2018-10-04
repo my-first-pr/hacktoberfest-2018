@@ -162,7 +162,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Golf
 - [![twitter-alt][twitter-img]](https://twitter.com/BenThom21)
 - [![github-alt][github-img]](https://github.com/BenThom21)
-- - [!Know more at](https://benthompson.online)
+- [!Know more at](https://benthompson.online)
 
 ### BenoCD
 - Final Year Computer Engineering student from Concepción, Chile
