@@ -648,6 +648,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am the co-ordinator of programming club, IIT Mandi.
 - [![github-alt][github-img]](https://github.com/YashAgrawal0)
 
+### Yee Antonio
+- I am a Backend and Mobile Developer.
+- [![twitter-alt][twitter-img]](https://twitter.com/antonioyee)
+  [![github-alt][github-img]](https://github.com/antonioyee)
+
 # Z
 
 ------------
