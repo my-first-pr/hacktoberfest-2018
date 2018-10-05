@@ -483,6 +483,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like to speak at conferences, events and meet-ups.
 - [![twitter-alt][twitter-img]](https://twitter.com/mdsbzalam)
   [![github-alt][github-img]](https://github.com/shahbaz17)
+  
+### Mercy
+- I make bots for the Discord platform.
+- [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
+  [![github-alt][github-img]](https://github.com/MercyDoesCode)
 
 # N
 
