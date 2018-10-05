@@ -605,6 +605,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Learning
 - [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
   [![github-alt][github-img]](https://github.com/reesea)
+  
+  ### Robert Spurlin
+- Web Developer
+- Hobbies:
+  - Programming
+  - Marching Band
+- [![github-alt][github-img]](https://github.com/robertspurlin)
 
 ### Rohit Swami
 - Data Science Aspirant
