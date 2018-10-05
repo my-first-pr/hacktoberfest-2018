@@ -57,6 +57,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
     - Reactjs.
 - [![github-alt][github-img]](https://github.com/goelaakash79)
 
+### Abay
+- UI Designer, Frontend Developer
+- [![facebook-alt][facebook-img]](https://facebook.com/abaykandotcom)
+  [![twitter-alt][twitter-img]](https://twitter.com/abaykandotcom)
+  [![github-alt][github-img]](https://github.com/abaykan)
+
 ### Adeonir Kohl
 - UI Designer, Frontend Developer
 - [![twitter-alt][twitter-img]](https://twitter.com/adeonir)
