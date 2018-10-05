@@ -375,6 +375,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 	- Listening to music.
 - [![twitter-alt][twitter-img]](https://twitter.com/izabela963)
 
+### Ivonildo bispo
+- I'm a Brazilian computer science student  ;)
+-a little about myself :
+-I love programming, I like AI content and IT related areas.
+- [(*_*)](https://github.com/Ivonildo31)
+
 # J
 
 ### James
@@ -396,7 +402,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/jcbrown602)
   [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/jcbrown602)
 
-### Jay Vasant
+### Jay Vasanthttps://github.com/Ivonildo31
 - Python enthusiast.
 - My hobbies include:
 	- Competitive Programming
@@ -446,7 +452,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### LemonPepsi
 - Electrical engineering student
-- A fair bit rusty in coding, hope to get back into it
+- A fair bit rusty in coding, hope to get back into ithttps://github.com/Ivonildo31
 
 ### Lincoln Anders
 - 1st year CS major at Georgia Tech
