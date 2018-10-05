@@ -636,6 +636,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # T
 
+##TheNoodleMoose
+-Student Studying Web Development
+-I Love Gaming and Coding 
+- [![github-alt][github-img]](https://github.com/TheNoodleMoose)
+
 ### Thomas Kulmbach (D0Tch)
 - Webdeveloper working in Denmark
 - [![github-alt][github-img]](https://github.com/d0tch)
