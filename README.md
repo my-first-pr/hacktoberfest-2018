@@ -689,6 +689,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a web developer.
 - I like to listen to music while I code.
 
+### thientran
+- I am a developer.
+- I love Coding
+  [![github-alt][github-img]](https://github.com/thientranreactdev)
+  
 # U
 
 ### Utkarsh Kunwar
