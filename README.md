@@ -536,6 +536,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # O
 
+### Omkar Kulkarni
+- I'm a Computer Engineer.
+- [![github-alt][github-img]](https://github.com/omkar1212)
+
 # P
 
 ### pankhuri22
