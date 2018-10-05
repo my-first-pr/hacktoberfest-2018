@@ -106,6 +106,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm currently working as a Virtualization Specialist
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
+  
+### Andrew Hinkson
+- I am a Beginner Front-End Developer
+- I am currently spending most of my free time learning.
+- [![twitter-alt][twitter-img]](https://twitter.com/hinkson_andrew)
+  [![github-alt][github-img]](https://github.com/hinksonAndrew)
 
 ### Anush93
   - I am a young developer in Sri Lanka
