@@ -345,6 +345,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am looking foward learning Django.
 - [![github-alt][github-img]](https://github.com/igcigc)
 
+### Ilham Taufiq
+- I am an Indonesian computer science student.
+- Love to code.
+- My hobbies is playing football.
+- [![github-alt][github-img]](https://github.com/ilhamtaufiq)
+  ![twitter-alt][twitter-img]](https://twitter.com/ailhaeim)
+
 ### Izabela Cardozo
 - I'm a Brazilian Electrical Engineer student and Friends lover, by the way, How u doin'? ;)
 - My hobbies include:
