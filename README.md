@@ -467,6 +467,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # M
 
+### Magno Macedo
+- Bachelor student in information systems and experience with Pentaho suite.
+- I like movies, series, electronic games, board games, RPG and beer.
+- [![twitter-alt][twitter-img]](https://twitter.com/Magno_Macedo89)
+  [![github-alt][github-img]](https://github.com/magnoDev)
+  
 ### Mathieu Jolivet (Cynferdd)
 - Developper as a hobby since 1996, professionaly since 2005.
 - Bass player, I also love reading, photography and beer.
