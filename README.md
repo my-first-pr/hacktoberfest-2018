@@ -57,6 +57,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
     - Reactjs.
 - [![github-alt][github-img]](https://github.com/goelaakash79)
 
+### Adeonir Kohl
+- UI Designer, Frontend Developer
+- [![twitter-alt][twitter-img]](https://twitter.com/adeonir)
+  [![github-alt][github-img]](https://github.com/adeonir)
+
 ### Aditya Choudhary
 - Software Engineer in India
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
