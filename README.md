@@ -112,6 +112,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
   
+### André Paulo
+- I'm a Junior Back-End Developer from Portugal
+- Music and Photography Lover
+- [![github-alt][github-img]](https://github.com/andre-paulo98)
+  
 ### Andrew Hinkson
 - I am a Beginner Front-End Developer
 - I am currently spending most of my free time learning.
