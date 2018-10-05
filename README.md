@@ -29,7 +29,7 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
+
 ## How to Contribute
 
 Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request.
@@ -40,11 +40,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ## Contributors List
 
-# A 
+# A
 
 ### Aadesh Mirajkar
 - Student, Code Ninza
 - [![github-alt][github-img]](https://github.com/captainadsh)
+
+### Adeonir Kohl
+- UI Designer, Frontend Developer
+- [![twitter-alt][twitter-img]](https://twitter.com/adeonir)
+  [![github-alt][github-img]](https://github.com/adeonir)
 
 ### Aditya Choudhary
 - Software Engineer in India
@@ -90,7 +95,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm currently working as a Virtualization Specialist
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
- 
+
 ### Anush93
   - I am a young developer in Sri Lanka
   - I'm currently a undergraduate
@@ -141,8 +146,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/yopamuhanu)
 
 ### Ben Mort
-- New to code but want to learn a lot 
-- love games and league of legends 
+- New to code but want to learn a lot
+- love games and league of legends
 - [![twitter-alt][twitter-img]](https://twitter.com/Ben_Aaron_Mort)
   [![github-alt][github-img]](https://github.com/jmort125)
 
@@ -176,7 +181,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/TheByteStuff )
   [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
 
-# C 
+# C
 
 ### Celso Uliana
 - Last year student.
@@ -184,7 +189,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Regex, automating and graphs.
 - [![github-alt][github-img]](https://github.com/CelsoUliana)
   [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100009599017240&ref=bookmarks)
-  
+
 ### Charlye
 - Student of Development of multiplatform applications - Last year.
 - Working in the Povisa hospital (Programming and systems).
@@ -204,7 +209,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Darshan G
 - Computer Science student
-- Some of my hobbies include photography, math, writing code, video games and writing letters 
+- Some of my hobbies include photography, math, writing code, video games and writing letters
 - [![instagram-alt][instagram-img]](https://www.instagram.com/darsh4n/)
   [![github-alt][github-img]](https://github.com/darshan934)
 
@@ -225,7 +230,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Developer and a ML enthusiast.
 - [![github-alt][github-img]](https://github.com/dushyantRathore)
 
-# E 
+# E
 
 ### Elijah Rwothoromo
 - Software Developer
