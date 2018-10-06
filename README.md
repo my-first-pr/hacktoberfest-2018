@@ -794,6 +794,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Painter
 - [![github-alt][github-img]](https://github.com/Vishal1541)
 
+### Shivam Singh
+- A Nature love and an Android enthusiast
+  [![github-alt][github-img]](https://github.com/meditat)
+
 # W
 
 # X
