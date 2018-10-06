@@ -133,6 +133,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/hinkson_andrew)
   [![github-alt][github-img]](https://github.com/hinksonAndrew)
 
+### Anna Sebova
+- I'm a Beginner Front-End Developer, but Middle WordPress Developer from Odessa, Ukraine
+- I study JavaScript now.
+- [![github-alt][github-img]](https://github.com/annsv)
+
 ### Anush93
   - I am a young developer in Sri Lanka
   - I'm currently a undergraduate
