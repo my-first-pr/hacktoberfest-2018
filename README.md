@@ -517,7 +517,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like developing and doing graphic art!
 - [![twitter-alt][twitter-img]](https://twitter.com/jvcks0n)
 
-# K
+ ### Jerin [*love to code*]
+- I'm a CSE engineering student- [![github-alt][github-img]](https://github.com/jerinjoseph1) 
 
 ### Kamal Iqlaas
 - Pursuing Master in Business Intelligence and Data Analytics
