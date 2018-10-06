@@ -713,7 +713,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
   [![github-alt][github-img]](https://github.com/reesea)
 
-  ### Robert Spurlin
+### Rishabh jain
+- Computer Science engineering
+- Hobbies:
+  - swiming
+  - programming
+- [![github-alt][github-img]](https://github.com/rishabhjain12345)
+  
+### Robert Spurlin
 - Web Developer
 - Hobbies:
   - Programming
