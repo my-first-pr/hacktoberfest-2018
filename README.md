@@ -392,6 +392,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - DevOps Engineer
 - Taking part in my first Hacktoberfest
 
+### James Warner
+- I am currently a Univeristy Student
+- I enjoy playing video games and surfing the web and sailing
+- [![github-alt][github-img]](https://github.com/dubsy9)
+
 ### janicek1m
 - I am currently a high school student.
 - I love robotics, programming, and web-development.
