@@ -117,6 +117,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm currently working as a Virtualization Specialist
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
+ 
+ ### Angel Pink
+- I'm a software engineer.
+- [![github-alt][github-img]](https://github.com/pinkangelin4u)
 
 ### André Paulo
 - I'm a Junior Back-End Developer from Portugal
