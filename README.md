@@ -604,6 +604,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Like to play with cats.
 - [![github-alt][github-img]](https://github.com/yudhst)
 
+### Nelly
+- I'm a comp sci student in NZ.
+- [![github-alt][github-img]](https://github.com/NotNelly)
+
 ### Nha Huynh
 - Backend developer
 - Code, Football, Dota2
