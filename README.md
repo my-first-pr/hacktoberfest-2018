@@ -663,6 +663,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies include coding, debating and acting
 - [![github-alt][github-img]](https://github.com/MittalS211)
 
+### Sukhwmit Kaur
+- I'm a contributor.
+- I study Electronics and Computer Engineering.
+- My hobbies include reading and sleeping.
+- [![github-alt][github-img]](https://github.com/sukhwmit12)
+
 ### Suvin Nimnaka
 - A Student from Sri Lanka
 - [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
