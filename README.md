@@ -427,6 +427,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My other hobbies include reading, rock climbing, and re-watching 30 Rock and The Office :stuck_out_tongue_winking_eye:
 - [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
   [![github-alt][github-img]](https://github.com/jillianandersonslate)
+  
+  ### Jai Katiyar
+- I'm a B.sc.
+- I am Interested in Programming
+- I love programming in C
+- [![github-alt][github-img]](https://github.com/jai37)
 
 # K
 
