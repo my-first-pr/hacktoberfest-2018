@@ -841,7 +841,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/shotozuro)
 
 ### Showndarya Madhavan
-- Final year in Computer Enginneering.
+- Final year student pursuing Computer Enginneering.
 - I love to code and am a Sci-Fi fan.
 - [![github-alt][github-img]](https://github.com/Showndarya)
 
