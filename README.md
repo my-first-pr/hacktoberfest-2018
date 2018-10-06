@@ -323,6 +323,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/geralvarez15)
 [![github-alt][github-img]](https://github.com/gerlis18)
 
+### glaseca
+- I am a web developer from Spain
+- Happy coding!
+- [![twitter-alt][twitter-img]](https://twitter.com/glaseca)
+[![github-alt][github-img]](https://github.com/glaseca)
+
 ### gursimran
 - I am a young developer in india
 - I'm currently a student!
