@@ -1,4 +1,4 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -161,6 +161,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineer from Indonesia
 - I solve problem and make stuff
 - [![github-alt][github-img]](https://github.com/muhtarudinsiregar/)
+
+### Aris Kurniawan
+- I'm a student at Universitas Maritim Raja Ali Haji
+- My hobbies: Coding, Gaming, Design
+- [![github-alt][github-img]](https://github.com/Arisdolanan)
+- [![facebook-alt][facebook-img]](https://facebook.com/arisdolanan)
 
 ### Arjun Rajpal
   - Software Engineer and a ML Enthusiast
