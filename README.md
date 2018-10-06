@@ -689,6 +689,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a web developer.
 - I like to listen to music while I code.
 
+### Trill Cosby
+- Student Computer Science
+- Reverse engineer all the things
+- [![github-alt][github-img](https://github.com/trillcosby)
+
 # U
 
 ### Utkarsh Kunwar
