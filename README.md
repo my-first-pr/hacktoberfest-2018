@@ -587,7 +587,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like movies, series, electronic games, board games, RPG and beer.
 - [![twitter-alt][twitter-img]](https://twitter.com/Magno_Macedo89)
   [![github-alt][github-img]](https://github.com/magnoDev)
-  
+
+### Mahmoud ElHussieni
+- R&D Engineer AI Enthusiast .
+  [![github-alt][github-img]](https://github.com/MElHussieni)
+
+
+
 ### Manthan Keim
 - Bachelor student in Computer Science Engineering at MAIT.
 - I like movies, TV-series,reading books and listening songs.
