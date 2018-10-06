@@ -516,6 +516,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
   [![github-alt][github-img]](https://github.com/MercyDoesCode)
 
+### Mohit Yadav
+- I am a programmer and a student.
+- [![twitter-alt][twitter-img]](https://twitter.com/_mohit_yadav)
+  [![github-alt][github-img]](https://github.com/mohityadav7)
+
 # N
 
 ### Nikhil Singh
@@ -630,7 +635,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Learning
 - [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
   [![github-alt][github-img]](https://github.com/reesea)
-  
+
   ### Robert Spurlin
 - Web Developer
 - Hobbies:
@@ -645,7 +650,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/rowhitswami)
   [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)
   [![github-alt][github-img]](https://github.com/rowhitswami)
-  
+
 ### Rohit Kunji
 - Technical Event Coordinator @AASF
 - Hobbies:
@@ -745,7 +750,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a developer.
 - I love Coding
   [![github-alt][github-img]](https://github.com/thientranreactdev)
-  
+
 ### Trill Cosby
 - Student Computer Science
 - Reverse engineer all the things
