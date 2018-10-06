@@ -255,6 +255,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # D
 
+### Dalaney V
+- Front end web developer in the US.
+- Interested in design, development, email, and the web at large.
+- Learning all about PR's and open source.
+- [![github-alt][github-img]](https://github.com/dalanskis)
+
 ### Danil Shankovskiy
 - I'm a student from Ukraine
 - Interested in Python, Django
