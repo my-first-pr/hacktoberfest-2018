@@ -440,6 +440,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like to code and build applications.
 - [![github-alt][github-img]](https://github.com/Karthik-0)
 
+### Kathleen Cram
+- I am a senior studying Web Development and Computer Science.
+- I currently have an internship as a software engineer at SciTools.
+- [![github-alt][github-img]](https://github.com/d00297334)
+
 ### Kundan Kumar
 - I am a high school graduate.
 - I love AI, programming and web development.
