@@ -117,7 +117,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm currently working as a Virtualization Specialist
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
- 
+
  ### Angel Pink
 - I'm a software engineer.
 - [![github-alt][github-img]](https://github.com/pinkangelin4u)
@@ -176,7 +176,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Arjun Rajpal
   - Software Engineer and a ML Enthusiast
   - [![github-alt][github-img]](https://github.com/arjunrajpal)
-  
+
 ### Ashmita Sharma
   - Grad Student
   - OpenSource Enthusiast
@@ -399,7 +399,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Open Source Enthusiast
 - [![twitter-alt][twitter-img]](https://twitter.com/Hammad_Lari)
   [![github-alt][github-img]](https://github.com/hammadmashkoor)
-  
+
 ### haqqer
 - Python Programmer and Web BackEnd Dev
 - college students, Open Source Enthusiast
@@ -429,6 +429,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - An undergraduate Computer Science student
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/longhai18)
+
+### HubbleJo
+- Student from Germany
+- Really likes Kotlin
+- Also interested in electronics and artificial Intelligence
+- [![github-alt][github-img]](https://github.com/hubblejo)
 
 # I
 
@@ -483,7 +489,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - and cats.
 - [![github-alt][github-img]](https://github.com/jcbrown602)
   [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/jcbrown602)
-  
+
 ### Jason McCutchan
 - Fullstack Javascript Developer
 - Bootcamp Grad -> Currently @ TDSecurities
@@ -587,7 +593,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like movies, series, electronic games, board games, RPG and beer.
 - [![twitter-alt][twitter-img]](https://twitter.com/Magno_Macedo89)
   [![github-alt][github-img]](https://github.com/magnoDev)
-  
+
 ### Manthan Keim
 - Bachelor student in Computer Science Engineering at MAIT.
 - I like movies, TV-series,reading books and listening songs.
@@ -807,7 +813,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Rui Min Sim
 - recent CS grad teaching at The Coding Space
 - :fuelpump::coffee:
-- :heart: :video_game:[survivio](http://surviv.io/) 
+- :heart: :video_game:[survivio](http://surviv.io/)
 - [![twitter-alt][twitter-img]](https://twitter.com/ruiminsim)
   [![github-alt][github-img]](https://github.com/rmsim)
 
@@ -936,7 +942,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/uds5501)
 
 ### Uğur Soğukpınar
-* Backend Developer 
+* Backend Developer
 * Interested in Machine Learning, Deep Learning, AI
 - [![github-alt][github-img]](https://github.com/ugursogukpinar)
 - [![twitter-alt][twitter-img]](https://twitter.com/sogukpinarugur)
