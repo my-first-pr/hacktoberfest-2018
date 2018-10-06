@@ -333,6 +333,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/DusekDan)
 - [![github-alt][github-img]](https://github.com/DusekDan)
 
+### Deddy
+- Developer wannabe.
+- [![github-alt][github-img]](https://github.com/Busterz)
+
 # E
 
 ### Elijah Rwothoromo
