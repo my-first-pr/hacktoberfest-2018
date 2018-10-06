@@ -769,6 +769,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Expert in Kaggle
 - [![github-alt][github-img]](https://github.com/uds5501)
 
+### Uğur Soğukpınar
+* Backend Developer 
+* Interested in Machine Learning, Deep Learning, AI
+- [![github-alt][github-img]](https://github.com/ugursogukpinar)
+- [![twitter-alt][twitter-img]](https://twitter.com/sogukpinarugur)
+
 ### Uditi Chaudhary
 - An undergraduate student
 - Interests: Machine learning
