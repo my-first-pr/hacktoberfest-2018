@@ -57,6 +57,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
     - Reactjs.
 - [![github-alt][github-img]](https://github.com/goelaakash79)
 
+### Abay
+- UI Designer, Frontend Developer
+- [![facebook-alt][facebook-img]](https://facebook.com/abaykandotcom)
+  [![twitter-alt][twitter-img]](https://twitter.com/abaykandotcom)
+  [![github-alt][github-img]](https://github.com/abaykan)
+
 ### Adeonir Kohl
 - UI Designer, Frontend Developer
 - [![twitter-alt][twitter-img]](https://twitter.com/adeonir)
@@ -177,9 +183,9 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - love games and league of legends
 - [![twitter-alt][twitter-img]](https://twitter.com/Ben_Aaron_Mort)
   [![github-alt][github-img]](https://github.com/jmort125)
-  
+
 ### Ben Thompson
-- New to open source 
+- New to open source
 - Web Developer with experience in SEO and digital marketing
 - Currently looking for a junior-level job in Chicago - want to be part of an awesome team!
 - Hobbies:
@@ -249,7 +255,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Darshan D V
 - I'm a CSE student studying at NITK Surathkal.
-- I am interested in Machine Learning, Deep Learning and have been working on related projects. 
+- I am interested in Machine Learning, Deep Learning and have been working on related projects.
 - Have worked on Android and Web Development also
 - [![github-alt][github-img]](https://github.com/darshandv)
 
@@ -258,7 +264,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Some of my hobbies include photography, math, writing code, video games and writing letters
 - [![instagram-alt][instagram-img]](https://www.instagram.com/darsh4n/)
   [![github-alt][github-img]](https://github.com/darshan934)
-  
+
 ### Deepak (d02d33pak)
 - Computer Science graduate working for XYZ corp (don't want to reveal the name here)
 - [![twitter-alt][twitter-img]](https://twitter.com/d02d33pak)
@@ -339,7 +345,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies is coding, eat and sleep
 - [![twitter-alt][twitter-img]](https://twitter.com/ahmad_haqqer)
   [![github-alt][github-img]](https://github.com/haqqer)
-  
+
 ### Helus
 - I'm a mathematics student.
 - I'm interested in data science.
@@ -482,7 +488,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like movies, series, electronic games, board games, RPG and beer.
 - [![twitter-alt][twitter-img]](https://twitter.com/Magno_Macedo89)
   [![github-alt][github-img]](https://github.com/magnoDev)
-  
+
 ### Mathieu Jolivet (Cynferdd)
 - Developper as a hobby since 1996, professionaly since 2005.
 - Bass player, I also love reading, photography and beer.
@@ -494,7 +500,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like to speak at conferences, events and meet-ups.
 - [![twitter-alt][twitter-img]](https://twitter.com/mdsbzalam)
   [![github-alt][github-img]](https://github.com/shahbaz17)
-  
+
 ### Mercy
 - I make bots for the Discord platform.
 - [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
@@ -540,6 +546,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
 # O
+
+### Omkar Kulkarni
+- I'm a Computer Engineer.
+- [![github-alt][github-img]](https://github.com/omkar1212)
 
 # P
 
@@ -668,6 +678,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies include coding, debating and acting
 - [![github-alt][github-img]](https://github.com/MittalS211)
 
+### Sukhwmit Kaur
+- I'm a contributor.
+- I study Electronics and Computer Engineering.
+- My hobbies include reading and sleeping.
+- [![github-alt][github-img]](https://github.com/sukhwmit12)
+
 ### Suvin Nimnaka
 - A Student from Sri Lanka
 - [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
@@ -677,7 +693,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ##TheNoodleMoose
 -Student Studying Web Development
--I Love Gaming and Coding 
+-I Love Gaming and Coding
 - [![github-alt][github-img]](https://github.com/TheNoodleMoose)
 
 ### Thomas Kulmbach (D0Tch)
@@ -693,6 +709,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### thilna
 - I am a web developer.
 - I like to listen to music while I code.
+
+### Trill Cosby
+- Student Computer Science
+- Reverse engineer all the things
+- [![github-alt][github-img](https://github.com/trillcosby)
 
 # U
 
@@ -711,6 +732,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Past Intern at OpenGenus Organisation
 - Expert in Kaggle
 - [![github-alt][github-img]](https://github.com/uds5501)
+
+### Uditi Chaudhary
+- An undergraduate student
+- Interests: Machine learning
+- [![github-alt][github-img]](https://github.com/Uditi5)
 
 # V
 
