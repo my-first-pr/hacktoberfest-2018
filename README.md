@@ -339,6 +339,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Small electronics enthutiast.
 - [![github-alt][github-img]](https://github.com/hafpaf)
 
+### Harsh Kumar
+- I'm a Full stack web developer and a Engineerisng Student.
+- I do freelance projects and involve myself in internships.
+- [![twitter-alt][twitter-img]](https://twitter.com/HarshCic)
+  [![github-alt][github-img]](https://github.com/HarshCic)
+
 ### haqqer
 - Python Programmer and Web BackEnd Dev
 - college students, Open Source Enthusiast
