@@ -553,6 +553,9 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
 
+### Pallavi Garg
+- [![github-alt][github-img]](https://github.com/plvigarg)
+
 ### PotatoPuree
 - Interactive Media MSc. student from Cork
 - [![github-alt][github-img]](https://github.com/PotatoPuree)
