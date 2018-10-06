@@ -396,6 +396,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 	- Listening to music.
 - [![twitter-alt][twitter-img]](https://twitter.com/izabela963)
 
+### Ivonildo bispo
+- I'm a Brazilian computer science student  ;)
+-a little about myself :
+-I love programming, I like AI content and IT related areas.
+- [(*_*)](https://github.com/Ivonildo31)
+
 # J
 
 ### James
