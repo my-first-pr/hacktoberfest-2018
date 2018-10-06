@@ -411,6 +411,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - and cats.
 - [![github-alt][github-img]](https://github.com/jcbrown602)
   [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/jcbrown602)
+  
+### Jason McCutchan
+- Fullstack Javascript Developer
+- Bootcamp Grad -> Currently @ TDSecurities
+- Learning Golang/Python and very interested in weareables/Fitness Tech
+- [![github-alt][github-img]](https://github.com/JClutch)
 
 ### Jay Vasant
 - Python enthusiast.
