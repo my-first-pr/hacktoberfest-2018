@@ -402,7 +402,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/jcbrown602)
   [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/jcbrown602)
 
-### Jay Vasanthttps://github.com/Ivonildo31
+### Jay Vasant
 - Python enthusiast.
 - My hobbies include:
 	- Competitive Programming
@@ -452,7 +452,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### LemonPepsi
 - Electrical engineering student
-- A fair bit rusty in coding, hope to get back into ithttps://github.com/Ivonildo31
+- A fair bit rusty in coding, hope to get back into it
 
 ### Lincoln Anders
 - 1st year CS major at Georgia Tech
