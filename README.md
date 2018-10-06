@@ -362,6 +362,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Small electronics enthutiast.
 - [![github-alt][github-img]](https://github.com/hafpaf)
 
+### Hammad Mashkoor
+- WordPress Developer
+- Open Source Enthusiast
+- [![twitter-alt][twitter-img]](https://twitter.com/Hammad_Lari)
+  [![github-alt][github-img]](https://github.com/hammadmashkoor)
+  
 ### haqqer
 - Python Programmer and Web BackEnd Dev
 - college students, Open Source Enthusiast
