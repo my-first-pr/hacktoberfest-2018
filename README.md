@@ -161,6 +161,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Arjun Rajpal
   - Software Engineer and a ML Enthusiast
   - [![github-alt][github-img]](https://github.com/arjunrajpal)
+  
+### Ashmita Sharma
+  - Grad Student
+  - OpenSource Enthusiast
 
 # B
 
