@@ -796,6 +796,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # W
 
+### Wisnu Febriadi
+- Im a student at [Universitas Maritim Raja Ali Haji](https://umrah.ac.id)
+- Programmer, 3D Designer, UI/UX
+- Dota never END :v
+- [![github-alt][github-img]](https://github.com/wfebriadi)
+- [![facebook-alt][facebook-img]](https://facebook.com/febriady.adys)
+
 # X
 
 # Y
