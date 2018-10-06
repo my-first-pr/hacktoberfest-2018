@@ -354,6 +354,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Nerd, geek, gamer, I love TLoK
 - [![github-alt][github-img]](https://github.com/frannievas)
 
+### Fabiane Souza
+- Software Developer who loves developing web and mobile. Always learning something new.
+- My hobbies include...
+- [![github-alt][github-img]](https://github.com/fabipriscila)
+
 # G
 
 ### Gerlis A.C  :computer: (@gerlis18)
