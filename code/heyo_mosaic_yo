@@ -1,0 +1,134 @@
+# CHRISTMAS LIGHTS MOSAIC
+# Credit to Kevin Wortman, my professor, for the skeleton code.
+import turtle
+
+def draw_mosaic():
+
+    turt = turtle.Turtle()
+    turtle.colormode(255)
+    colors = ['red','green','blue','yellow','orange','purple']
+    turt.speed(0)
+
+    draw_corner(turt, 0, 0, tile_x(0), tile_y(0))
+    draw_corner(turt, 0, 19, tile_x(19), tile_y(0))
+    draw_corner(turt, 19, 0, tile_x(0), tile_y(19))
+    draw_corner(turt, 19, 19, tile_x(19), tile_y(19))
+
+    # horizontal borders
+    for col in range(1, 19):
+        # top row
+        draw_border_tile(turt, 0, col, tile_x(col), tile_y(0),colors[col%6])
+        # bottom row
+        draw_border_tile(turt, 19, col, tile_x(col), tile_y(19),colors[col%6])
+
+    # vertical borders
+    for row in range(1, 19):
+        # left column
+        draw_border_tile(turt, row, 0, tile_x(0), tile_y(row),colors[row%6])
+        # right column
+        draw_border_tile(turt, row, 19, tile_x(19), tile_y(row),colors[row%6])
+
+    # inset
+    for row in range(2, 18):
+        for col in range(1, 18):
+            draw_inset_tile(turt, row, col, tile_x(col), tile_y(row))
+    
+    # centerpiece
+    draw_centerpiece(turt, 0, 0,colors)
+
+def tile_x(col):
+    return -300 + (30 * col)
+
+def tile_y(row):
+    return -300 + (30 * row)
+
+def draw_corner(turt, row, col, x, y):
+    colors = ['red','green','blue']
+    turt.up()
+    turt.setpos(x, y)
+    turt.down()
+    for i in range(3):
+        turt.fillcolor(colors[i])
+        turt.begin_fill()
+        turt.circle(6)
+        turt.right(120)
+        turt.end_fill()
+
+def draw_border_tile(turt, row, col, x, y, color):
+    turt.up()
+    turt.setpos(x, y)
+    turt.down()
+    turt.fillcolor(color)
+    turt.begin_fill()
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(5)
+    turt.left(180)
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(5)
+    turt.right(90)
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(5)
+    turt.left(180)
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(5)
+    turt.end_fill()
+    
+def draw_inset_tile(turt, row, col, x, y):
+    turt.color(160,82,45)
+    turt.up()
+    turt.setpos(x, y)
+    turt.down()
+    turt.circle(15,180)
+    turt.up()
+    turt.setpos(x+15, y-15)
+    turt.down()
+    turt.circle(15,-180)
+
+def draw_centerpiece(turt, x, y,colors):
+    i = 0
+    for angle in range(0, 360, 10):
+        draw_centerpiece_stencil(turt, x, y, angle,colors[i%6])
+        i += 1
+
+def draw_centerpiece_stencil(turt, x, y, angle,color):
+    turt.fillcolor(color)
+    turt.up()
+    turt.setpos(x, y)
+    turt.color(color)
+    turt.down()
+    turt.setheading(angle)
+    turt.circle(100)
+    turt.forward(100)
+    turt.begin_fill()
+    turt.circle(10)
+    turt.end_fill()
+    turt.right(20)
+    turt.forward(100)
+
+    turt.begin_fill()
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(10)
+    turt.left(180)
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(10)
+    turt.right(90)
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(10)
+    turt.left(180)
+    for _ in range(2):
+        turt.right(45)
+        turt.forward(10)
+    turt.end_fill()
+    
+
+turtle.setup(800, 800)
+wn = turtle.Screen()
+draw_mosaic()
+wn.exitonclick()
