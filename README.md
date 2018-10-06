@@ -290,6 +290,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/Dmytro_Litvinov)
   [![github-alt][github-img]](https://github.com/DmytroLitvinov)
 
+### Dmytro Grendach
+- DevOps engineer from Zhdany, Ukraine
+- Interested in Python, Golang
+- [![twitter-alt][twitter-img]](https://twitter.com/dmytrogrendach)
+  [![github-alt][github-img]](https://github.com/grendach)
+
 ### duongoku
 - I'm a student and I'm in last year of highschool.
 - I'm interested in competitive programming, physics, calculus and tech stuff.
