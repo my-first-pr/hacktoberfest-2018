@@ -501,6 +501,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love programming in C
 - [![github-alt][github-img]](https://github.com/jai37)
 
+### Jack [REDACTED]
+- I'm a student in the United States
+- I like developing and doing graphic art!
+- [![twitter-alt][twitter-img]](https://twitter.com/jvcks0n)
+
 # K
 
 ### Kamal Iqlaas
