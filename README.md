@@ -781,11 +781,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Tilak N Shenoy
 - Student
-  [![github-alt][github-img]](https://github.com/Tilak-Shenoy)
+- [![github-alt][github-img]](https://github.com/Tilak-Shenoy)
 
-##TheNoodleMoose
--Student Studying Web Development
--I Love Gaming and Coding
+### TheNoodleMoose
+- Student Studying Web Development
+- I Love Gaming and Coding
 - [![github-alt][github-img]](https://github.com/TheNoodleMoose)
 
 ### Thomas Kulmbach (D0Tch)
