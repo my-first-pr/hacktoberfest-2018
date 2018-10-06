@@ -97,6 +97,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
  
+ ### Angel Pink
+- I'm a software engineer.
+- [![github-alt][github-img]](https://github.com/pinkangelin4u)
+
 ### Anush93
   - I am a young developer in Sri Lanka
   - I'm currently a undergraduate
@@ -477,10 +481,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm an Electronic Engineer and busy with a Masters degree in Machine Learning
 - Currently learning the Rust programming language
 - [![github-alt][github-img]](https://github.com/GuineaPiet)
-
-### Angel Pink
-- I'm a software engineer.
-- [![github-alt][github-img]](https://github.com/pinkangelin4u)
 
 ### PotatoPuree
 - Interactive Media MSc. student from Cork
