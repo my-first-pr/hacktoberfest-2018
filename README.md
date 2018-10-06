@@ -332,6 +332,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My first hacktoberfest!
 - [![github-alt][github-img]](https://github.com/skibitsky)
 
+### Ganesh Majhi
+- Software Developer From Bengaluru,India.
+- Hobbies:
+  - Coding
+  - Gaming
+- [![twitter-alt][twitter-img]](https://twitter.com/ganeshmajhi)
+  [![github-alt][github-img]](https://github.com/ganeshmajhi)
+
 # H
 
 ### Hafpaf
