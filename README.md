@@ -498,6 +498,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like movies, series, electronic games, board games, RPG and beer.
 - [![twitter-alt][twitter-img]](https://twitter.com/Magno_Macedo89)
   [![github-alt][github-img]](https://github.com/magnoDev)
+  
+### Manthan Keim
+- Bachelor student in Computer Science Engineering at MAIT.
+- I like movies, TV-series,reading books and listening songs.
+- [![twitter-alt][twitter-img]](https://twitter.com/manthankeim)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/manthan.keim.54)
+  [![github-alt][github-img]](https://github.com/ManthanKeim)
 
 ### Mathieu Jolivet (Cynferdd)
 - Developper as a hobby since 1996, professionaly since 2005.
