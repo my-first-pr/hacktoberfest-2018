@@ -479,6 +479,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/mdsbzalam)
   [![github-alt][github-img]](https://github.com/shahbaz17)
 
+### mkaur7999
+  - I am a young developer in Sri Lanka
+  - I'm currently a undergraduate
+  - My hobbies include:
+    - Coding
+    - Gaming
+    - Nature Photography
+  - [![github-alt][github-img]](https://github.com/mkaur7999)
+
 # N
 
 ### Nikhil Singh
@@ -754,17 +763,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
-  
-### mkaur7999
-  - I am a young developer in Sri Lanka
-  - I'm currently a undergraduate
-  - My hobbies include:
-    - Coding
-    - Gaming
-    - Nature Photography
-  - [![github-alt][github-img]](https://github.com/mkaur7999)
-  
 
 ## How to Contribute
 
