@@ -729,6 +729,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # S
 
+### Sahil
+- I am an undergraduate student.
+- I just love coding and currently working on Web Designing projects.
+- Besides coding, I love to read novels and explore different places.
+- [![github-alt][github-img]](https://github.com/sahilwasan000)
+
 ### Samyak
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
