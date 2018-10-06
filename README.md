@@ -458,6 +458,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
   [![github-alt][github-img]](https://github.com/jillianandersonslate)
 
+### Jai Katiyar
+- I'm a B.sc.
+- I am Interested in Programming
+- I love programming in C
+- [![github-alt][github-img]](https://github.com/jai37)
+
 # K
 
 ### Kamal Iqlaas
