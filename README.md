@@ -562,6 +562,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
   [![github-alt][github-img]](https://github.com/MercyDoesCode)
 
+### Mohit Yadav
+- I am a programmer and a student.
+- [![twitter-alt][twitter-img]](https://twitter.com/_mohit_yadav)
+  [![github-alt][github-img]](https://github.com/mohityadav7)
+
 ### mkaur7999
   - I am a young developer in Sri Lanka
   - I'm currently a undergraduate
