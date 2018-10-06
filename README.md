@@ -117,12 +117,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm currently working as a Virtualization Specialist
 - [![twitter-alt][twitter-img]](https://twitter.com/ankso)
   [![github-alt][github-img]](https://github.com/anksos)
-  
+
 ### André Paulo
 - I'm a Junior Back-End Developer from Portugal
 - Music and Photography Lover
 - [![github-alt][github-img]](https://github.com/andre-paulo98)
-  
+
 ### Andrew Hinkson
 - I am a Beginner Front-End Developer
 - I am currently spending most of my free time learning.
@@ -705,6 +705,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - A Student from Sri Lanka
 - [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
   [![github-alt][github-img]](https://github.com/suvink)
+
+### Ste Royle
+- Web Developer based in The UK
+- [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
+  [![github-alt][github-img]](https://github.com/steroyle)
 
 # T
 
