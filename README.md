@@ -630,15 +630,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Learning
 - [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
   [![github-alt][github-img]](https://github.com/reesea)
-  
-  ###Rishabh jain
-  -Computer Science engineering
-  -Hobbies:
-   -swiming
-   -programming
+
+### Rishabh jain
+- Computer Science engineering
+- Hobbies:
+  - swiming
+  - programming
 - [![github-alt][github-img]](https://github.com/rishabhjain12345)
   
-  ### Robert Spurlin
+### Robert Spurlin
 - Web Developer
 - Hobbies:
   - Programming
