@@ -823,6 +823,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
 
+### Shivam Ralli
+- I am an Undergrad.
+- I am fascinated by the concept of Machine Learning and AI.
+- Apart from such inriguing concepts, I am a big fan of Data Science and reading fiction novels.
+- [![github-alt][github-img]](https://github.com/sralli)
+
 ### Shivani Gupta
 - I'm a computer science student.
 - I am Interested in Web Development.
