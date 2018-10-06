@@ -645,6 +645,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/rowhitswami)
   [![facebook-alt][facebook-img]](https://facebook.com/rowhitswami)
   [![github-alt][github-img]](https://github.com/rowhitswami)
+  
+### Rohit Kunji
+- Technical Event Coordinator @AASF
+- Hobbies:
+  - Photoshop
+  - Gaming
+  - Anime :heart:
+- [![facebook-alt][facebook-img]](https://facebook.com/rohit.kunji)
+  [![github-alt][github-img]](https://github.com/ji-kun)
 
 ### Rui Li
 - Software Engineer in NZ
