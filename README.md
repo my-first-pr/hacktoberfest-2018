@@ -607,6 +607,19 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
 
+### Raspal Seni
+- Freelance Writer, WordPress Developer, Linux Geek
+- Hobbies:
+  - Writing
+  - Coding
+  - D.I.Y.
+  - Martial arts
+  - Spirituality
+  - Badminton
+
+- [![twitter-alt][twitter-img]](https://twitter.com/raspalwrites)
+  [![github-alt][github-img]](https://github.com/raspals)
+
 ### Ravi Thella
 - React Developer
 - Hobbies:
