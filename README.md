@@ -292,6 +292,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in node, ionic, angular, docker
 - [![github-alt][github-img]](https://github.com/davidmoura07)
 
+### Daniel Dusek
+- No one of consequence.
+- [![twitter-alt][twitter-img]](https://twitter.com/DusekDan)
+- [![github-alt][github-img]](https://github.com/DusekDan)
+
 # E
 
 ### Elijah Rwothoromo
