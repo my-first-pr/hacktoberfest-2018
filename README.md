@@ -386,6 +386,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Gaming
 - [![twitter-alt][twitter-img]](https://twitter.com/ganeshmajhi)
   [![github-alt][github-img]](https://github.com/ganeshmajhi)
+  
+  ### Gunnika Batra
+- I'm a 2nd year B.Tech student.
+- Hobbies:
+    - Coding
+    -Sketching
+- [![github-alt][github-img]](https://github.com/Gunnika)
+
 
 # H
 
