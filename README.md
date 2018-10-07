@@ -966,6 +966,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Painter
 - [![github-alt][github-img]](https://github.com/Vishal1541)
 
+### Volkan Şengül
+- Software Engineer
+- Interest : Machine Learning
+- Teaching software development on youtube 
+- Digital Painting
+- [![github-alt][github-img]](https://github.com/volkansengul)
+  [![twitter-alt][twitter-img]](https://twitter.com/volkansengul)
+  [![youtube-alt][youtube-img]](https://youtube.com/volkansengul)
+
 # W
 
 ### Wisnu Febriadi
