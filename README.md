@@ -669,6 +669,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
+### Nomit Pahuja 
+- I'm pursuing B.Tech for Mechanical Engineering at VIT University,Vellore even though I love Computer Science
+- I love programming and currently learning Android App Development
+- My hobbies include programming, listening to songs, walking 
+- [![github-alt][github-img]](https://github.com/nomitpahuja)
+  [![twitter-alt][twitter-img]](https://twitter.com/NomitP)
+
+
 # O
 
 ### Omkar Kulkarni
