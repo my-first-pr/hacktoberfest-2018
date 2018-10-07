@@ -850,6 +850,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Computer Science Graduate
 - [![github-alt][github-img]](https://github.com/Shwetago)
 
+### Ahmed Fadhil
+- Web developer
+- I am working on chatbots and conversational agent.
+- [![github-alt][github-img]](https://github.com/ahmedfadhil)
+
 ### slouch
 - Linux Systems Administrator turning DevOps person
 - Engineer at heart, if it isn't broken, break it!
