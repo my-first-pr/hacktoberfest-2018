@@ -1305,6 +1305,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # S
 
+### Sadik Kuzu
+- I am a Senior Software Specialist with a demonstrated history of working in the insurance industry.
+- Skilled in Agile Methodologies (Scrum&Kanban), Test Automation, PL/SQL, Python, and MongoDB.
+- [![github-alt][github-img]](https://github.com/sadikkuzu)
+  [![twitter-alt][twitter-img]](https://twitter.com/sadikkuzu_mba)
+  [![tumblr-alt][tumblr-img]](http://sadikkuzu.mba)
+
 ### Sahil
 
 - I am an undergraduate student.
