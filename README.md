@@ -458,6 +458,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 -I love programming, I like AI content and IT related areas.
 - [(*_*)](https://github.com/Ivonildo31)
 
+### Ishita Varshney
+- I'm a computer science graduate student
+- I am a total noob
+- I am takin part in hacktoberfest for the first time
+- This is my github account: 
+  
+  [![github-alt][github-img]](https://github.com/ishitavarshney)
+  
 # J
 
 ### James
