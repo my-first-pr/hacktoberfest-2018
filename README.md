@@ -91,6 +91,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
   [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
 
+### Alena Anog
+- Aspiring Web Developer
+- Currently working in Retail
+- Hobbies:
+  - Playing Sports
+  - Learning how to code
+- [![twitter-alt][twitter-img]](https://twitter.com/alenanog)
+  [![github-alt][github-img]](https://github.com/alenanog)
+
 ### Alexandre Pereira Santos
 - Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
 - Programmer at Stefanini - Working with Test Autamatization
