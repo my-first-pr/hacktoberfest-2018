@@ -669,6 +669,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
+### Nitish Kumar Jha 
+- I am from Mechanical but want to start carrier in software development 
+- Passionate about Technologies - Java, C, C ++, Android 
+- [![github-alt][github-img]](https://github.com/njha6185) 
+
+
 # O
 
 ### Omkar Kulkarni
