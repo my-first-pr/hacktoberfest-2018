@@ -663,6 +663,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently pursuing a PhD scholarship.
 - [![github-alt][github-img]](https://github.com/MartinNievas)
 
+### Nithyashree Ravishankar
+- I am an indie game designer
+- My favourite games are Skyrim and MOTHERGUNSHIP
+- [![github-alt][github-img]](https://github.com/Nhrkr)
+
 ### Nikhil Shrivastava
 - I am a student at ILovely Professional University persuingmy B.Tech degree in computer science.
 - I am very much passionate about programming.
