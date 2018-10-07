@@ -254,6 +254,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/CelsoUliana)
   [![facebook-alt][facebook-img]](https://www.facebook.com/profile.php?id=100009599017240&ref=bookmarks)
 
+### Chad Ramsey
+- Mobile and web services developer.
+- Enjoy working in Kotlin.
+- Have a sweet spot for retro gaming.
+- [![github-alt][github-img]](https://github.com/chadramsey)
+
 ### Charlye
 - Student of Development of multiplatform applications - Last year.
 - Working in the Povisa hospital (Programming and systems).
