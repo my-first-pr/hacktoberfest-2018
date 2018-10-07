@@ -109,7 +109,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Chemist by profession, wannabe software developer
 - [![twitter-alt][twitter-img]](https://twitter.com/avarshal)
   [![github-alt][github-img]](https://github.com/mudspringhiker)
-- ![Know more at](https://alonavarshal.com)
+- [Know more at](https://alonavarshal.com)
   
 ### Ananya
 - I'm a junior year student.
