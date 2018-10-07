@@ -57,6 +57,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
     - Reactjs.
 - [![github-alt][github-img]](https://github.com/goelaakash79)
 
+### Akshay Agarwal
+- Student
+- [![github-alt][github-img]](https://github.com/akag98)
+
 ### Abay
 - UI Designer, Frontend Developer
 - [![facebook-alt][facebook-img]](https://facebook.com/abaykandotcom)
