@@ -295,6 +295,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/d02d33pak)
   [![github-alt][github-img]](https://github.com/d02d33pak)
 
+### Dejan
+- Self-taught full-stack developer from Bosnia and Herzegovina.
+- Interested in everything JavaScript, Python and Kotlin.
+- [![github-alt][github-img]](https://github.com/pdejan)
+
 ### Dmytro Litvinov
 - Full Stack Python develop from Ukraine :snake:
 - [My website](https://DmytroLitvinov.com)
