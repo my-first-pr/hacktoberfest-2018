@@ -710,6 +710,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My favourite programming language is C++ and I'm a sport programmer.
 - [![github-alt][github-img]](https://github.com/ma5terdrag0n)
 
+### Priyam Mehta
+- I'm 11th grade Computer Science Student.
+- I am a aspiring Software Developer.
+- [![github-alt][github-img]](https://github.com/priyyyamm)
+
 # Q
 
 # R
