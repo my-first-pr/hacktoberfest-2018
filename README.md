@@ -98,6 +98,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/alexEndrios)
   [![facebook-alt][facebook-img]](https://facebook.com/alex.endrios)
   [![github-alt][github-img]](https://github.com/alexendrios)
+  
+### Alexey Salangin
+- Computer Engineering student from Saint Petersburg
+- iOS developer
+- I am studying data science
+- [![github-alt][github-img]](https://github.com/magauran)
 
 ### Alok Rajasukumaran
 - AI Architect by profession
