@@ -475,6 +475,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I also like playing the cello, watching shows on Netflix, and cooking.
 - [![github-alt][github-img]](https://github.com/janicek1m)
 
+### Janitha Rasanga
+- I am a student of University of Moratuwa
+- [![facebook-alt][facebook-img]](https://web.facebook.com/janitha.rasanga.7)
+  [![github-alt][github-img]](https://github.com/Janitha133)
+
 ### Jason
 - AI/ML enthusiast
 - High-functioning Autistic
