@@ -50,7 +50,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Aakash Goel
 - Student, Self-taught Developer, Aspiring Entreprenuer
 - Currently, my team is open to pick projects.
-- I am currently work on:
+- I currently work on:
     - Android Development
     - Nodejs
     - Django
@@ -876,6 +876,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Web Developer based in The UK
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
+  
+ ### Swati Singh
+- Budding iOS developer and UNIX enthusiast.
+- I also do projects in 
+    - Python
+    - HTML
+    - C, C++
+    
+ - [![github-alt][github-img]](https://github.com/swatisingh45)
+   
 
 # T
 
