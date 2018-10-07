@@ -390,8 +390,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   ### Gunnika Batra
 - I'm a 2nd year B.Tech student.
 - Hobbies:
-    - Coding
-    -Sketching
+    Coding and Sketching
 - [![github-alt][github-img]](https://github.com/Gunnika)
 
 
