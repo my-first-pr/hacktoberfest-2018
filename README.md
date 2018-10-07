@@ -712,7 +712,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Priyam Mehta
 - I'm 11th grade Computer Science Student.
-- I am a aspiring Software Developer.
+- I am an aspiring Software Developer.
 - [![github-alt][github-img]](https://github.com/priyyyamm)
 
 # Q
