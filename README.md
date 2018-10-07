@@ -569,6 +569,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineer in Spain
 - [![github-alt][github-img]](https://github.com/lchaglla)
 
+### Lúcio Leandro
+- Computer science student
+-  nerd, I like Free Software, musician
+- [![github-alt][github-img]](https://github.com/lucioleandro)
+
 ### Luke Oliff
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
