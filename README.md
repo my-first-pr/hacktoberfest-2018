@@ -333,6 +333,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/muydiego)
   [![github-alt][github-img]](https://github.com/diemax)
 
+### Dmitry Babinkin
+- I'm a mathematics student from Saint-Petersburg,Russia
+- I'm interested in C++, math, football and video games.
+- https://github.com/babinkin
+
 ### Dmytro Litvinov
 - Full Stack Python develop from Ukraine :snake:
 - [My website](https://DmytroLitvinov.com)
