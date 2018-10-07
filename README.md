@@ -1,4 +1,4 @@
-﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -991,6 +991,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/drxdesign)
   [![github-alt][github-img]](https://github.com/DRXDesign)
   [![dribbblegit status-alt][dribbble-img]](https://dribbble.com/DRXDesign)
+
+### Zornitsa Asanska
+- I am a first year university student and those are my first steps in GitHub.
+- I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
+-[![github-alt][github-img]] (https://github.com/ZornitsaAsanska)
 
 ------------
 ## Copyright
