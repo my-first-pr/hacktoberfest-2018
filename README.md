@@ -766,6 +766,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/manthankeim)
   [![facebook-alt][facebook-img]](https://www.facebook.com/manthan.keim.54)
   [![github-alt][github-img]](https://github.com/ManthanKeim)
+ 
+ ### Manisha
+- Master's Student at IGDTUW, New Delhi. 
+- [![twitter-alt][twitter-img]](https://twitter.com/manishakeim)
+  [![github-alt][github-img]](https://github.com/manishakeim)
 
 ### Mathieu Jolivet (Cynferdd)
 - Developper as a hobby since 1996, professionaly since 2005.
