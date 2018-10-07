@@ -810,6 +810,9 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - :heart: :video_game:[survivio](http://surviv.io/) 
 - [![twitter-alt][twitter-img]](https://twitter.com/ruiminsim)
   [![github-alt][github-img]](https://github.com/rmsim)
+### Rachit Manchanda
+Student, Self-taught Developer
+-:github handle=[rachitmanchanda]
 
 # S
 
