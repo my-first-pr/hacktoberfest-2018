@@ -105,6 +105,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
   [![github-alt][github-img]](https://github.com/alokraj68)
 
+### Alona Varshal
+- Chemist by profession, wannabe software developer
+- [![twitter-alt][twitter-img]](https://twitter.com/avarshal)
+  [![github-alt][github-img]](https://github.com/mudspringhiker)
+  
 ### Ananya
 - I'm a junior year student.
 - I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
