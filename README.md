@@ -349,6 +349,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I share as I learn at [DIY DS](https://www.instagram.com/dodsyourself/) and [DIY CS](https://www.instagram.com/docsyourself/) on instagram.
 - Started from the bottom, now we here: [![github-alt][github-img]](https://github.com/festusdrakon)
 
+### Francesco Tabaro
+- Bioinformatics PhD student
+- Interested in data science, web development and cooking 
+- [![twitter-alt][twitter-img]](https://twitter.com/FrancescoTabaro) 
+  [![github-alt][github-img]](https://github.com/ftabaro)
+
 ### Francisco Nievas (frannievas)
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
