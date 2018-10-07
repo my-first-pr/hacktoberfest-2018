@@ -635,7 +635,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![twitter-alt][twitter-img]](https://twitter.com/creativemartial)
 
 ### Nikhil Taneja
-- I am a Noob
+- Just a Noob
   [![github-alt][github-img]](https://github.com/itsnikhil)
 
 ### Nabheet Madan
