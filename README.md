@@ -245,6 +245,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/TheByteStuff )
   [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
 
+### Bruno Dulcetti
+- I'm a Front-End developer and work with React, React Native, Angular, AngularJS, ES6, CSS3, HTML5, UX and others technologies.
+- [![github-alt][github-img]](https://github.com/dulcetti )
+  [![twitter-alt][twitter-img]](https://twitter.com/dulcetti)
+
 # C
 
 ### Celso Uliana
