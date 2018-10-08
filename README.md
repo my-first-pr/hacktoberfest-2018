@@ -354,6 +354,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![twitter-alt][twitter-img]](https://twitter.com/ryokugyu_)
 
 # I
+### IGC
+- I am a Brazilian SI student.
+- I like JavaScript and Python.
+- [![github-alt][github-img]](https://github.com/icarodgl)
 
 ### IGC
 - I am a Spanish CS student and developer.
