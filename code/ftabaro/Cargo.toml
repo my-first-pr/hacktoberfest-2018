@@ -1,0 +1,7 @@
+[package]
+name = "ftabaro"
+version = "0.1.0"
+authors = ["ftabaro <francesco.tabaro@gmail.com>"]
+
+[dependencies]
+rand = "0.5.5"
