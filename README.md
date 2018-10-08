@@ -1,4 +1,4 @@
-﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -600,6 +600,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Bass player, I also love reading, photography and beer.
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
+  
+### Maysa Borges
+- Graduated in Design, focused on UX and UI Design.
+- Hobbist illustrator and photographer.
+- [![github-alt][github-img]](https://github.com/maysaborges)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/maysabgama)
 
 ### Md Shahbaz Alam
 - I'm a Full Stack Developer, Technical Evangelist and Open Source enthusiast.
