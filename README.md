@@ -786,6 +786,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # R
 
+### Raahel Baig
+- Second year CS student at GVP, Vizag.
+- Just learned frontend development
+- Hobbies: 
+  - Coding
+  - Writing
+  - Cooking
+  - Cricket
+- [![github-alt][github-img]](https://github.com/RaahelBa1g)
+
 ### rahman95
 - Software Developer born in Germany raised in the UK. 🇩🇪 🇬🇧
 - Hobbies include:
