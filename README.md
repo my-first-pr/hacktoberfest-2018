@@ -618,6 +618,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like developing and doing graphic art!
 - [![twitter-alt][twitter-img]](https://twitter.com/jvcks0n)
 
+## José Lucas
+- I'm taking the 4th period of the course in computer science.
+- I'm Brazilian and I'm 18 years old.
+- I love programming in C#, Java, Python and Javascript.
+- My hobbies include:
+  - read books 
+  - play games(lol: pod1, csgo: grandmasterflashdj)
+- [![twitter-alt][twitter-img]](https://twitter.com/lucasAlvesPOD)]
+  [![github-alt][github-img]](https://github.com/lukpod1)
 
 ### John C
 - Hackerpreneur
@@ -631,7 +640,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://www.facebook.com/joao.coelho.505)
 - [![github-alt][github-img]](https://github.com/vtavares11)
 
-
 # K
 
 ### Kamal Iqlaas
@@ -643,8 +651,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Pursuing Undergraduation in IT.
 - Loves coding and dancing.
 - [![github-alt][github-img]](https://github.com/KanchanThareja)
-
-
 
 ### Karen Geerts
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
