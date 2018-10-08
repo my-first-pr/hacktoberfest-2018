@@ -756,6 +756,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Like to play with cats.
 - [![github-alt][github-img]](https://github.com/yudhst)
 
+### Nazaren0k
+- I'm studying Software Engineer at IFNTUOG in Ivano-Frankivsk
+- [![twitter-alt][twitter-img]](https://twitter.com/OctoFly1)
+  [![github-alt][github-img]](https://github.com/Nazaren0k)
+  
 ### Nelly
 - I'm a comp sci student in NZ.
 - [![github-alt][github-img]](https://github.com/NotNelly)
