@@ -1122,6 +1122,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love coding.
 - [![github-alt][github-img]](https://github.com/VidushiJain30)
 
+### Vinod J
+- I'm a Software Engineer, working in a startup company
+- Frontend developer
+- [![github-alt][github-img]](https://github.com/VinodVJ)
+- [![twitter-alt][twitter-img]](https://twitter.com/Vinod70474537)
+
 ### Vishal Anand
 - Student
 - Programmer
