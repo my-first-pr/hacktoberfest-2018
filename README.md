@@ -669,7 +669,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
-### Aakash Goel
+### NotoriousRebel
 - Student pursuing B.S. in Computing Security.
 - Passionate about learning and coding useful things.
 - I enjoy python and making things more efficient. 
