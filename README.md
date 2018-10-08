@@ -524,6 +524,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Love tech, learn tech, use tech, teach tech.
 - [![github-alt][github-img]](https://github.com/Iqlaas)
 
+### Kanchan Thareja
+- Pursuing Undergraduation in IT.
+- Loves coding and dancing.
+- [![github-alt][github-img]](https://github.com/KanchanThareja)
+
+
+
 ### Karen Geerts
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
 - [![twitter-alt][twitter-img]](https://twitter.com/GeekRanters)
