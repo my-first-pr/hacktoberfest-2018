@@ -508,6 +508,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Learning Golang/Python and very interested in weareables/Fitness Tech
 - [![github-alt][github-img]](https://github.com/JClutch)
 
+### Jatin Mehta
+- Wannabe Web Developer
+- I also love Python
+  [![github-alt][github-img]](https://github.com/Exoceus)
+
 ### Jay Vasant
 - Python enthusiast.
 - My hobbies include:
