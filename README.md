@@ -580,7 +580,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
   
-  ### Lucas Gomes Flegler
+### Lucas Gomes Flegler
 - Bachelor student in information systems and experience with Pentaho suite.
 - [![twitter-alt][twitter-img]](https://twitter.com/lukasgf18)
   [![github-alt][github-img]](https://github.com/lukasg18)
