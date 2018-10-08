@@ -549,11 +549,19 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like developing and doing graphic art!
 - [![twitter-alt][twitter-img]](https://twitter.com/jvcks0n)
 
+
+### John C
+- Hackerpreneur
+- I teach front end web development
+- Learning Elixir/Phoenix
+- [![github-alt][github-img]](https://github.com/thejohncotton)
+
 ### João Tavares
 - I'm graduated in business management, and now I pursue a carreer as a developer. Hope I can do it :)
 - I like doing some stuff on Photoshop and play guitar in my spare time.
 - [![facebook-alt][facebook-img]](https://www.facebook.com/joao.coelho.505)
 - [![github-alt][github-img]](https://github.com/vtavares11)
+
 
 # K
 
