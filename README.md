@@ -1437,6 +1437,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love Coding
   [![github-alt][github-img]](https://github.com/thientranreactdev)
 
+### Thomas Mort
+- I am a high school student from the UK.
+- I'm a massive fan of Twenty One Pilots and i'm hoping to see them sometime in the future!
+- [![twitter-alt][twitter-img]](https://twitter.com/Tommygun200202)
+  [![github-alt][github-img]](https://github.com/Tommygun200202)
+
 ### Trill Cosby
 
 - Student Computer Science
