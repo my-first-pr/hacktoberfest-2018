@@ -569,6 +569,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Electrical engineering student
 - A fair bit rusty in coding, hope to get back into it
 
+### Letícia Maciel
+- Computer engineering student at UFPE
+- The future is female!
+
 ### Lincoln Anders
 - 1st year CS major at Georgia Tech
 - MERN full stack, primary interest in backend APIs
