@@ -1346,6 +1346,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Besides coding, I love to read novels and explore different places.
 - [![github-alt][github-img]](https://github.com/sahilwasan000)
 
+### Sattu
+
+- I am an undergraduate student.
+- [![github-alt][github-img]](https://github.com/CantFindAName0001)
+
 ### Samyak
 
 - Description about me
