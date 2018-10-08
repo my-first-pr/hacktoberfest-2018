@@ -327,6 +327,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Computer Science graduate working for XYZ corp (don't want to reveal the name here)
 - [![twitter-alt][twitter-img]](https://twitter.com/d02d33pak)
   [![github-alt][github-img]](https://github.com/d02d33pak)
+  
+  ### Diego (diemax)
+- Php y JavaScript developer, React lover
+- [![twitter-alt][twitter-img]](https://twitter.com/muydiego)
+  [![github-alt][github-img]](https://github.com/diemax)
 
 ### Dmytro Litvinov
 - Full Stack Python develop from Ukraine :snake:
