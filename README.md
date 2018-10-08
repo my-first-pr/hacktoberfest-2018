@@ -247,6 +247,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineer and a ML Enthusiast
 - [![github-alt][github-img]](https://github.com/arjunrajpal)
 
+### ASHKUSH
+
+- Undergrad 2nd year CS student
+- Open Source contributor
+- [![github-alt][github-img]](https://github.com/ashkush21)
+
 ### Ashmita Sharma
 
 - Grad Student
