@@ -1007,6 +1007,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/caomuss)
   [![github-alt][github-img]](https://github.com/caomus)
 
+### Tor Morten Jensen
+- 29 year old full-stack developer living and working in Norway.
+- [![twitter-alt][twitter-img]](https://twitter.com/tormorten)
+  [![github-alt][github-img]](https://github.com/tormjens)
+
 # U
 
 ### Utkarsh Kunwar
