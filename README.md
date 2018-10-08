@@ -1060,6 +1060,18 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # P
 
+### Prateek Arora
+
+- JavaScript Student, 
+- Currently, Doing My nano Degree Form Udacity.
+- I am currently Learn on:
+  - HTML
+  - Nodejs
+  - CSS
+  - JavaScript
+  - Reactjs.
+- [![github-alt][github-img]](https://github.com/prarora98)
+
 ### pankhuri22
 
 - Computer Science Undergraduate
