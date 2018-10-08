@@ -556,7 +556,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love playing and making games.
 - [![github-alt][github-img]](https://github.com/kundan28)
 
-
 ### Kusal Kahaduwa
 - I am an undergraduate.
 - I love AI, programming and web development.
