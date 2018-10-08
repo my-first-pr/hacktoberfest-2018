@@ -995,7 +995,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Zornitsa Asanska
 - I am a first year university student and those are my first steps in GitHub.
 - I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
--[![github-alt][github-img]] (https://github.com/ZornitsaAsanska)
+- [![github-alt][github-img]] (https://github.com/ZornitsaAsanska)
 
 ------------
 ## Copyright
