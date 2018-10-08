@@ -1156,6 +1156,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - First PR!
 - [![github-alt][github-img]](https://github.com/prajwalMR)
 
+### Pranjal
+
+- Btech in ECE.Thapar Universty
+- First PR!
+- [![github-alt][github-img]](https://github.com/pranjalsingh20)
+
 # Q
 
 ### Quang Vũ Nhật
