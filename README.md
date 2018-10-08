@@ -1101,6 +1101,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/vaibhav_a1997)
   [![github-alt][github-img]](https://github.com/vaibhavagarwal220)
 
+### VaultVulp
+- Developer, Team Lead, Farther
+- [Blog](https://www.vaultvulp.tk/)
+- [![github-alt][github-img]](https://github.com/VaultVulp)
+
 ### Vidushi Jain
 - I'm a computer science student
 - Interested in app development
