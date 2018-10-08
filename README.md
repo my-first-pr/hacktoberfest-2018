@@ -1085,10 +1085,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/pranav0408)
   
 ### Prince Sachdeva
+
 - Competitive Programmer
 - Btech 2nd Year
 - C++ - Favourite Programming Language
-  [![github-alt][github-img]](https://github.com/prince17080)
+- [![github-alt][github-img]](https://github.com/prince17080)
 
 ### Pritish Thakkar
 
