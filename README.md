@@ -539,6 +539,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love programming in C
 - [![github-alt][github-img]](https://github.com/jai37)
 
+### João Canabarro
+- I'm a Brazilian SC.
+- I love programming in JavaScript and Python.
+- [![github-alt][github-img]](https://github.com/jcanabarro)
+
 ### Jack [REDACTED]
 - I'm a student in the United States
 - I like developing and doing graphic art!
