@@ -805,6 +805,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://facebook.com/rohit.kunji)
   [![github-alt][github-img]](https://github.com/ji-kun)
 
+### Roxana Oanes
+- Studying web development
+- I am a gym passionate
+- I like reading and watching tv series
+[![github-alt][github-img]](https://github.com/roxyoanes) 
+
+
 ### Rui Li
 - Software Engineer in NZ
 - [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
