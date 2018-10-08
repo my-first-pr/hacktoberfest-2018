@@ -1251,6 +1251,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Student of Computer Science at the Federal University of Campina Grande (UFCG).  
 
+### Rachit Manchanda
+
+- Student, Self-taught Developer
+- [![github-alt][github-img]](https://github.com/rachitmanchanda)
+
 # S
 
 ### Sahil
