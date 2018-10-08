@@ -359,6 +359,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love movies, poetry and hangouts.
 - [![twitter-alt][twitter-img]](https://twitter.com/rwothoromo)
   [![github-alt][github-img]](https://github.com/rwothoromo)
+  
+### Evgeniy Vasilev
+- Software Developer
+- I'm a good man.
+- [![github-alt][github-img]](https://github.com/johnynsk)
 
 # F
 
