@@ -115,6 +115,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
   [![github-alt][github-img]](https://github.com/alokraj68)
 
+### Ana Carolina Ferreira
+- I am a software developer undergraduate student, from Brasil
+- Me: Punk Rock, Open Source, Makeup
+- [![twitter-alt][twitter-img]](https://twitter.com/anadedavid)
+  [![github-alt][github-img]](https://github.com/anacdf)
+
 ### Ananya
 - I'm a junior year student.
 - I am an Android Developer. I also work on other technologies such as web development using Django and Machine Learning.
