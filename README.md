@@ -327,6 +327,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Gaming
 - [![github-alt][github-img]](https://github.com/singhbir)
 
+## Brenda Fitz
+- I'm a hobby programmer.
+- Just playing with Git.
+- [![github-alt][github-img]](https://github.com/brenda-fitz)
+
 ### Brian Burress
 
 - I'm Brian Burress, IT consultant with The Byte Stuff
