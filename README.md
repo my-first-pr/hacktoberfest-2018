@@ -68,6 +68,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/adeonir)
   [![github-alt][github-img]](https://github.com/adeonir)
 
+### Adhish Anand
+- Student, Chitkara University
+- Self-taught Developer, Aspiring Entreprenuer
+- I am currently work on:
+    - Android Development
+    - Python
+    - Machine Learning
+- [![github-alt][github-img]](https://github.com/adhishanand9)
+
+
 ### Aditya Choudhary
 - Software Engineer in India
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
