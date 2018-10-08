@@ -388,6 +388,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a good man.
 - [![github-alt][github-img]](https://github.com/johnynsk)
 
+### Edson Weslley
+- Graduating in Computer Science
+- Artificial intelligence
+- Information security
+
 # F
 
 ### festusdrakon
