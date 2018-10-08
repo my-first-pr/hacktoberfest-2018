@@ -823,6 +823,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
 
+### Satyendra kumar
+- I am a 2nd yr CS graduate at Delhi technological university.
+- I love football and problem solving(CP).
+- giving a try to open source.
+- [![github-alt][github-img]](https://github.com/sats98)
+
 ### Shivani Gupta
 - I'm a computer science student.
 - I am Interested in Web Development.
