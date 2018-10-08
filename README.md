@@ -569,6 +569,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineer in Spain
 - [![github-alt][github-img]](https://github.com/lchaglla)
 
+### Luiz Rosa
+- I'm a brazilian software developer, IoT enthusiast and currently front-end engineer. I am starting a fresh new project called [JegueCast](https://github.com/luizguilhermefr/JegueCast), a personal _localhost_ video streaming service.
+- [![github-alt][github-img]](https://github.com/luizguilhermefr)
+
 ### Luke Oliff
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
