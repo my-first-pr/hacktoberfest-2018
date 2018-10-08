@@ -811,7 +811,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like reading and watching tv series
 [![github-alt][github-img]](https://github.com/roxyoanes) 
 
-
 ### Rui Li
 - Software Engineer in NZ
 - [![twitter-alt][twitter-img]](https://twitter.com/RuiLi15)
