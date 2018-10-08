@@ -569,7 +569,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineer in Spain
 - [![github-alt][github-img]](https://github.com/lchaglla)
 
-### Lukas
+### Mo7art
 - Bachelor student in information systems
 - [![github-alt][github-img]](https://github.com/Mozartuss)
 
