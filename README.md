@@ -1011,6 +1011,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I Love Gaming and Coding
 - [![github-alt][github-img]](https://github.com/TheNoodleMoose)
 
+### Thereatra
+- IT student
+- New to coding
+- [![github-alt][github-img]](https://github.com/Thereatra)
+
 ### Thomas Kulmbach (D0Tch)
 - Webdeveloper working in Denmark
 - [![github-alt][github-img]](https://github.com/d0tch)
