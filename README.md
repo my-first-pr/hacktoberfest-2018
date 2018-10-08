@@ -792,6 +792,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # Q
 
+### Quang Vũ Nhật
+- I'm an Information Security Engineer.
+- I'm a back end programmer.
+- My current programming language is Python.
+- [![github-alt][github-img]](https://github.com/b3g00d)
+
 # R
 
 ### Raahel Baig
