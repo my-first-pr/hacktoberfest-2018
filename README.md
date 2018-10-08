@@ -855,6 +855,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Souvik Maji
+- Full Stack Web Dev
+- Check out my twitter bot below
+- [![twitter-alt][twitter-img]](https://twitter.com/QuotebotMaster)
+- [![github-alt][github-img]](https://github.com/souvikmaji)
+
 ### Srishty Mittal
 - I'm a contributor and web developer
 - I study Electronics and Communication Engineering
