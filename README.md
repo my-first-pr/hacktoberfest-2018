@@ -805,6 +805,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Front End dev doing VR/ AR.
 - [![github-alt][github-img]](https://github.com/pijusrancevas)
 
+### Prajwal
+- Software Developer.
+- First PR!
+- [![github-alt][github-img]](https://github.com/prajwalMR)
+
 # Q
 
 ### Quang Vũ Nhật
