@@ -252,6 +252,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Grad Student
 - OpenSource Enthusiast
 
+### Azhar Mithani
+
+- I am a young Software Engineer and a ML Enthusiast in India
+- I'm currently a undergraduate
+- My hobbies include:
+  - Coding
+  - Gaming
+  - Machine Learning fun applications
+- [![github-alt][github-img]](https://github.com/AzharMithani)
+
 # B
 
 ### Banso D. Wisdom
