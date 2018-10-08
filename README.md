@@ -735,6 +735,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My favourite programming language is C++ and I'm a sport programmer.
 - [![github-alt][github-img]](https://github.com/ma5terdrag0n)
 
+### Pijus Rancevas
+- Software Engineering student with background in arts.
+- Front End dev doing VR/ AR.
+- [![github-alt][github-img]](https://github.com/pijusrancevas)
+
 # Q
 
 # R
