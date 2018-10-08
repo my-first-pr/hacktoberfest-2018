@@ -445,6 +445,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/longhai18)
 
 # I
+### Icaro Lima
+- I am a Brazilian SI student.
+- I like JavaScript and Python.
+- [![github-alt][github-img]](https://github.com/icarodgl)
 
 ### Iain Earl
 - DevOps Engineer, UK
