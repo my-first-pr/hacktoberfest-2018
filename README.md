@@ -569,6 +569,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineer in Spain
 - [![github-alt][github-img]](https://github.com/lchaglla)
 
+### Mo7art
+- Bachelor student in information systems
+- [![github-alt][github-img]](https://github.com/Mozartuss)
+
 ### Luke Oliff
 - Technical Writer working for @auth0
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
