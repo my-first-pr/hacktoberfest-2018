@@ -601,11 +601,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
   
-  ### Maysa Borges
-  - Graduated in Design, focused on UX and UI Design.
-  - Hobbist illustrator and photographer.
-  -[![github-alt][github-img]](https://github.com/maysaborges)
-   [![facebook-alt][facebook-img]](https://www.facebook.com/maysabgama)
+### Maysa Borges
+- Graduated in Design, focused on UX and UI Design.
+- Hobbist illustrator and photographer.
+- [![github-alt][github-img]](https://github.com/maysaborges)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/maysabgama)
 
 ### Md Shahbaz Alam
 - I'm a Full Stack Developer, Technical Evangelist and Open Source enthusiast.
