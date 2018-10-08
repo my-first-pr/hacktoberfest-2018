@@ -517,6 +517,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like developing and doing graphic art!
 - [![twitter-alt][twitter-img]](https://twitter.com/jvcks0n)
 
+### John C
+- Hackerpreneur
+- I teach front end web development
+- Learning Elixir/Phoenix
+- [![github-alt][github-img]](https://github.com/thejohncotton)
+
 # K
 
 ### Kamal Iqlaas
