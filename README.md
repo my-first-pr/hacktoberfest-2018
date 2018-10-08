@@ -1094,6 +1094,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - [![github-alt][github-img]](https://github.com/plvigarg)
 
+### Pittyolo
+
+- I'm an Audio Network Engineer
+- I'm working with VBA and learning C++
+- [![github-alt][github-img]](https://github.com/Pittyolo)
+
 ### PotatoPuree
 
 - Interactive Media MSc. student from Cork
