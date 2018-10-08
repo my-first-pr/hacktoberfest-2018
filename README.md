@@ -636,6 +636,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
 
+### Lokesh Raj Arora
+- I am a 22 year old self taught web developer, I love working on web technologies
+- [![twitter-alt][twitter-img]](https://twitter.com/thatlokiiguy)
+  [![facebook-alt][facebook-img]](https://facebook.com/lokiiarora)
+  [![github-alt][github-img]](https://github.com/lokiiarora)
+
 ### Lucas Gomes Flegler
 - Bachelor student in information systems and experience with Pentaho suite.
 - [![twitter-alt][twitter-img]](https://twitter.com/lukasgf18)
@@ -1149,11 +1155,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/DRXDesign)
   [![dribbblegit status-alt][dribbble-img]](https://dribbble.com/DRXDesign)
 
-### Lokesh Raj Arora
-- I am a 22 year old self taught web developer, I love working on web technologies
-- [![twitter-alt][twitter-img]](https://twitter.com/thatlokiiguy)
-  [![facebook-alt][facebook-img]](https://facebook.com/lokiiarora)
-  [![github-alt][github-img]](https://github.com/lokiiarora)
 ------------
 ## Copyright
 
