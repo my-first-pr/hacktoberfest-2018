@@ -951,10 +951,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/mkaur7999)
 
 ### Muhammad Harits Syaifulloh
+
 - Backend developer
 - I am currently work on:
-    - Nodejs (express, restify, adonis)
-    - PHP (Slim 3, Laravel 5)
+  - Nodejs (express, restify, adonis)
+  - PHP (Slim 3, Laravel 5)
 - [![facebook-alt][facebook-img]](https://twitter.com/mharitss)
   [![github-alt][github-img]](https://github.com/askmhs)
 
