@@ -592,8 +592,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - R&D Engineer AI Enthusiast .
   [![github-alt][github-img]](https://github.com/MElHussieni)
 
-
-
 ### Manthan Keim
 - Bachelor student in Computer Science Engineering at MAIT.
 - I like movies, TV-series,reading books and listening songs.
