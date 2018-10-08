@@ -385,6 +385,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # G
 
+### Gargi
+- I am an Undergraduate .
+- I like competitive programming. 
+
 ### Gerlis A.C  :computer: (@gerlis18)
 - I am from Colombia.
 - I am a junior developer Java, Javascript, HTML.
