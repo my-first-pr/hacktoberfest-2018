@@ -639,7 +639,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Games and Coffee.
 - [![github-alt][github-img]](https://github.com/joaobb)
 
-## José Lucas
+### Jaicke
+- Science Computer student
+- [![facebook-alt][facebook-img]](https://facebook.com/jaicke97)  
+  [![github-alt][github-img]](https://github.com/jaicke)
+
+### José Lucas
 - I'm taking the 4th period of the course in computer science.
 - I'm Brazilian and I'm 18 years old.
 - I love programming in C#, Java, Python and Javascript.
