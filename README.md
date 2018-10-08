@@ -467,6 +467,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Developer and a ML enthusiast.
 - [![github-alt][github-img]](https://github.com/dushyantRathore)
 
+### Dustin M
+
+- Engineering enthusiast. Love to tinker with things
+- Bio graduate from University of Hawaii
+- [![github-alt][github-img]](https://github.com/SnowyMan)
+
 ### David Marques
 
 - I'm a student from Brazil
