@@ -909,6 +909,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
 
+### Shubham Patil
+- Python-Django, Java, C++
+- [![github-alt][github-img]](https://github.com/shubham76)
+
 ### Shweta Goyal
 - Computer Science Graduate
 - [![github-alt][github-img]](https://github.com/Shwetago)
