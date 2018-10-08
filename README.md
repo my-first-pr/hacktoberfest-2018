@@ -675,6 +675,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a Computer Engineer.
 - [![github-alt][github-img]](https://github.com/omkar1212)
 
+### Onnys Lopes Menete
+- I'm a Computer Engineer/Android Developer.
+- [![github-alt][github-img]](https://github.com/Onnys)
+
 # P
 
 ### pankhuri22
