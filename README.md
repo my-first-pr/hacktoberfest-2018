@@ -115,6 +115,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/alokraj68)
   [![github-alt][github-img]](https://github.com/alokraj68)
 
+### Alona Varshal
+- Chemist by profession, wannabe software developer
+- [![twitter-alt][twitter-img]](https://twitter.com/avarshal)
+  [![github-alt][github-img]](https://github.com/mudspringhiker)
+- [Know more at](https://alonavarshal.com)
+  
 ### Ana Carolina Ferreira
 - I am a software developer undergraduate student, from Brasil
 - Me: Punk Rock, Open Source, Makeup
