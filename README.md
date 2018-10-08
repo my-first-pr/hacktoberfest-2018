@@ -633,10 +633,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like developing and doing graphic art!
 - [![twitter-alt][twitter-img]](https://twitter.com/jvcks0n)
 
-### Jaicke
-- Science Computer student
-- [![facebook-alt][facebook-img]](https://facebook.com/jaicke97)  
-  [![github-alt][github-img]](https://github.com/jaicke)
+### João Pedro B.B
+- A Brazilian trying to print Hello World.
+- Studying Computer Science on UFCG.
+- Games and Coffee.
+- [![github-alt][github-img]](https://github.com/joaobb)
 
 ## José Lucas
 - I'm taking the 4th period of the course in computer science.
