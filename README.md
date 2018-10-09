@@ -250,6 +250,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/Arisdolanan)
 - [![facebook-alt][facebook-img]](https://facebook.com/arisdolanan)
 
+### Arighna Chakrabarty
+- I'm cuerrently a student at IIT Guwahati, India.
+- My passions are:-
+  - Python Developer
+  - DL enthusuiast
+  - Open Source Freak (Have worked in SymPy..!)
+- [![github-alt][github-img]](https://github.com/ArighnaIITG)
+
 ### Arjun Rajpal
   - Software Engineer and a ML Enthusiast
   - [![github-alt][github-img]](https://github.com/arjunrajpal)
