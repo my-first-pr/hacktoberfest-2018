@@ -1072,6 +1072,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/nikmufc7)
   [![twitter-alt][twitter-img]](https://twitter.com/creativemartial)
 
+### Nikhil Taneja
+- Just a Noob
+  [![github-alt][github-img]](https://github.com/itsnikhil)
+
 ### Nabheet Madan
 
 - I'm a SAP Technical Consultant interested in #Technical stuff.
