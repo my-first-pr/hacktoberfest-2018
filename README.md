@@ -635,6 +635,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/ryokugyu)
   [![twitter-alt][twitter-img]](https://twitter.com/ryokugyu_)
 
+### Himanshu Aggarwal
+- Studies at IIITD.
+- I am a Data Science enthusiast.
+- [![github-alt][github-img]](https://github.com/himanshu0113)
+
 ### Ha Huy Long Hai
 
 - An undergraduate Computer Science student
