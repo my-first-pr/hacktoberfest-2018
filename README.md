@@ -1034,6 +1034,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/_mohit_yadav)
   [![github-alt][github-img]](https://github.com/mohityadav7)
 
+### Morteza Hosseini
+- Yet Another Developer
+- [![twitter-alt][twitter-img]](https://twitter.com/mortezism)
+  [![github-alt][github-img]](https://github.com/mory91)
+
 ### mkaur7999
 
 - I am a young developer in Sri Lanka
