@@ -1624,6 +1624,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
 - [![github-alt][github-img]] (https://github.com/ZornitsaAsanska)
 
+### Jaseem ck
+
+- I am a btech student
+- I love programming and creating new things
+- http://github.com/Jaseemck
+
 ---
 
 ## Copyright
