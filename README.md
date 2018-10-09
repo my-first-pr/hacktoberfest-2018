@@ -1570,7 +1570,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Student Computer Science
 - Reverse engineer all the things
-- [![github-alt][github-img](https://github.com/trillcosby)
+- [![github-alt][github-img]](https://github.com/trillcosby)
 
 ### Tanet Pornsirirat
 
