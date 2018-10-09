@@ -1,4 +1,4 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -1064,6 +1064,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   ### Muh. Salman Alfansuri
 - I am a web developer and student in Indonesia
 - [![github-alt][github-img]](https://github.com/Alfansuri)
+
+### MSedate
+
+-I am a student majoring in software engineering.
+- I like getting better at coding and board games!
 
 ### Muhammad Harits Syaifulloh
 
