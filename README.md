@@ -392,6 +392,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Lover of programming, drums, cars, ping-pong and anime.
 - [![github-alt][github-img]](https://github.com/costassolla)
 
+### Chirag Gupta  
+- First Year Student
+- Interested in development, machine learning.
+- Lover of programming, Greek mythology, Marvel.
+- [![github-alt][github-img]](https://github.com/chirag2506)
+  [![twitter-alt][twitter-img]](https://twitter.com/chiraggupta2506)
+
 ### CohheeTime
 
 - I built my first website in 1999
