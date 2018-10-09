@@ -251,12 +251,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://facebook.com/arisdolanan)
 
 ### Arjun Rajpal
-
-- Software Engineer and a ML Enthusiast
-- [![github-alt][github-img]](https://github.com/arjunrajpal)
+  - Software Engineer and a ML Enthusiast
+  - [![github-alt][github-img]](https://github.com/arjunrajpal)
 
 ### ASHKUSH
-
 - Undergrad 2nd year CS student
 - Open Source contributor
 - [![github-alt][github-img]](https://github.com/ashkush21)
@@ -642,6 +640,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - An undergraduate Computer Science student
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/longhai18)
+
+### HubbleJo
+
+- Student from Germany
+- Really likes Kotlin
+- Also interested in electronics and artificial Intelligence
+- [![github-alt][github-img]](https://github.com/hubblejo)
 
 # I
 
@@ -1551,7 +1556,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/uds5501)
 
 ### Uğur Soğukpınar
-
 - Backend Developer
 - Interested in Machine Learning, Deep Learning, AI
 - [![github-alt][github-img]](https://github.com/ugursogukpinar)
