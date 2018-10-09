@@ -109,6 +109,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a web developer.
 - [![github-alt][github-img]](https://github.com/adikolsur)
 
+### Agustin Vargas
+
+- Project Manager
+- HTML, CSS, JS enthusiast and trying to learn more languages
+- Architect with a love for Coding and 3d modeling software
+- First time participating in Hacktoberfest
+  [![github-alt][github-img]](https://github.com/chikiwawa)
+
 ### Md Akram Kazmi
 
 - Trying to learn what I can.
