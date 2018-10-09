@@ -167,6 +167,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/avarshal)
   [![github-alt][github-img]](https://github.com/mudspringhiker)
 - [Know more at](https://alonavarshal.com)
+
+### Amintas Victor
+
+- I'm a Science Computing graduating, from Brasil
+- About Me: Web developer, Literati, Cinephile, Enthusiast in Psychology and Philosophy, and Cook in my spare time
+- [![github-alt][github-img]](https://github.com/amintasvrp)
   
 ### Ana Carolina Ferreira
 
