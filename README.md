@@ -803,9 +803,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like developing and doing graphic art!
 - [![twitter-alt][twitter-img]](https://twitter.com/jvcks0n)
 
+### J.D.
 
- 
-=======
+- I'm a software developer from Germany
+- I like Lord of the Rings
+
 ### João Pedro B.B.
 
 - A Brazilian trying to print Hello World.
