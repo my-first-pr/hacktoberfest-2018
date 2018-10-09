@@ -923,6 +923,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love playing games and waching movies.
 - [![github-alt][github-img]](https://github.com/kusalhasintha)
 
+### Kyaa Kats
+
+- Pursuing Undergraduation in IT and business.
+- Loves to code and game during free time.
+- [![github-alt][github-img]](https://github.com/KyaaKats)
+
 # L
 
 ### Lauren Reilly
