@@ -1398,6 +1398,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
 
+### Siro Canabarro
+
+- Python and Kotlin Lover
+- [![twitter-alt][twitter-img]](https://twitter.com/sirocanabarro)
+  [![github-alt][github-img]](https://github.com/sirocanabarro)
+
 ### Shubham Patil
 
 - Python-Django, Java, C++
