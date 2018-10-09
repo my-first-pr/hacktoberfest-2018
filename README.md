@@ -530,6 +530,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Developer wannabe.
 - [![github-alt][github-img]](https://github.com/Busterz)
 
+### Dylan Ferris
+- Student at University of Florida for Computer Engineering
+- Interest in embedded systems and circuit design
+- [![github-alt][github-img]](https://github.com/DXPower)
+
 # E
 
 ### Elijah Rwothoromo
