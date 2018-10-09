@@ -845,6 +845,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I currently have an internship as a software engineer at SciTools.
 - [![github-alt][github-img]](https://github.com/d00297334)
 
+### Keshav Seksaria
+
+- I am a studying at IIT-BHU (Varanasi).
+- My hobbies inlcude sleeping, eating and procrastinating.
+- [![github-alt][github-img]](https://github.com/keshavseksaria)
+
 ### Kundan Kumar
 
 - I am a high school graduate.
