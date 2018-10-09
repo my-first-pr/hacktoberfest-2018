@@ -1045,14 +1045,17 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/mory91)
 
 ### mkaur7999
-
-- I am a young developer in Sri Lanka
-- I'm currently a undergraduate
-- My hobbies include:
-  - Coding
-  - Gaming
-  - Nature Photography
-- [![github-alt][github-img]](https://github.com/mkaur7999)
+  - I am a young developer in Sri Lanka
+  - I'm currently a undergraduate
+  - My hobbies include:
+    - Coding
+    - Gaming
+    - Nature Photography
+  - [![github-alt][github-img]](https://github.com/mkaur7999)
+  
+  ### Muh. Salman Alfansuri
+- I am a web developer and student in Indonesia
+- [![github-alt][github-img]](https://github.com/Alfansuri)
 
 ### Muhammad Harits Syaifulloh
 
@@ -1062,6 +1065,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - PHP (Slim 3, Laravel 5)
 - [![facebook-alt][facebook-img]](https://twitter.com/mharitss)
   [![github-alt][github-img]](https://github.com/askmhs)
+
 
 # N
 
