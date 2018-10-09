@@ -643,6 +643,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/longhai18)
 
+### Hrushikesh Bodas
+- An Undergraduate Engineering Student
+- Interest Anything that involves Code
+- I love Python And C++
+- First Hacktoberfest
+- [![github-alt][github-img]](https://github.com/hrushikeshbodas)
+
 # I
 
 ### Icaro Lima
