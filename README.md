@@ -40,6 +40,10 @@ Please read our [contributing](CONTRIBUTING.md) guidelines before making your pu
 
 Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
+## Reference Links
+How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
+- Go to : https://hacktoberfest.digitalocean.com/stats/ (Scroll down to Check Out Your Own Stats)
+
 ## Contributors List
 
 # A
