@@ -1211,6 +1211,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/pankhuri221198)
   [![github-alt][github-img]](https://github.com/pankhuri2211)
 
+### Pandurx
+- Application Developer and Analyst
+- Working on all sorts of projects, both Open Source and Enterprise
+- [![twitter-alt][twitter-img]](https://twitter.com/pandurx)
+  [![github-alt][github-img]](https://github.com/pandurx)
+
 ### Patrick Sedlacek
 
 - I am a recent graduate from University and recently started my career as a developer.
