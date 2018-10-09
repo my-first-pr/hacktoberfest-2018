@@ -154,6 +154,18 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am studying data science
 - [![github-alt][github-img]](https://github.com/magauran)
 
+### Alistair Holmes
+
+- I'm an Android Developer and UI Designer from Zimbabwe
+- Currently working as a Freelancer
+- Hobbies:
+  - Basketball
+  - Chess
+  - Motorsport Racing
+- [![twitter-alt][twitter-img]](https://twitter.com/alistairholmes_)
+ [![github-alt][github-img]](https://github.com/alistairholmes)
+  
+
 ### Alok Rajasukumaran
 
 - AI Architect by profession
