@@ -511,6 +511,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # F
 
+### Faishal Rusydan
+
+- Hello, im college student in State University of Surabaya, Indonesia. Still on second year. Interested in UX Design and Android. 
+- [![twitter-alt][twitter-img]](https://twitter.com/faishalrusydan7)
+  [![github-alt][github-img]](https://github.com/faishal7777)
+
 ### festusdrakon
 
 - Interested in figuring out how to turn Data into Information, primarily to improve customer experiences on the web.
