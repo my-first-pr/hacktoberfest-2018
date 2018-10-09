@@ -757,6 +757,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   
 # J
 
+### J Hi-Tech
+- Software dev rusty with github's online tool
+- Learning angular 6, looking for projects to help out
+- [![github-alt][github-img]](https://github.com/jhinton2015)
+
 ### James
 
 - DevOps Engineer
