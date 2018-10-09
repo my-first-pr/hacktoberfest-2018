@@ -1642,3 +1642,9 @@ Copyright (c) 2018 My First PR. See [LICENSE](LICENSE) for details.
 [tumblr-img]: https://i.imgur.com/jDRp47c.png
 [dribbble-img]: https://i.imgur.com/Vvy3Kru.png
 [github-img]: https://i.imgur.com/9I6NRUm.png
+
+### Mangleh Saurabh
+
+- I am a third year university student and those are my first steps in GitHub.
+- I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
+- [![github-alt][github-img]] (https://github.com/Manglesh123)
