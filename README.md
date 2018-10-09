@@ -914,6 +914,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am love to take challenges!!
 - [![github-alt][github-img]](https://github.com/gkanishk)
 
+### Karan Tandon
+- Student
+- Love Mathematics and Tech
+- [![github-alt][github-img]](https://github.com/karan2dec)
+
 ### Karen Geerts
 
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
