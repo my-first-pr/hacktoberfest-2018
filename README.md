@@ -839,6 +839,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like to code and build applications.
 - [![github-alt][github-img]](https://github.com/Karthik-0)
 
+### Kasi Venkata Sai Potluri
+
+- CSE student,GAYATRI VIDYA PARISHAD COLLEGE OF ENGINEERNG
+- I want to contribute for opensource
+- [![github-alt][github-img]](https://github.com/kasivenkatasai)
+
 ### Kathleen Cram
 
 - I am a senior studying Web Development and Computer Science.
