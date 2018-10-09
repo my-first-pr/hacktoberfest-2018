@@ -1772,6 +1772,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
 - [![github-alt][github-img]] (https://github.com/ZornitsaAsanska)
 
+### Zayn
+
+- I am Computer Science Student and I speak Java, Node and Go.
+- I Love System Design and Learning new Tech. Currently I do Go.
+- [![github-alt][github-img]] (https://github.com/zaynkorai)
+
 ---
 
 ## Copyright
