@@ -616,6 +616,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/ahmad_haqqer)
   [![github-alt][github-img]](https://github.com/haqqer)
 
+### Hayi Nukman
+
+- Android Developer
+- Software engineer from rural area in Indonesia
+- My hoby is coding and watching anime
+- [![github-alt][github-img]](https://github.com/ha-yi)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/hayi.nkm)
+
 ### Helus
 
 - I'm a mathematics student.
