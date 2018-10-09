@@ -1188,6 +1188,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
+### Niki Angelov
+- Passionate web developer and traveler.
+- [![twitter-alt][twitter-img]](https://twitter.com/nikiangelov)
+  [![github-alt][github-img]](https://github.com/nikiangelov)
+
 ### Nomit Pahuja 
 
 - I'm pursuing B.Tech for Mechanical Engineering at VIT University,Vellore even though I love Computer Science
