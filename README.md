@@ -1259,6 +1259,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - First PR!
 - [![github-alt][github-img]](https://github.com/pranjalsingh20)
 
+### Priyam Mehta
+- I'm 11th grade Computer Science Student.
+- I am an aspiring Software Developer.
+- [![github-alt][github-img]](https://github.com/priyyyamm)
+
 # Q
 
 ### Quang Vũ Nhật
