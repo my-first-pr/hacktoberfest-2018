@@ -79,6 +79,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://facebook.com/abaykandotcom)
   [![twitter-alt][twitter-img]](https://twitter.com/abaykandotcom)
   [![github-alt][github-img]](https://github.com/abaykan)
+  
+### Abhishek Kumar
+- Competietive Coder
+- Student, Self taught
 
 ### Adeonir Kohl
 
