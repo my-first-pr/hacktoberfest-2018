@@ -1191,6 +1191,21 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - C++ - Favourite Programming Language
 - [![github-alt][github-img]](https://github.com/prince17080)
 
+### Pawan Singh
+- Computer Science Graduate from India
+- Software Engineer
+- Open Source Contributor
+- Love working with javaScript and Python
+- Currently working on
+  - NodeJS
+  - MeteorJS
+  - ReactJS
+  - AngularJS
+  - MongoDB
+  - Python
+  - and sometimes Java
+- [![github-alt][github-img]](https://github.com/pawansingh972)
+
 ### Pritish Thakkar
 
 - I'm an undergraduate from Punjab engineering college
