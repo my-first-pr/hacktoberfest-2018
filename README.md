@@ -580,6 +580,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/ganeshmajhi)
   [![github-alt][github-img]](https://github.com/ganeshmajhi)
   
+### Gayathri Venkatesh
+- I'm a first year computer science student from IIIT Bangalore :)
+- Hobbies: coding, singing, dancing, sketching.
+-  [![github-alt][github-img]](https://github.com/GayathriVenkatesh)
+-  [![facebook-alt][facebook-img]](https://www.facebook.com/gayathri.venkatesh.73)
+  
   ### Gunnika Batra
 - I'm a 2nd year B.Tech student.
 - Hobbies:
