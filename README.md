@@ -567,6 +567,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/fabipriscila)
 
 # G
+### Gabriel
+
+- I'm a computer science student
+- I'm a java, python, C++ developer.
+  [![github-alt][github-img]](https://github.com/gabriel-arauj)
 
 ### Gargi
 
