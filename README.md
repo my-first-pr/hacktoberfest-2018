@@ -1701,6 +1701,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Painter
 - [![github-alt][github-img]](https://github.com/Vishal1541)
 
+
+### Vishal Madheshia
+
+- iOS Developer
+- Programmer
+- Expert in Swift
+- [![github-alt][github-img]](https://github.com/vishalwaka)
+
 ### Volkan Şengül
 - Software Engineer
 - Interest : Machine Learning
