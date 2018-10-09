@@ -1256,6 +1256,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
   [![github-alt][github-img]](https://github.com/reesea)
 
+### Rehan jananga
+
+- I'm a 2rd year student.
+- I am a web developer.
+- [![github-alt][github-img]](https://github.com/rehanj)
+
 ### Rishabh jain
 
 - Computer Science engineering
