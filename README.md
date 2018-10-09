@@ -1401,6 +1401,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Student, Self-taught Developer
 - [![github-alt][github-img]](https://github.com/rachitmanchanda)
 
+### Ruchika Salwan
+- Software Engineer 
+- Hobbies:
+  - Coding :heart:
+  - Reading :heart:
+- [![twitter-alt][twitter-img]](https://twitter.com/ruchika_salwan)
+  [![github-alt][github-img]](https://github.com/Ruchika8)
+
 # S
 
 ### Sadik Kuzu
