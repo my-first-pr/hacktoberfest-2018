@@ -1442,6 +1442,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies include reading and sleeping.
 - [![github-alt][github-img]](https://github.com/sukhwmit12)
 
+### Sumeet Shirgure
+
+- Sports programmer.
+- New to open source development.
+- My hobbies are playing football and listening to music.
+- [![github-alt][github-img]](https://github.com/sumeetshirgure)
+
 ### Suvin Nimnaka
 
 - A Student from Sri Lanka
