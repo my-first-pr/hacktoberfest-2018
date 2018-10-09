@@ -874,6 +874,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Learning Elixir/Phoenix
 - [![github-alt][github-img]](https://github.com/thejohncotton)
 
+### Jo Haugum
+- Software Engineer
+  [![github-alt][github-img]](https://github.com/Haugum)
+
 ### João Tavares
 
 - I'm graduated in business management, and now I pursue a carreer as a developer. Hope I can do it :)
