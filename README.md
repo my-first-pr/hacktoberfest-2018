@@ -1089,6 +1089,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/nomitpahuja)
   [![twitter-alt][twitter-img]](https://twitter.com/NomitP)
 
+### NotoriousRebel
+- Student pursuing B.S. in Computing Security.
+- Passionate about learning and coding useful things.
+- I enjoy python and making things more efficient. 
+- [![github-alt][github-img]](https://github.com/NotoriousRebel)
+
 ### Nitish Kumar Jha
 
 - I am from Mechanical but want to start carrier in software development 
