@@ -1,5 +1,7 @@
 :warning: This is a Pull Request Template :warning:
+
 > Checkout all the things you've done by placing an \*x*\ within the square braces.
+
 ## Proposed Changes
 - [ ] I've forked the repository.
 - [ ] I've created a branch and made my changes in it. 
