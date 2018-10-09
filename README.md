@@ -1380,6 +1380,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Apart from such inriguing concepts, I am a big fan of Data Science and reading fiction novels.
 - [![github-alt][github-img]](https://github.com/sralli)
 
+### Shivam Singh
+- A Nature love and an Android enthusiast
+  [![github-alt][github-img]](https://github.com/meditat)
+
 ### Shivani Gupta
 
 - I'm a computer science student.
@@ -1611,7 +1615,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Gaming
   - Playing sports
 - [![github-alt][github-img]](https://github.com/iamapurva)
-
 
 # W
 
