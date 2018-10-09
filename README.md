@@ -1307,6 +1307,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like reading and watching tv series
 - [![github-alt][github-img]](https://github.com/roxyoanes) 
 
+### Rudrangshu Nandi
+
+- Student, Self-taught Developer
+- I am currently work on:
+  - Unity3D
+  - Nodejs
+  - Reactjs.
+- [![github-alt][github-img]](https://github.com/Rud156)
+
 ### Rui Li
 
 - Software Engineer in NZ
