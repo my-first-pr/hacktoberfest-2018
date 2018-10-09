@@ -6,3 +6,4 @@
 - [ ] I've read the [CODE OF CONDUCT](https://github.com/my-first-pr/hacktoberfest-2018/blob/master/CODE_OF_CONDUCT.md) and abide to it.
 - [ ] I've read the [CONTRIBUTING.md](https://github.com/my-first-pr/hacktoberfest-2018/blob/master/CONTRIBUTING.md)
 - [ ] I understand opening a PULL REQUEST doesn't mean it will be merged for sure.
+//comment added
