@@ -842,6 +842,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Loves coding and dancing.
 - [![github-alt][github-img]](https://github.com/KanchanThareja)
 
+### Kanishk Gupta
+- Student,At Chandigarh University , tech enthusiast.
+- Currently, I am Campus Ambassador at HackerEarth.
+- I am love to take challenges!!
+- [![github-alt][github-img]](https://github.com/gkanishk)
+
 ### Karen Geerts
 
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
