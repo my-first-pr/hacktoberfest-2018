@@ -1330,6 +1330,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Student, Self-taught Developer
 - [![github-alt][github-img]](https://github.com/rachitmanchanda)
 
+### Rohit Kumar
+
+- Undergrad IIITian, Self-taught Developer and Competetive coder, Machine Learning enthusiast
+- Loves poetry 
+- [![github-alt][github-img]](https://github.com/aquatiko)
+
 # S
 
 ### Sadik Kuzu
