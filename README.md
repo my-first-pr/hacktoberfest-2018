@@ -1351,6 +1351,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
 
+### Sandeep 
+- I am a 2nd yr CS graduate at GVP college of engg.
+- I love to play football.
+- i am intersted in web development
+- [![github-alt][github-img]](https://github.com/sandeepsanjusplr)
+
 ### Satyendra kumar
 
 - I am a 2nd yr CS graduate at Delhi technological university.
