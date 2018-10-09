@@ -915,6 +915,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/lukasgf18)
   [![github-alt][github-img]](https://github.com/lukasg18)
 
+### Lúcio Leandro
+- Computer science student
+-  nerd, I like Free Software, musician
+- [![github-alt][github-img]](https://github.com/lucioleandro)
+
 ### Luis Chaglla
 
 - Software Engineer in Spain
