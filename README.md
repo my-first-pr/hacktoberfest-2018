@@ -530,6 +530,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Developer wannabe.
 - [![github-alt][github-img]](https://github.com/Busterz)
 
+### Dhimas Bayu
+
+- I'm a student
+- Interested in angular, java
+- [![github-alt][github-img]](https://github.com/bailram)
+
 # E
 
 ### Elijah Rwothoromo
