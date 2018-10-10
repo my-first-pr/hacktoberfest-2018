@@ -913,6 +913,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Learning Elixir/Phoenix
 - [![github-alt][github-img]](https://github.com/thejohncotton)
 
+### John from Russia
+
+- Learning Python, ML
+- [![github-alt][github-img]](https://github.com/thejohnykuz)
+
 ### João Tavares
 
 - I'm graduated in business management, and now I pursue a carreer as a developer. Hope I can do it :)
