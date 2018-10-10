@@ -2033,7 +2033,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
 
-
+### Chips A Hoy
+- I like computers and TV shows.  I am a super hero fanatic
 ---
 
 ## Copyright
