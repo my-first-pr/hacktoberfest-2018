@@ -1670,7 +1670,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Web Developer based in The UK
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
-  
+
+### Shaurya Bagga
+- Student at IIIT-Delhi, India
+- I am studying Computer Science Engineering
+- My hobbies are Competitive Programming, Android App Dev, and sleeping ofc.
+- [![github-alt][github-img]](https://github.com/shauryabagga)
+
  ### Swati Singh
  - Budding iOS developer and UNIX enthusiast.
  - I also do projects in 
@@ -1682,6 +1688,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Stefanie C
 - Just completed my nanodegree in Front-End Web Development
 - [![github-alt][github-img]](https://github.com/histef)
+
 
 # T
 
