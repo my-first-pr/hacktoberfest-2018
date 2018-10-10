@@ -567,6 +567,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Nerd, geek, gamer, I love TLoK
 - [![github-alt][github-img]](https://github.com/frannievas)
 
+### Franciele Portugal
+- Student of Information Systems and I love datas.
+- I'm a researcher in Data Science and study a analytical solution to the research scenery of the University of the State of the Bahia and scenery of the arboviroses.
+- [![github-alt][github-img]](https://github.com/francieleportugal)
+
 ### Fabiane Souza
 
 - Software Developer who loves developing web and mobile. Always learning something new.
