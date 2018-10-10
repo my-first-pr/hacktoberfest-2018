@@ -229,6 +229,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I study JavaScript now.
 - [![github-alt][github-img]](https://github.com/annsv)
 
+### G Basra
+
+- I'm a Beginner Front-End Developer
+- I study JavaScript now.
+- [![github-alt][github-img]](https://github.com/imgs)
+
 ### Anush93
 
 - I am a young developer in Sri Lanka
