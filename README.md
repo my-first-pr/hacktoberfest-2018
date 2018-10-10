@@ -1065,6 +1065,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/manishakeim)
   [![github-alt][github-img]](https://github.com/manishakeim)
 
+### Marco Paulo Ollivier
+
+- Software Engineer
+- Rio de Janeiro - Brazil 
+- [![twitter-alt][twitter-img]](https://twitter.com/marcopollivier)
+  [![github-alt][github-img]](https://github.com/marcopollivier)
+
 ### Mathieu Jolivet (Cynferdd)
 
 - Developper as a hobby since 1996, professionaly since 2005.
