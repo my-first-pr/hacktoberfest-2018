@@ -672,6 +672,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My First Hacktoberfest!
 - [![github-alt][github-img]](https://github.com/geriadam)
 
+### Grecko
+
+- Student
+- Self-taught
+- PHP Dev
+- [![github-alt][github-img](https://github.com/supergrecko)
+
 ### Greg Holmes
 
 - Senior Web Developer
