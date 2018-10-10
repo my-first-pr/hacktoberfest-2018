@@ -1912,6 +1912,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Painter
 - [![github-alt][github-img]](https://github.com/Vishal1541)
 
+### Vishesh Khandelwal 
+
+- Student 
+- Wordpress Developer 
+- Table Tennis Player 
+- [![github-alt][github-img]](https://github.com/visheshkl) 
+- [![facebook-alt][facebook-img]](https://facebook.com/visheshkkl)
 
 ### Vishal Madheshia
 
