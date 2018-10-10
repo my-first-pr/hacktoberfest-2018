@@ -1081,9 +1081,9 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/njha6185) 
 
 ### Nayanathara
--I am an undergraduate
--I like to code
--[![github-alt][github-img]](https://github.com/Nayanathara-Dhanasekara) 
+- I am an undergraduate
+- I like to code
+- [![github-alt][github-img]](https://github.com/Nayanathara-Dhanasekara) 
 
 # O
 
