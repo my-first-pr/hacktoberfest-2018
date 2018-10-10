@@ -757,6 +757,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   
 # J
 
+### J Hi-Tech
+- Software dev rusty with github's online tool
+- Learning angular 6, looking for projects to help out
+- [![github-alt][github-img]](https://github.com/jhinton2015)
+
 ### James
 
 - DevOps Engineer
@@ -913,6 +918,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently, I am Campus Ambassador at HackerEarth.
 - I am love to take challenges!!
 - [![github-alt][github-img]](https://github.com/gkanishk)
+
+### Karan Tandon
+- Student
+- Love Mathematics and Tech
+- [![github-alt][github-img]](https://github.com/karan2dec)
 
 ### Karen Geerts
 
@@ -1502,6 +1512,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Student, Self-taught Developer
 - [![github-alt][github-img]](https://github.com/rachitmanchanda)
 
+### Reddy Balakrishna
+
+- 2nd year CS student at GVP, Vizag.
+- I like to play cricket, code.
+- [![github-alt][github-img]](https://github.com/reddyBalakrishna)
+
 ### Ruchika Salwan
 - Software Engineer 
 - Hobbies:
@@ -1587,6 +1603,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
 
+### Sindhiya Arya
+
+- I am a 3rd year undergraduate student studying CSE.
+- [![github-alt][github-img]](https://github.com/aryasin)
+
+
 ### Siro Canabarro
 
 - Python and Kotlin Lover
@@ -1648,12 +1670,25 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Web Developer based in The UK
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
-  
+
 ### Shaurya Bagga
 - Student at IIIT-Delhi, India
 - I am studying Computer Science Engineering
 - My hobbies are Competitive Programming, Android App Dev, and sleeping ofc.
 - [![github-alt][github-img]](https://github.com/shauryabagga)
+
+ ### Swati Singh
+ - Budding iOS developer and UNIX enthusiast.
+ - I also do projects in 
+     - Python
+     - HTML
+     - C, C++
+  - [![github-alt][github-img]](https://github.com/swatisingh45)
+
+### Stefanie C
+- Just completed my nanodegree in Front-End Web Development
+- [![github-alt][github-img]](https://github.com/histef)
+
 
 # T
 
@@ -1859,6 +1894,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]] (https://github.com/zaynkorai)
+
+
+### Mua Laurent
+
+- I am a software enthusiast , laravel addict and love solving real life scenarios using the computer.
+- [![twitter-alt][twitter-img]](https://twitter.com/muaRachmann)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/mua.Rachmann)
+  [![google-alt][google-img]](https://plus.google.com/u/0/110590356196093693388)
+  [![github-alt][github-img]](https://github.com/muarachmann)
+- [Know more at](http://muarachmann.com/)
 
 ---
 
