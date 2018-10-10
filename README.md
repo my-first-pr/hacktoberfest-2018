@@ -1870,6 +1870,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/tormorten)
   [![github-alt][github-img]](https://github.com/tormjens)
 
+### Timo S (Echelon101)
+
+- 19 yea old hobby developer
+- I work for a small IT service company in germany
+- My hobbies include reading, gaming, programming and scouts
+- [![github-alt][github-img]](https://github.com/Echelon101)
+
 # U
 
 ### Utkarsh Kunwar
