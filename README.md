@@ -936,6 +936,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a CSE engineering student
 - [![github-alt][github-img]](https://github.com/jerinjoseph1)
 
+### Jaruwan Panyaoud
+
+- Web Developer
+- [![github-alt][github-img]](https://github.com/praew1202)
 
 # K
 
