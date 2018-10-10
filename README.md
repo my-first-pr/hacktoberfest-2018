@@ -1507,6 +1507,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Student, Self-taught Developer
 - [![github-alt][github-img]](https://github.com/rachitmanchanda)
 
+### Reddy Balakrishna
+
+- 2nd year CS student at GVP, Vizag.
+- I like to play cricket, code.
+- [![github-alt][github-img]](https://github.com/reddyBalakrishna)
+
 ### Ruchika Salwan
 - Software Engineer 
 - Hobbies:
