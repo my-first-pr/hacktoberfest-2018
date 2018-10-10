@@ -1936,6 +1936,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
 
+## Hitanshu Mehta
+-I am computer science student.
+-I want to learn machine learning in future.
+
 
 ---
 
