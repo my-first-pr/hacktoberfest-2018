@@ -1587,6 +1587,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
 
+### Sindhiya Arya
+
+- I am a 3rd year undergraduate student studying CSE.
+- [![github-alt][github-img]](https://github.com/aryasin)
+
+
 ### Siro Canabarro
 
 - Python and Kotlin Lover
