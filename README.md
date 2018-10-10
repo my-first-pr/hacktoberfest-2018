@@ -1634,6 +1634,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![twitter-alt][twitter-img]](https://twitter.com/sadikkuzu_mba)
   [![tumblr-alt][tumblr-img]](http://sadikkuzu.mba)
 
+### Sahaj Oberoi
+
+- Beginner, UI Designer, ML/AI Enthusiast. 
+- [![facebook-alt][facebook-img]](https://facebook.com/OberoiSahaj)
+- [![github-alt][github-img]](https://github.com/OberoiSahaj)
+
 ### Sahil
 
 - I am an undergraduate student.
