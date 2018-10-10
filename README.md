@@ -997,6 +997,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I currently have an internship as a software engineer at SciTools.
 - [![github-alt][github-img]](https://github.com/d00297334)
 
+### Kent van Kuller
+- I am a web developer in Los Angeles, CA. 
+- [![twitter-alt][twitter-img]](https://twitter.com/KullerVan)
+  [![github-alt][github-img]](https://github.com/KentClarkGuitar)
+  
+
+
 ### Keshav Seksaria
 
 - I am a studying at IIT-BHU (Varanasi).
