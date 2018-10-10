@@ -1619,6 +1619,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
 
+### Sarthak
+- Undergrad student.
+- Open Source Enthusiast
+- [![github-alt][github-img]](https://gihub.com/SarthakKhoche)
+
 ### Satyendra kumar
 
 - I am a 2nd yr CS graduate at Delhi technological university.
