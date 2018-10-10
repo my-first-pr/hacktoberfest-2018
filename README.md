@@ -1344,6 +1344,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My favourite programming language is C++ and I'm a sport programmer.
 - [![github-alt][github-img]](https://github.com/ma5terdrag0n)
 
+### Philamer Sune
+
+- I hammer keyboard for a living.
+- Love working on:
+  - Python
+  - Docker
+  - DroneCI
+  - Alexa Skills Kit
+- [![github-alt][github-img]](https://github.com/pvsune)
+
 ### Pijus Rancevas
 
 - Software Engineering student with background in arts.
