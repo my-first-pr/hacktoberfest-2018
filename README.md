@@ -1367,6 +1367,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am an aspiring Software Developer.
 - [![github-alt][github-img]](https://github.com/priyyyamm)
 
+### Pritam Piyush
+
+- An undergraduate student
+- Interests: Machine learning
+- [![github-alt][github-img]](https://github.com/pritampiyush5)
+
 # Q
 
 ### Quang Vũ Nhật
@@ -1924,6 +1930,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![google-alt][google-img]](https://plus.google.com/u/0/110590356196093693388)
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
+
 
 ---
 
