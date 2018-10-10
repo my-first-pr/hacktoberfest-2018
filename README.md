@@ -1285,6 +1285,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I like to code
 - [![github-alt][github-img]](https://github.com/Nayanathara-Dhanasekara) 
 
+### NathanOsborn
+
+- CS Grad Durham uni
+- Java developer
+- My hobbies include... Programming, Sports, Reading
+- [![github-alt][github-img]](https://github.com/nathanosborn)
+
 # O
 
 ### Omkar Kulkarni
