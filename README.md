@@ -1715,6 +1715,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/sirocanabarro)
   [![github-alt][github-img]](https://github.com/sirocanabarro)
 
+### Shradha Khapra
+
+- I am a young developer in India
+- I'm currently an undergraduate for Bachelor of Engineering in Computer Engineering
+- My hobbies include:
+  - Coding
+  - Theater
+  - Nature Photography
+- [![github-alt][github-img]](https://github.com/shradha-khapra)
+
 ### Shubham Patil
 
 - Python-Django, Java, C++
@@ -2029,15 +2039,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
 
-### Shradha Khapra
-
-- I am a young developer in India
-- I'm currently an undergraduate for Bachelor of Engineering in Computer Engineering
-- My hobbies include:
-  - Coding
-  - Theater
-  - Nature Photography
-- [![github-alt][github-img]](https://github.com/shradha-khapra)
 
 ---
 
