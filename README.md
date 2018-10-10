@@ -1653,7 +1653,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Student at IIIT-Delhi, India
 - I am studying Computer Science Engineering
 - My hobbies are Competitive Programming, Android App Dev, and sleeping ofc.
-  [![github-alt][github-img]](https://github.com/shauryabagga)
+- [![github-alt][github-img]](https://github.com/shauryabagga)
 
 # T
 
