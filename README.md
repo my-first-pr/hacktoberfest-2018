@@ -1666,6 +1666,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
 
+### Stefanie C
+- Just completed my nanodegree in Front-End Web Development
+- [![github-alt][github-img]](https://github.com/histef)
+
 # T
 
 ### Tilak N Shenoy
