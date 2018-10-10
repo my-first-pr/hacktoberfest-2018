@@ -1923,6 +1923,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # W
 
+### williamjcm
+
+- I'm a French C++ developer.
+- I'm a volunteer developer for a fangame project.
+- I also like video games (I hope to become a professional game dev) and metal music.
+- [![github-alt][github-img]](https://github.com/williamjcm)
+
 ### Wisnu Febriadi
 
 - Im a student at [Universitas Maritim Raja Ali Haji](https://umrah.ac.id)
