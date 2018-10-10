@@ -1094,6 +1094,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # M
 
+### Mahesh Sarathchandra
+
+- student in Information Technology in university of moratuwa .
+- I like going around the world, and freedom in mind.
+- [![facebook-alt][facebook-img]](https://web.facebook.com/mahesh.sarathchandra.7)
+  [![github-alt][github-img]](https://github.com/maheshSarathchandra)
+  
 ### Magno Macedo
 
 - Bachelor student in information systems and experience with Pentaho suite.
