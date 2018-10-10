@@ -694,6 +694,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a Data Science enthusiast.
 - [![github-alt][github-img]](https://github.com/himanshu0113)
 
+### Himanshu Ruhela
+- Studing for B.Tech
+- Gamer, CS:GO
+- Speaks German
+- [![github-alt][github-img]](https://github.com/verdantfire)
+
 ### Ha Huy Long Hai
 
 - An undergraduate Computer Science student
