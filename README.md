@@ -1061,7 +1061,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Rio de Janeiro - Brazil 
 - [![twitter-alt][twitter-img]](https://twitter.com/marcopollivier)
   [![github-alt][github-img]](https://github.com/marcopollivier)
-  [![linkedin-alt][linkedin-img]](https://www.linkedin.com/in/marcopollivier/)
+#  [![linkedin-alt][linkedin-img]](https://www.linkedin.com/in/marcopollivier/)
 
 ### Mathieu Jolivet (Cynferdd)
 
