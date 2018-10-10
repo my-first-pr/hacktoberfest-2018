@@ -1331,6 +1331,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I volunteer with High School students teaching them programming and robotics.
 - I will have each of them participate in Hacktoberfest tonight!!
 
+### Paul-Killer
+- I'm a 1st year engineering student at UIET, Panjab University persuing BE(CSE) 
+- I'm learning C and Python 
+- [![twitter-alt][twitter-img]](https://twitter.com/PULKITkJAIN)
+  [![github-alt][github-img]](https://github.com/paul-killer)
+  [![facebook-alt][facebook-img]](https://facebook.com/Pulkitjainlma)
+
 ### Petri-Johan Last
 
 - I'm an Electronic Engineer and busy with a Masters degree in Machine Learning
