@@ -1111,6 +1111,17 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 -I am a student majoring in software engineering.
 - I like getting better at coding and board games!
 
+
+### Mua Laurent
+
+- I am a software enthusiast , laravel addict and love solving real life scenarios using the computer.
+- [![twitter-alt][twitter-img]](https://twitter.com/muaRachmann)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/mua.Rachmann)
+  [![google-alt][google-img]](https://plus.google.com/u/0/110590356196093693388)
+  [![github-alt][github-img]](https://github.com/muarachmann)
+- [Know more at](http://muarachmann.com/)
+
+
 ### Muhammad Harits Syaifulloh
 
 - Backend developer
