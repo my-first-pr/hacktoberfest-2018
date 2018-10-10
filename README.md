@@ -1082,6 +1082,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
   [![github-alt][github-img]](https://github.com/MercyDoesCode)
 
+### Mind-as-well
+
+- Always more to learn.
+- [![github-alt][github-img]](https://github.com/mind-as-well)
+
 ### Mohit Yadav
 
 - I am a programmer and a student.
