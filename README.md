@@ -1854,6 +1854,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]] (https://github.com/zaynkorai)
 
+### Ahmed Hajat
+- I am a Project Manager who's learning how to code!
+- [![twitter-alt][twitter-img]](https://twitter.com/AhmedHajat)
+  [![github-alt][github-img]](https://github.com/AhmedH14)
+
 ---
 
 ## Copyright
