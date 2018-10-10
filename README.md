@@ -80,6 +80,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![twitter-alt][twitter-img]](https://twitter.com/abaykandotcom)
   [![github-alt][github-img]](https://github.com/abaykan)
   
+### Abhishek
+
+- I am Student
+- I am a full Stack Web Developer
+- [![github-alt][github-img]] (https://github.com/Abhishek21sh)  
+  
 ### Abhishek Kumar
 - Competietive Coder
 - Student, Self taught
@@ -1853,12 +1859,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]] (https://github.com/zaynkorai)
-
-### Abhishek
-
-- I am Student
-- I am a full Stack Web Developer
-- [![github-alt][github-img]] (https://github.com/Abhishek21sh)
 
 ---
 
