@@ -173,6 +173,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a Science Computing graduating, from Brasil
 - About Me: Web developer, Literati, Cinephile, Enthusiast in Psychology and Philosophy, and Cook in my spare time
 - [![github-alt][github-img]](https://github.com/amintasvrp)
+
+### Amitava Mitra
+
+- I'm a IT student from India
+- I build Custom ROM's for my device.
+- Also, I am a Front End Web Developer, wannabe Android Developer and Full Stack Web Developer.
+- [![github-alt][github-img]](https://github.com/Amitava123)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/amitava.mitra.786)
+  [![twitter-alt][twitter-img]](https://twitter.com/amitava6)
   
 ### Ana Carolina Ferreira
 
