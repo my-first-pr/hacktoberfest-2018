@@ -1718,6 +1718,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
 
+### Siddharth Dhanuka
+- Backend developer and aspiring to be a Data Scientist
+- [![github-alt][github-img]](https://github.com/siddhanuka)
+
 ### Shaurya Bagga
 - Student at IIIT-Delhi, India
 - I am studying Computer Science Engineering
@@ -1735,7 +1739,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Stefanie C
 - Just completed my nanodegree in Front-End Web Development
 - [![github-alt][github-img]](https://github.com/histef)
-
 
 # T
 
