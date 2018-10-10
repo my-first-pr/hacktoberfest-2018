@@ -1648,6 +1648,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/ruchika_salwan)
   [![github-alt][github-img]](https://github.com/Ruchika8)
 
+### Ramón Chancay
+- Front-end Engineer 
+- Hobbies:
+  - Coding :fire:
+  - Memes :joy:
+  - Reading :book:
+- [![twitter-alt][twitter-img]](https://twitter.com/devrchancay)
+  [![github-alt][github-img]](https://github.com/devrchancay)
+  [![medium-alt][medium-img]](https://medium.com/@devrchancay)
+
 # S
 
 ### Sadik Kuzu
