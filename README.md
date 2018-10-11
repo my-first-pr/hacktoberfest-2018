@@ -1115,6 +1115,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Web Developer
 - [![github-alt][github-img]](https://github.com/praew1202)
 
+### Julianna Diaz
+
+- Software Developer
+- I enjoy coding, gaming and solving puzzles
+- First time contributing to Hacktoberfest!
+- [![github-alt][github-img]](https://github.com/Juldays)
+
 # K
 
 
