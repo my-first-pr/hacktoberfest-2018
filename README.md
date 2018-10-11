@@ -98,13 +98,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![facebook-alt][facebook-img]](https://facebook.com/abaykandotcom)
   [![twitter-alt][twitter-img]](https://twitter.com/abaykandotcom)
   [![github-alt][github-img]](https://github.com/abaykan)
-  
+
 ### Abhishek
 
 - I am Student
 - I am a full Stack Web Developer
 - [![github-alt][github-img]] (https://github.com/Abhishek21sh)  
-  
+
 ### Abhishek Kumar
 - Competietive Coder
 - Student, Self taught
@@ -206,7 +206,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Motorsport Racing
 - [![twitter-alt][twitter-img]](https://twitter.com/alistairholmes_)
  [![github-alt][github-img]](https://github.com/alistairholmes)
-  
+
 
 ### Alok Rajasukumaran
 
@@ -236,7 +236,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/Amitava123)
   [![facebook-alt][facebook-img]](https://www.facebook.com/amitava.mitra.786)
   [![twitter-alt][twitter-img]](https://twitter.com/amitava6)
-  
+
 ### Ana Carolina Ferreira
 
 - I am a software developer undergraduate student, from Brasil
@@ -365,7 +365,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a Project Manager who's learning how to code!
 - [![twitter-alt][twitter-img]](https://twitter.com/AhmedHajat)
   [![github-alt][github-img]](https://github.com/AhmedH14)
-  
+
 # B
 
 ### Banso D. Wisdom
@@ -442,7 +442,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Currently learning to program under Adruino IDE as well as design simple circuits
 - [![github-alt][github-img]](https://github.com/TheByteStuff)
   [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
-  
+
 ### Brisan G
 - High school student in IT
 
@@ -652,7 +652,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Faishal Rusydan
 
-- Hello, im college student in State University of Surabaya, Indonesia. Still on second year. Interested in UX Design and Android. 
+- Hello, im college student in State University of Surabaya, Indonesia. Still on second year. Interested in UX Design and Android.
 - [![twitter-alt][twitter-img]](https://twitter.com/faishalrusydan7)
   [![github-alt][github-img]](https://github.com/faishal7777)
 
@@ -696,9 +696,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Felkan
 
 - CS-Student
-- Currently working on a Neural Network. 
+- Currently working on a Neural Network.
   [![github-alt][github-img]](https://github.com/felky)
-  
+
 # G
 ### Gabriel
 
@@ -1130,10 +1130,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Kent van Kuller
 
-- I am a web developer in Los Angeles, CA. 
+- I am a web developer in Los Angeles, CA.
 - [![twitter-alt][twitter-img]](https://twitter.com/KullerVan)
   [![github-alt][github-img]](https://github.com/KentClarkGuitar)
-  
+
 ### Keshav Seksaria
 
 - I am a studying at IIT-BHU (Varanasi).
@@ -1274,7 +1274,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Marco Paulo Ollivier
 
 - Software Engineer
-- Rio de Janeiro - Brazil 
+- Rio de Janeiro - Brazil
 - [![twitter-alt][twitter-img]](https://twitter.com/marcopollivier)
   [![github-alt][github-img]](https://github.com/marcopollivier)
 
@@ -1331,7 +1331,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Gaming
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/mkaur7999)
-  
+
 ### mkaur7999
 
 - I am a web developer and student in Indonesia
@@ -1474,7 +1474,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Nayanathara
 - I am an undergraduate
 - I like to code
-- [![github-alt][github-img]](https://github.com/Nayanathara-Dhanasekara) 
+- [![github-alt][github-img]](https://github.com/Nayanathara-Dhanasekara)
 
 ### NathanOsborn
 
@@ -1812,7 +1812,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Rohit Kumar
 
 - Undergrad IIITian, Self-taught Developer and Competetive coder, Machine Learning enthusiast
-- Loves poetry 
+- Loves poetry
 - [![github-alt][github-img]](https://github.com/aquatiko)
 
 ### Reddy Balakrishna
@@ -1830,7 +1830,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![github-alt][github-img]](https://github.com/Ruchika8)
 
 ### Ramón Chancay
-- Front-end Engineer 
+- Front-end Engineer
 - Hobbies:
   - Coding :fire:
   - Memes :joy:
@@ -1873,7 +1873,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a web developer
 - Hobbies : Programming, Sports, Playing guitar
   [![github-alt][github-img](https://github.com/Qhsami)
-  
+
 ### Sattu
 
 - I am an undergraduate student.
@@ -1884,7 +1884,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
 
-### Sandeep 
+### Sandeep
 
 - I am a 2nd yr CS graduate at GVP college of engg.
 - I love to play football.
@@ -2008,6 +2008,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include coding, debating and acting
 - [![github-alt][github-img]](https://github.com/MittalS211)
 
+### Starlyn Urena Ventura
+
+- A Computer Science Student at Lehman College and a Software Engineer
+- I love Wed Development and Android Development
+- Cuerrently a Software Engineer Intern at NYC Human Resources Administration
+- My hobbies includes `coding / learning new technologies`, `gym / baseball` and `visiting new places`
+- [![github-alt][github-img]](https://github.com/physsi07)
+
 ### Sukhwmit Kaur
 
 - I'm a contributor.
@@ -2046,7 +2054,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
  ### Swati Singh
  - Budding iOS developer and UNIX enthusiast.
- - I also do projects in 
+ - I also do projects in
      - Python
      - HTML
      - C, C++
@@ -2208,12 +2216,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Painter
 - [![github-alt][github-img]](https://github.com/Vishal1541)
 
-### Vishesh Khandelwal 
+### Vishesh Khandelwal
 
-- Student 
-- Wordpress Developer 
-- Table Tennis Player 
-- [![github-alt][github-img]](https://github.com/visheshkl) 
+- Student
+- Wordpress Developer
+- Table Tennis Player
+- [![github-alt][github-img]](https://github.com/visheshkl)
 - [![facebook-alt][facebook-img]](https://facebook.com/visheshkkl)
 
 ### Vishal Madheshia
@@ -2231,7 +2239,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/volkansengul)
   [![twitter-alt][twitter-img]](https://twitter.com/volkansengul)
   [![youtube-alt][youtube-img]](https://youtube.com/volkansengul)
-  
+
  ### Kumar Utkarsh
 
 - I am a first year university student and those are my first steps in GitHub.
