@@ -2000,7 +2000,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Im from Colombia .student of programing, junior web Developer, in Vue Js, Node... Javascript is amazing
 - [![twitter-alt][twitter-img]](https://mobile.twitter.com/Yaderr_)
   [![github-alt][github-img]](https://github.com/yaderson)
-  
+
+### Yajushi Srivastava
+
+- I am a Software Engineer
+- Interests: Linux System Administration, Cloud Computing
+- Community Leader, Docker Jaipur; Core Team Member, PyJaipur
+- [![twitter-alt][twitter-img]](https://twitter.com/yajushiSri)
+  [![github-alt][github-img]](https://github.com/yajushiSri)
+
 ### Yee Antonio
 
 - I am a Backend and Mobile Developer.
