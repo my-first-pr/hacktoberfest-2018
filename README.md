@@ -620,6 +620,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a java, python, C++ developer.
   [![github-alt][github-img]](https://github.com/gabriel-arauj)
 
+### Gajendra Saraswat
+
+- I am an Undergraduate.
+- Aspiring Data Scientist.
+  [![github-alt][github-img]](https://github.com/saarques)
+  [![twitter-alt][twitter-img]](https://twitter.com/Saarques)
+
 ### Gargi
 
 - I am an Undergraduate .
