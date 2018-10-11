@@ -1282,6 +1282,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://twitter.com/mharitss)
   [![github-alt][github-img]](https://github.com/askmhs)
 
+### Manjila Nakarmi
+- Full Stack Web Developer(But I love Front-end more 😜 )
+- [![github-alt][github-img]](https://github.com/Manjilan)
+
 ### Mangleh Saurabh
 
 - I am a third year university student and those are my first steps in GitHub.
