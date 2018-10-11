@@ -390,6 +390,9 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently learning to program under Adruino IDE as well as design simple circuits
 - [![github-alt][github-img]](https://github.com/TheByteStuff)
   [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
+  
+### Brisan G
+- High school student in IT
 
 ### Bruno Dulcetti
 - I'm a Front-End developer and work with React, React Native, Angular, AngularJS, ES6, CSS3, HTML5, UX and others technologies.
