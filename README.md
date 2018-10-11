@@ -2109,6 +2109,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/tormorten)
   [![github-alt][github-img]](https://github.com/tormjens)
 
+### Timo S (Echelon101)
+
+- 19 yea old hobby developer
+- I work for a small IT service company in germany
+- My hobbies include reading, gaming, programming and scouts
+- [![github-alt][github-img]](https://github.com/Echelon101)
+
 # U
 
 ### Utkarsh Kunwar
