@@ -67,11 +67,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - UI Designer, Frontend Developer
 - [![twitter-alt][twitter-img]](https://twitter.com/adeonir)
   [![github-alt][github-img]](https://github.com/adeonir)
-  
-  ### Uzma Faiz
-- Frontend Web Developer
-- Expertise in Data Structures and Algorithms (Java)
-  [![github-alt][github-img]](https://github.com/uzmafaiz)
 
 ### Aditya Choudhary
 - Software Engineer in India
@@ -950,6 +945,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - An undergraduate student
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/Uditi5)
+
+### Uzma Faiz
+- Frontend Web Developer
+- Expertise in Data Structures and Algorithms (Java)
+  [![github-alt][github-img]](https://github.com/uzmafaiz)
 
 # V
 
