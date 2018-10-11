@@ -864,6 +864,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
   [![github-alt][github-img]](https://github.com/jillianandersonslate)
 
+### Jing Rong Lim
+- I'm a 25 year old from Singapore.
+- I love working with React.js, Typescript, tinkering with new technologies.
+- [![github-alt][github-img]](https://github.com/jjingrong)
+
 ### Jai Katiyar
 
 - I'm a B.sc.
