@@ -1635,8 +1635,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
    -Dancing
 - [![github-alt][github-img]](https://github.com/Saakshi29)
 
-
-
 ### Sadik Kuzu
 - I am a Senior Software Specialist with a demonstrated history of working in the insurance industry.
 - Skilled in Agile Methodologies (Scrum&Kanban), Test Automation, PL/SQL, Python, and MongoDB.
