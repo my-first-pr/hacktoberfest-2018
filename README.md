@@ -2437,11 +2437,8 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 # Z
 
 ### Zakariya
-
-- I'm an enthusiast Android developer.
-- I am self-employed.
-- My hobbies include programming and sports.
-[![github-alt][github-img]](https://github.com/F-ZEE)
+- An Android enthusiast, interested in programming and sports :D
+- [![github-alt][github-img]](https://github.com/f-zee)
 
 ### Ziane Maamar
 
