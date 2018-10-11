@@ -1932,6 +1932,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/sirocanabarro)
   [![github-alt][github-img]](https://github.com/sirocanabarro)
 
+### Shradha Khapra
+
+- I am a young developer in India
+- I'm currently an undergraduate for Bachelor of Engineering in Computer Engineering
+- My hobbies include:
+  - Coding
+  - Theater
+  - Nature Photography
+- [![github-alt][github-img]](https://github.com/shradha-khapra)
+
 ### Shubham Patil
 
 - Python-Django, Java, C++
