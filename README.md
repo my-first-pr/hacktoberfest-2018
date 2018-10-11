@@ -2192,6 +2192,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # Z
 
+### Zakariya
+
+- I'm an enthusiast Android developer.
+- I am self-employed.
+- My hobbies include programming and sports.
+[![github-alt][github-img]](https://github.com/F-ZEE)
+
 ### Ziane Maamar
 
 - I am a 26 year old self-taught Web and Graphics Designer and Front-End Developer
