@@ -62,12 +62,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Anant Maurya
 - Student
--Current Working on:
+- Current Working on:
   - Nodejs.
   - Reactjs.
   - Flutter.
   - some hacking materials.
-  GithubHandler:anantkumar323
+  - [![github-alt][github-img]](GithubHandler:anantkumar323)
 
 ### AanUser
 
