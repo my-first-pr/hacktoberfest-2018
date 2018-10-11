@@ -1981,12 +1981,21 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student
 - [![github-alt][github-img]](https://github.com/robotshateme)
 
+
+### Shashi Prakash
+
+- I am an  CS Undergrad.
+- I am fascinated by the problem solving and comptetive programming.
+- Apart from CP , I am a big fan of Machine Learning and TV shows like Silicon Valley.
+- [![github-alt][github-img]](https://github.com/sspeedy99)
+
 ### Shivam Ralli
 
 - I am an Undergrad.
 - I am fascinated by the concept of Machine Learning and AI.
 - Apart from such inriguing concepts, I am a big fan of Data Science and reading fiction novels.
 - [![github-alt][github-img]](https://github.com/sralli)
+
 
 ### Shivam Singh
 - A Nature love and an Android enthusiast
