@@ -2015,6 +2015,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/antonioyee)
   [![github-alt][github-img]](https://github.com/antonioyee)
 
+### Yoshimura TAKUYA
+
+- I'm from Japan. Python and Node.js Developer.
+- Hobbies:
+  - Programming
+  - LiverpoolFC
+- [![twitter-alt][twitter-img]](https://twitter.com/yoshitaku_jp)
+  [![github-alt][github-img]](https://github.com/yoshitaku-jp)
+
 # Z
 
 ### Ziane Maamar
