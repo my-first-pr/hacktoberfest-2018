@@ -2297,6 +2297,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Vipin Kumar
 
 - Student of Btech, computer science & engineering
+- I am learning android development.
+- Languages :- C++ and Java mainly.
+
+- [![github-alt][github-img]](https://github.com/SORM00)
+
+### Vipin Kumar
+
+- Student of Btech, computer science & engineering
 - I have been working on cyber security since 2 years.
 - Languages :- C++ and Python mainly.
 - I am currently work on:
