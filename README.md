@@ -1996,6 +1996,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # V
 
+### Vipin Kumar
+
+- Student of Btech-CSE
+- I have been working on cyber security since 2 years. 
+- Languages :- C++ and Python mainly.
+- I am currently work on:
+  - Data science
+  - Sniffing device's traffic
+- [![github-alt][github-img]](https://github.com/vipinkumarpsr)
+
 ### Vaibhav Agarwal
 
 - Fourth year undergraduate at IIT Mandi, Computer Science.
