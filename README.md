@@ -108,10 +108,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Abhishek Kumar
 - Competietive Coder
 - Student, Self taught
+
 ### Abdulgaphar
 - Cybersecurity Student
 - [![twitter-alt][twitter-img]](https://twitter.com/mrgaphy)
   [![github-alt][github-img]](https://github.com/abdulgaphy)
+
 ### Adeonir Kohl
 
 - UI Designer, Frontend Developer
@@ -289,12 +291,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I study JavaScript now.
 - [![github-alt][github-img]](https://github.com/annsv)
 
-### G Basra
-
-- I'm a Beginner Front-End Developer
-- I study JavaScript now.
-- [![github-alt][github-img]](https://github.com/imgs)
-
 ### Anush93
 
 - I am a young developer in Sri Lanka
@@ -321,6 +317,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Gaming
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/Anush93)
+
+### Apurva Vishwakarma
+- I am a young developer in India
+- I'm currently a undergraduate
+- My hobbies include:
+  - Coding
+  - Gaming
+  - Playing sports
+  - [![github-alt][github-img]](https://github.com/iamapurva)
 
 ### Ardin
 
@@ -706,6 +711,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![github-alt][github-img]](https://github.com/felky)
 
 # G
+
 ### Gabriel
 
 - I'm a computer science student
@@ -723,6 +729,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 - I am an Undergraduate .
 - I like competitive programming.
+
+### G Basra
+
+- I'm a Beginner Front-End Developer
+- I study JavaScript now.
+- [![github-alt][github-img]](https://github.com/imgs)
 
 ### Gerlis A.C  :computer: (@gerlis18)
 
@@ -1166,6 +1178,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies inlcude sleeping, eating and procrastinating.
 - [![github-alt][github-img]](https://github.com/keshavseksaria)
 
+### Kumar Utkarsh
+
+- I am a first year university student and those are my first steps in GitHub.
+- Just a Noob
+- I love Computer Science and Sports.
+
 ### Kundan Kumar
 
 - I am a high school graduate.
@@ -1270,7 +1288,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I like going around the world, and freedom in mind.
 - [![facebook-alt][facebook-img]](https://web.facebook.com/mahesh.sarathchandra.7)
   [![github-alt][github-img]](https://github.com/maheshSarathchandra)
-  
+
 ### Magno Macedo
 
 - Bachelor student in information systems and experience with Pentaho suite.
@@ -1477,7 +1495,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/nikiangelov)
   [![github-alt][github-img]](https://github.com/nikiangelov)
 
-### Nomit Pahuja 
+### Nomit Pahuja
 
 - I'm pursuing B.Tech for Mechanical Engineering at VIT University,Vellore even though I love Computer Science
 - I love programming and currently learning Android App Development
@@ -1900,7 +1918,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Sahaj Oberoi
 
-- Beginner, UI Designer, ML/AI Enthusiast. 
+- Beginner, UI Designer, ML/AI Enthusiast.
 - [![facebook-alt][facebook-img]](https://facebook.com/OberoiSahaj)
 - [![github-alt][github-img]](https://github.com/OberoiSahaj)
 
@@ -2061,6 +2079,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I study Electronics and Communication Engineering
 - My hobbies include coding, debating and acting
 - [![github-alt][github-img]](https://github.com/MittalS211)
+
+### Ssekito Charles
+- I love comoputers and sleep.
+- I really like chess, puzzles, and javascript is my first love.
+- [![twitter-alt][twitter-img]](https://twitter.com/Vinomix)
+  [![github-alt][github-img]](https://github.com/bozicschucky)
 
 ### Starlyn Urena Ventura
 
@@ -2234,7 +2258,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Vipin Kumar
 
 - Student of Btech, computer science & engineering
-- I have been working on cyber security since 2 years. 
+- I have been working on cyber security since 2 years.
 - Languages :- C++ and Python mainly.
 - I am currently work on:
   - Data science
@@ -2300,21 +2324,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![twitter-alt][twitter-img]](https://twitter.com/volkansengul)
   [![youtube-alt][youtube-img]](https://youtube.com/volkansengul)
 
- ### Kumar Utkarsh
-
-- I am a first year university student and those are my first steps in GitHub.
-- Just a Noob
-- I love Computer Science and Sports.
-
-### Apurva Vishwakarma
-- I am a young developer in India
-- I'm currently a undergraduate
-- My hobbies include:
-  - Coding
-  - Gaming
-  - Playing sports
-- [![github-alt][github-img]](https://github.com/iamapurva)
-
 # W
 
 ### williamjcm
@@ -2340,6 +2349,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 
 # Y
+
 ### Yaderson Patiño
 - Im from Colombia .student of programing, junior web Developer, in Vue Js, Node... Javascript is amazing
 - [![twitter-alt][twitter-img]](https://mobile.twitter.com/Yaderr_)
@@ -2358,7 +2368,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a Backend and Mobile Developer.
 - [![twitter-alt][twitter-img]](https://twitter.com/antonioyee)
   [![github-alt][github-img]](https://github.com/antonioyee)
-  
+
 ### Yudi Tao
 
 - I am a Student Now studying in university currently 3rd year in Computer Science.
@@ -2412,12 +2422,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
-
-### Ssekito Charles
-- I love comoputers and sleep.
-- I really like chess, puzzles, and javascript is my first love.
-- [![twitter-alt][twitter-img]](https://twitter.com/Vinomix)
-  [![github-alt][github-img]](https://github.com/bozicschucky)
 
 ---
 
