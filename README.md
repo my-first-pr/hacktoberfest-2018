@@ -1620,6 +1620,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm working with VBA and learning C++
 - [![github-alt][github-img]](https://github.com/Pittyolo)
 
+### Piyush Poply
+
+- Student, Code Ninza
+- [![github-alt][github-img]](https://github.com/Piyush2283)
+
 ### PotatoPuree
 
 - Interactive Media MSc. student from Cork
