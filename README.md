@@ -2057,6 +2057,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies are Competitive Programming, Android App Dev, and sleeping ofc.
 - [![github-alt][github-img]](https://github.com/shauryabagga)
 
+### Shakira Ndagire
+- Software Developer, Andela Uganda
+- I am a Front End Developer
+- I develop in Python, HTML,CSS and Jvascript
+- [![github-alt][github-img]](https://github.com/shakirandagire)
+
  ### Swati Singh
  - Budding iOS developer and UNIX enthusiast.
  - I also do projects in
