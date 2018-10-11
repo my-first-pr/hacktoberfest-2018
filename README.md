@@ -439,6 +439,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I built my first website in 1999
 - [![github-alt][github-img]](https://github.com/CohheeTime)
 
+### c0de fox
+
+- Furry
+- Programming as a hobby for half a decade
+- [![github-alt][github-img]](https://github.com/alopexc0de)
+- [Cover Site](https://c0defox.es)
+
 # D
 
 ### Dalaney V
