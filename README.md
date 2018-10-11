@@ -1985,7 +1985,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Shakira Ndagire
 - Software Developer, Andela Uganda
 - I am a Front End Developer
-- I developPython, HTML,CSS and Jvascript
+- I develop in Python, HTML,CSS and Jvascript
 - [![github-alt][github-img]](https://github.com/shakirandagire)
 
  ### Swati Singh
