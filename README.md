@@ -1094,6 +1094,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning Python, ML
 - [![github-alt][github-img]](https://github.com/thejohnykuz)
 
+### Jon B
+- A former CSE student
+- [![github-alt][github-img]](https://github.com/jonburleson)
+
 ### João Tavares
 
 - I'm graduated in business management, and now I pursue a carreer as a developer. Hope I can do it :)
