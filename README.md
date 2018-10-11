@@ -2299,6 +2299,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/volkansengul)
   [![twitter-alt][twitter-img]](https://twitter.com/volkansengul)
   [![youtube-alt][youtube-img]](https://youtube.com/volkansengul)
+  
+ ### U
+ - computer science undergraduate 
+ - beginner
 
  ### Kumar Utkarsh
 
