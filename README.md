@@ -2038,6 +2038,9 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
 
+### Afif Hendrawan
+I am a reseacher who love github. Currently I working on EEG data
+- [![github-alt][github-img](https://github.com/hndr91)
 
 ---
 
