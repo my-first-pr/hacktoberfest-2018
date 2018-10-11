@@ -138,6 +138,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/alenanog)
   [![github-alt][github-img]](https://github.com/alenanog)
 
+### Alex Weininger
+
+- Student - Computer Science - University of Portland 21'
+- passionate about building things, check out my repos!
+  [website](https://alexweininger.github.io/)
+  [![github-alt][github-img]](https://github.com/alexweininger)
+
 ### Alexandre Pereira Santos
 
 - Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
