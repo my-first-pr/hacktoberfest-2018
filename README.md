@@ -1108,9 +1108,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### MSedate
 
--I am a student majoring in software engineering.
+- I am a student majoring in software engineering.
 - I like getting better at coding and board games!
-
 
 ### Mua Laurent
 
@@ -1121,7 +1120,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
 
-
 ### Muhammad Harits Syaifulloh
 
 - Backend developer
@@ -1130,7 +1128,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - PHP (Slim 3, Laravel 5)
 - [![facebook-alt][facebook-img]](https://twitter.com/mharitss)
   [![github-alt][github-img]](https://github.com/askmhs)
-
 
 # N
 
