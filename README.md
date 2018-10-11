@@ -1002,8 +1002,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/KullerVan)
   [![github-alt][github-img]](https://github.com/KentClarkGuitar)
   
-
-
 ### Keshav Seksaria
 
 - I am a studying at IIT-BHU (Varanasi).
