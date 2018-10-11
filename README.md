@@ -785,6 +785,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/Greg__holmes)
   [![github-alt][github-img]](https://github.com/GregHolmes)
 
+### Guilherme Deusdará
+- I'm a student of software engineering
+- React-Native Dev
+- [![github-alt][github-img]](https://github.com/gdeusdara)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/gdeusdara)
+
 # H
 
 ### Hafpaf
