@@ -2253,6 +2253,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/Uditi5)
 
+### Uzma Faiz
+- Frontend Web Developer
+- Expertise in Data Structures and Algorithms (Java)
+  [![github-alt][github-img]](https://github.com/uzmafaiz)
+
 # V
 
 ### Vipin Kumar
