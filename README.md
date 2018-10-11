@@ -1624,6 +1624,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/pritampiyush5)
 
+### Pratham Sharma
+- Student | Machine Learning Enthusiast
+- [![github-alt][github-img]](https://github.com/Pratham1807)
+
 # Q
 
 ### Quang Vũ Nhật
@@ -2294,10 +2298,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
-
-### Pratham Sharma
-- Student | Machine Learning Enthusiast
-- [![github-alt][github-img]](https://github.com/Pratham1807)
 
 ---
 
