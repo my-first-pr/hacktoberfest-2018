@@ -1956,7 +1956,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/souvikmaji)
 
 ### Sofrie
-
+hacktoberfest-2019'
 - I'm a fullstack web developer
 - currently work in e-commerce
 - My hobbies include reading, watch movies, draw and sleeping
@@ -1968,6 +1968,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I study Electronics and Communication Engineering
 - My hobbies include coding, debating and acting
 - [![github-alt][github-img]](https://github.com/MittalS211)
+
+### Subrata Kumar Biswas
+
+- I am a First Year student of IIIT,Kalyani
+- [![github-alt][github-img]](https://github.com/subrata3112)
 
 ### Sukhwmit Kaur
 
