@@ -627,6 +627,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in Android and Games
 - [![github-alt][github-img]](https://github.com/fahmimuh)
 
+### Felkan
+
+- CS-Student
+- Currently working on a Neural Network. 
+  [![github-alt][github-img]](https://github.com/felky)
+  
 # G
 ### Gabriel
 
@@ -1030,6 +1036,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I currently have an internship as a software engineer at SciTools.
 - [![github-alt][github-img]](https://github.com/d00297334)
 
+### Kent van Kuller
+
+- I am a web developer in Los Angeles, CA. 
+- [![twitter-alt][twitter-img]](https://twitter.com/KullerVan)
+  [![github-alt][github-img]](https://github.com/KentClarkGuitar)
+  
 ### Keshav Seksaria
 
 - I am a studying at IIT-BHU (Varanasi).
@@ -1075,6 +1087,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Computer engineering student at UFPE
 - The future is female!
+
+### Lilith
+
+- CSE Undergrad
+- Python developer
+- My hobbies are Programming, Sports, Music
+- [![github-alt][github-img]](https://github.com/lilithxxx)
 
 ### Lincoln Anders
 
@@ -1701,6 +1720,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Besides coding, I love to read novels and explore different places.
 - [![github-alt][github-img]](https://github.com/sahilwasan000)
 
+### Samir
+- I am a web developer
+- Hobbies : Programming, Sports, Playing guitar
+  [![github-alt][github-img](https://github.com/Qhsami)
+  
 ### Sattu
 
 - I am an undergraduate student.
