@@ -6,30 +6,33 @@ This repository is built for the purpose of encouraging your contributions, big 
 
 That said, suggested ways to contribute include:
 
-### Your name on the readme.md
+* Fork the project in GitHub
+* Clone your forked repo locally
+* Add your name to README.md or a code sample (or both)
+* Commit and push to your forked repository
+* Create a PR from your fork to the main repo in GitHub
+* Add a title, edit the PR template, and submit for review
+* Watch for changes requested
 
-* Fork the project.
-* Add your name to the readme.md using this example;
+### Your name on the README.md
+
+* Add your name and description to the README.md using this example:
+
 ```
 ### My Name
 - Description about me
 - [![twitter-alt][twitter-img]](https://twitter.com/example)
   [![github-alt][github-img]](https://github.com/example)
 ```
-* Commit and send a pull request. Bonus points for correctly named branches.
+
+* Make sure you add your name to the correct letter section (alphabetically by first name)
+* Avoid making any whitespace changes or alterations to someone else's profile
 
 ### A code sample
 
 * Fork the project.
-* Create a code sample under `/code` named <yourname>.<language-file-extension>. I.e. `lukeoliff.js`, `lukeoliff.php`
+* Create a code sample under `/code` named <yourname>.<language-file-extension>. I.e. `lukeoliff.js`, `lukeoliff.php` (please create your own rather than editing an existing one)
 * Create a working hello world example inside your file.
-* Commit and send a pull request. Bonus points for correctly named branches.
-
-### Anything else
-
-* Fork the project.
-* Make your change.
-* Commit and send a pull request. Bonus points for correctly named branches.
 
 ## Code of Conduct
 
