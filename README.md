@@ -1476,6 +1476,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I like to code
 - [![github-alt][github-img]](https://github.com/Nayanathara-Dhanasekara) 
 
+### NathanOsborn
+
+- CS Grad Durham uni
+- Java developer
+- My hobbies include... Programming, Sports, Reading
+- [![github-alt][github-img]](https://github.com/nathanosborn)
+
 # O
 
 ### Omkar Kulkarni
