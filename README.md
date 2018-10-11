@@ -173,6 +173,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [website](https://alexweininger.github.io/)
 - [![github-alt][github-img]](https://github.com/alexweininger)
 
+### Alex Jacobs
+- Business Information Technology student from Finland
+- Mainly working with web tech such as HTML/CSS/JavaScript(ES6) along with Node.js, React.js, React Native
+- Taking my first steps into open source!
+- [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/maximumfluff)
+
 ### Alexandre Pereira Santos
 
 - Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
