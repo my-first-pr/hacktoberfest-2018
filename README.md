@@ -1697,6 +1697,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # S
 
+### Saakshi
+- I am an Android Developer.
+- I am an undergraduate student.
+- Hobbies:
+   -Programming
+   -Dancing
+- [![github-alt][github-img]](https://github.com/Saakshi29)
+
 ### Sadik Kuzu
 - I am a Senior Software Specialist with a demonstrated history of working in the insurance industry.
 - Skilled in Agile Methodologies (Scrum&Kanban), Test Automation, PL/SQL, Python, and MongoDB.
