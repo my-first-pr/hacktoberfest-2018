@@ -2185,6 +2185,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://facebook.com/febriady.adys)
 
 # X
+### xenocidewiki
+- Student from Norway. Programming in C++. Interested in reverse engineering.
+-[![twitter-alt][twitter-img](https://twitter.com/xenocidewiki)
+ [![github-alt][github-img]](https://github.com/xenocidewiki)
+
 
 # Y
 ### Yaderson Patiño
