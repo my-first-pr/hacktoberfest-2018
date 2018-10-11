@@ -1059,6 +1059,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Machine learning and Web Developement
 - [![github-alt][github-img]](https://github.com/kautukkundan)
 
+### KaiTiggy
+
+- Developer in Mooresville, NC, USA
+- [![github-alt][github-img]](https://github.com/kaitiggy)
+
 ### Kamal Iqlaas
 
 - Pursuing Master in Business Intelligence and Data Analytics
