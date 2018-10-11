@@ -8,4 +8,4 @@ var even = function (arr) {
 	return even;
 }
 
-console.log(even([1,2,3,4,5,6,7,8,9]));
+console.log(even([1,2,3,4,5,6,7,8,9,10]));
