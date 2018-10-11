@@ -627,6 +627,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in Android and Games
 - [![github-alt][github-img]](https://github.com/fahmimuh)
 
+### Felkan
+- CS-Student
+- Currently working on a Neural Network. 
+  [![github-alt][github-img]](https://github.com/felky)
+
 # G
 ### Gabriel
 
