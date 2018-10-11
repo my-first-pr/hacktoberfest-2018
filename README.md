@@ -1478,9 +1478,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Reactjs.
   - Python.
   - WAPT.
-  - [![github-alt][github-img]](https://github.com/pankajkumarkbn)
-  - [![twitter-alt][twitter-img]](https://twitter.com/ddpanku)
-  - [![facebook-alt][facebook-img]](https://facebook.com/ddpanku)
+- [![github-alt][github-img]](https://github.com/pankajkumarkbn) [![twitter-alt][twitter-img]](https://twitter.com/ddpanku) [![facebook-alt][facebook-img]](https://facebook.com/ddpanku)
 
 ### pankhuri22
 
