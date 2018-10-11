@@ -1905,6 +1905,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - giving a try to open source.
 - [![github-alt][github-img]](https://github.com/sats98)
 
+### Scott Ream
+
+- Student
+- [![github-alt][github-img]](https://github.com/robotshateme)
+
 ### Shivam Ralli
 
 - I am an Undergrad.
