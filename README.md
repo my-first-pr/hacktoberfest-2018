@@ -1998,12 +1998,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Vipin Kumar
 
-- Student of Btech-CSE
+- Student of Btech, computer science & engineering
 - I have been working on cyber security since 2 years. 
 - Languages :- C++ and Python mainly.
 - I am currently work on:
   - Data science
   - Sniffing device's traffic
+  - Coding
 - [![github-alt][github-img]](https://github.com/vipinkumarpsr)
 
 ### Vaibhav Agarwal
