@@ -769,6 +769,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/Greg__holmes)
   [![github-alt][github-img]](https://github.com/GregHolmes)
 
+### Guilherme Deusdará
+- I'm a student of software engineering
+- React-Native Dev
+- [![github-alt][github-img]](https://github.com/gdeusdara)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/gdeusdara)
+
 # H
 
 ### Hafpaf
