@@ -790,6 +790,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My First Hacktoberfest!
 - [![github-alt][github-img]](https://github.com/geriadam)
 
+### Gladson regan
+
+- Iam 2nd BE student
+- i love Python
+- [![github-alt][github-img]](https://github.com/regan9)
+
 ### Grecko
 
 - Student
