@@ -1853,6 +1853,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - giving a try to open source.
 - [![github-alt][github-img]](https://github.com/sats98)
 
+### Scott Ream
+
+- Student
+- [![github-alt][github-img]](https://github.com/robotshateme)
+
 ### Shivam Ralli
 
 - I am an Undergrad.
