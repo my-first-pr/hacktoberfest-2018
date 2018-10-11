@@ -1255,6 +1255,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://twitter.com/mharitss)
   [![github-alt][github-img]](https://github.com/askmhs)
 
+### Mangleh Saurabh
+
+- I am a third year university student and those are my first steps in GitHub.
+- I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
+- [![github-alt][github-img]] (https://github.com/Manglesh123)
+
 ### Mua Laurent
 
 - I am a software enthusiast , laravel addict and love solving real life scenarios using the computer.
@@ -1263,6 +1269,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![google-alt][google-img]](https://plus.google.com/u/0/110590356196093693388)
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
+
 
 # N
 
