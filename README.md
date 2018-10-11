@@ -1023,6 +1023,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Learning Elixir/Phoenix
 - [![github-alt][github-img]](https://github.com/thejohncotton)
 
+### Jo Haugum
+
+- Software Engineer
+  [![github-alt][github-img]](https://github.com/Haugum)
+
 ### John from Russia
 
 - Learning Python, ML
