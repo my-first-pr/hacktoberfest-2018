@@ -142,8 +142,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Student - Computer Science - University of Portland 21'
 - passionate about building things, check out my repos!
-  [website](https://alexweininger.github.io/)
-  [![github-alt][github-img]](https://github.com/alexweininger)
+- [website](https://alexweininger.github.io/)
+- [![github-alt][github-img]](https://github.com/alexweininger)
 
 ### Alexandre Pereira Santos
 
