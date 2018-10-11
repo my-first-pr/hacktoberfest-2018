@@ -1998,7 +1998,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Vipin Kumar
 
-- Student of Btech, computer science & engineering
+- Student of Btech-CSE
 - I have been working on cyber security since 2 years. 
 - Languages :- C++ and Python mainly.
 - I am currently work on:
