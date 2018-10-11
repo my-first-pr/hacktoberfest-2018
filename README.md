@@ -2187,7 +2187,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 # X
 ### xenocidewiki
 - Student from Norway. Programming in C++. Interested in reverse engineering.
--[![twitter-alt][twitter-img](https://twitter.com/xenocidewiki)
+-[![twitter-alt][twitter-img]](https://twitter.com/xenocidewiki)
  [![github-alt][github-img]](https://github.com/xenocidewiki)
 
 
