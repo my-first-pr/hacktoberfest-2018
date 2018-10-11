@@ -2151,6 +2151,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/volkansengul)
   [![twitter-alt][twitter-img]](https://twitter.com/volkansengul)
   [![youtube-alt][youtube-img]](https://youtube.com/volkansengul)
+  
+ ### Kumar Utkarsh
+
+- I am a first year university student and those are my first steps in GitHub.
+- Just a Noob
+- I love Computer Science and Sports.
 
 ### Apurva Vishwakarma
 - I am a young developer in India
