@@ -628,10 +628,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/fahmimuh)
 
 ### Felkan
+
 - CS-Student
 - Currently working on a Neural Network. 
   [![github-alt][github-img]](https://github.com/felky)
-
+  
 # G
 ### Gabriel
 
@@ -1036,6 +1037,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/d00297334)
 
 ### Kent van Kuller
+
 - I am a web developer in Los Angeles, CA. 
 - [![twitter-alt][twitter-img]](https://twitter.com/KullerVan)
   [![github-alt][github-img]](https://github.com/KentClarkGuitar)
@@ -1087,6 +1089,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - The future is female!
 
 ### Lilith
+
 - CSE Undergrad
 - Python developer
 - My hobbies are Programming, Sports, Music
@@ -1466,6 +1469,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineering student with background in arts.
 - Front End dev doing VR/ AR.
 - [![github-alt][github-img]](https://github.com/pijusrancevas)
+
+### Pittyi2nd
+
+- Student
+- I like to play R6S.
+- [![github-alt][github-img]](https://github.com/pittyi2nd)
 
 ### Prajwal
 
