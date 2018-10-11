@@ -566,6 +566,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in C++
 - [![github-alt][github-img]](https://github.com/doom3007)
 
+### Doug Luce
+- I'm a developer.
+- Interested in JavaScript
+- [![github-alt][github-img]](https://github.com/doug-luce)
+
 ### Deddy
 - Developer wannabe.
 - [![github-alt][github-img]](https://github.com/Busterz)
@@ -945,7 +950,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Jaicke
 
 - Science Computer student
-- [![facebook-alt][facebook-img]](https://facebook.com/jaicke97)  
+- [![facebook-alt][facebook-img]](https://facebook.com/jaicke97)
   [![github-alt][github-img]](https://github.com/jaicke)
 
 ### José Lucas
@@ -1682,7 +1687,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Rafael Dantas
 
-- Student of Computer Science at the Federal University of Campina Grande (UFCG).  
+- Student of Computer Science at the Federal University of Campina Grande (UFCG).
 
 ### Rachit Manchanda
 
