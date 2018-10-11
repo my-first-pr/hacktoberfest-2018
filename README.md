@@ -67,7 +67,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies is coding, eat and sleep
 - [![twitter-alt][twitter-img]](https://twitter.com/aanuser)
   [![github-alt][github-img]](https://github.com/mfarchana)
-  
+
 ### Akshay Agarwal
 
 - Student
@@ -79,6 +79,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://facebook.com/abaykandotcom)
   [![twitter-alt][twitter-img]](https://twitter.com/abaykandotcom)
   [![github-alt][github-img]](https://github.com/abaykan)
+  
+### Abhishek
+
+- I am Student
+- I am a full Stack Web Developer
+- [![github-alt][github-img]] (https://github.com/Abhishek21sh)  
   
 ### Abhishek Kumar
 - Competietive Coder
@@ -113,6 +119,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a web developer.
 - [![github-alt][github-img]](https://github.com/adikolsur)
 
+### Agustin Vargas
+
+- Project Manager
+- HTML, CSS, JS enthusiast and trying to learn more languages
+- Architect with a love for Coding and 3d modeling software
+- First time participating in Hacktoberfest
+  [![github-alt][github-img]](https://github.com/chikiwawa)
+
 ### Md Akram Kazmi
 
 - Trying to learn what I can.
@@ -138,6 +152,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/alenanog)
   [![github-alt][github-img]](https://github.com/alenanog)
 
+### Alex Weininger
+
+- Student - Computer Science - University of Portland 21'
+- passionate about building things, check out my repos!
+- [website](https://alexweininger.github.io/)
+- [![github-alt][github-img]](https://github.com/alexweininger)
+
 ### Alexandre Pereira Santos
 
 - Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
@@ -146,7 +167,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/alexEndrios)
   [![facebook-alt][facebook-img]](https://facebook.com/alex.endrios)
   [![github-alt][github-img]](https://github.com/alexendrios)
-  
+
 ### Alexey Salangin
 
 - Computer Engineering student from Saint Petersburg
@@ -173,6 +194,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a Science Computing graduating, from Brasil
 - About Me: Web developer, Literati, Cinephile, Enthusiast in Psychology and Philosophy, and Cook in my spare time
 - [![github-alt][github-img]](https://github.com/amintasvrp)
+
+### Amitava Mitra
+
+- I'm a IT student from India
+- I build Custom ROM's for my device.
+- Also, I am a Front End Web Developer, wannabe Android Developer and Full Stack Web Developer.
+- [![github-alt][github-img]](https://github.com/Amitava123)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/amitava.mitra.786)
+  [![twitter-alt][twitter-img]](https://twitter.com/amitava6)
   
 ### Ana Carolina Ferreira
 
@@ -219,6 +249,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a Beginner Front-End Developer, but Middle WordPress Developer from Odessa, Ukraine
 - I study JavaScript now.
 - [![github-alt][github-img]](https://github.com/annsv)
+
+### G Basra
+
+- I'm a Beginner Front-End Developer
+- I study JavaScript now.
+- [![github-alt][github-img]](https://github.com/imgs)
 
 ### Anush93
 
@@ -368,6 +404,9 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Currently learning to program under Adruino IDE as well as design simple circuits
 - [![github-alt][github-img]](https://github.com/TheByteStuff)
   [![twitter-alt][twitter-img]](https://twitter.com/thebytestuff)
+  
+### Brisan G
+- High school student in IT
 
 ### Bruno Dulcetti
 - I'm a Front-End developer and work with React, React Native, Angular, AngularJS, ES6, CSS3, HTML5, UX and others technologies.
@@ -416,6 +455,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - I built my first website in 1999
 - [![github-alt][github-img]](https://github.com/CohheeTime)
+
+### c0de fox
+
+- Furry
+- Programming as a hobby for half a decade
+- [![github-alt][github-img]](https://github.com/alopexc0de)
+- [Cover Site](https://c0defox.es)
 
 # D
 
@@ -526,9 +572,20 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in C++
 - [![github-alt][github-img]](https://github.com/doom3007)
 
+### Doug Luce
+- I'm a developer.
+- Interested in JavaScript
+- [![github-alt][github-img]](https://github.com/doug-luce)
+
 ### Deddy
 - Developer wannabe.
 - [![github-alt][github-img]](https://github.com/Busterz)
+
+### Dhimas Bayu
+
+- I'm a student
+- Interested in angular, java
+- [![github-alt][github-img]](https://github.com/bailram)
 
 # E
 
@@ -538,7 +595,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I love movies, poetry and hangouts.
 - [![twitter-alt][twitter-img]](https://twitter.com/rwothoromo)
   [![github-alt][github-img]](https://github.com/rwothoromo)
-  
+
 ### Evgeniy Vasilev
 
 - Software Developer
@@ -546,6 +603,16 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/johnynsk)
 
 # F
+
+### FaseemMunna
+- program lover
+- [![github-alt][github-img]](https://github.com/faseem9048080829)
+
+### Faishal Rusydan
+
+- Hello, im college student in State University of Surabaya, Indonesia. Still on second year. Interested in UX Design and Android. 
+- [![twitter-alt][twitter-img]](https://twitter.com/faishalrusydan7)
+  [![github-alt][github-img]](https://github.com/faishal7777)
 
 ### festusdrakon
 
@@ -557,8 +624,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Francesco Tabaro
 
 - Bioinformatics PhD student
-- Interested in data science, web development and cooking 
-- [![twitter-alt][twitter-img]](https://twitter.com/FrancescoTabaro) 
+- Interested in data science, web development and cooking
+- [![twitter-alt][twitter-img]](https://twitter.com/FrancescoTabaro)
   [![github-alt][github-img]](https://github.com/ftabaro)
 
 ### Francisco Nievas (frannievas)
@@ -579,6 +646,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interested in Android and Games
 - [![github-alt][github-img]](https://github.com/fahmimuh)
 
+### Felkan
+
+- CS-Student
+- Currently working on a Neural Network. 
+  [![github-alt][github-img]](https://github.com/felky)
+  
 # G
 ### Gabriel
 
@@ -586,10 +659,17 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a java, python, C++ developer.
   [![github-alt][github-img]](https://github.com/gabriel-arauj)
 
+### Gajendra Saraswat
+
+- I am an Undergraduate.
+- Aspiring Data Scientist.
+  [![github-alt][github-img]](https://github.com/saarques)
+  [![twitter-alt][twitter-img]](https://twitter.com/Saarques)
+
 ### Gargi
 
 - I am an Undergraduate .
-- I like competitive programming. 
+- I like competitive programming.
 
 ### Gerlis A.C  :computer: (@gerlis18)
 
@@ -632,7 +712,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Hobbies: coding, singing, dancing, sketching.
 -  [![github-alt][github-img]](https://github.com/GayathriVenkatesh)[![facebook-alt][facebook-img]](https://www.facebook.com/gayathri.venkatesh.73)
   
-  ### Gunnika Batra
+### Gunnika Batra
 - I'm a 2nd year B.Tech student.
 - Hobbies:
     Coding and Sketching
@@ -644,6 +724,19 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - PHP Developer From Indonesia
 - My First Hacktoberfest!
 - [![github-alt][github-img]](https://github.com/geriadam)
+
+### Grecko
+
+- Student
+- Self-taught
+- PHP Dev
+- [![github-alt][github-img](https://github.com/supergrecko)
+
+### Greg Holmes
+
+- Senior Web Developer
+- [![twitter-alt][twitter-img]](https://twitter.com/Greg__holmes)
+  [![github-alt][github-img]](https://github.com/GregHolmes)
 
 # H
 
@@ -700,6 +793,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/longhai18)
 
+### Hrushikesh Bodas
+- An Undergraduate Engineering Student
+- Interest Anything that involves Code
+- I love Python And C++
+- First Hacktoberfest
+- [![github-alt][github-img]](https://github.com/hrushikeshbodas)
+
 ### HubbleJo
 
 - Student from Germany
@@ -754,8 +854,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a total noob
 - I am takin part in hacktoberfest for the first time
 - [![github-alt][github-img]](https://github.com/ishitavarshney)
-  
+
 # J
+
+### J Hi-Tech
+- Software dev rusty with github's online tool
+- Learning angular 6, looking for projects to help out
+- [![github-alt][github-img]](https://github.com/jhinton2015)
 
 ### James
 
@@ -819,6 +924,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/Jillifish17)
   [![github-alt][github-img]](https://github.com/jillianandersonslate)
 
+### Jing Rong Lim
+- I'm a 25 year old from Singapore.
+- I love working with React.js, Typescript, tinkering with new technologies.
+- [![github-alt][github-img]](https://github.com/jjingrong)
+
 ### Jai Katiyar
 
 - I'm a B.sc.
@@ -853,7 +963,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Jaicke
 
 - Science Computer student
-- [![facebook-alt][facebook-img]](https://facebook.com/jaicke97)  
+- [![facebook-alt][facebook-img]](https://facebook.com/jaicke97)
   [![github-alt][github-img]](https://github.com/jaicke)
 
 ### José Lucas
@@ -862,7 +972,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm Brazilian and I'm 18 years old.
 - I love programming in C#, Java, Python and Javascript.
 - My hobbies include:
-  - read books 
+  - read books
   - play games(lol: pod1, csgo: grandmasterflashdj)
 - [![twitter-alt][twitter-img]](https://twitter.com/lucasAlvesPOD)]
   [![github-alt][github-img]](https://github.com/lukpod1)
@@ -873,6 +983,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I teach front end web development
 - Learning Elixir/Phoenix
 - [![github-alt][github-img]](https://github.com/thejohncotton)
+
+### John from Russia
+
+- Learning Python, ML
+- [![github-alt][github-img]](https://github.com/thejohnykuz)
 
 ### João Tavares
 
@@ -886,6 +1001,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm a CSE engineering student
 - [![github-alt][github-img]](https://github.com/jerinjoseph1)
 
+### Jaruwan Panyaoud
+
+- Web Developer
+- [![github-alt][github-img]](https://github.com/praew1202)
 
 # K
 
@@ -914,6 +1033,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am love to take challenges!!
 - [![github-alt][github-img]](https://github.com/gkanishk)
 
+### Karan Tandon
+- Student
+- Love Mathematics and Tech
+- [![github-alt][github-img]](https://github.com/karan2dec)
+
 ### Karen Geerts
 
 - I work for REA (https://www.rea-group.com/IRM/content/default.aspx) and am a junior Ruby developer.
@@ -937,6 +1061,18 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a senior studying Web Development and Computer Science.
 - I currently have an internship as a software engineer at SciTools.
 - [![github-alt][github-img]](https://github.com/d00297334)
+
+### Kent van Kuller
+
+- I am a web developer in Los Angeles, CA. 
+- [![twitter-alt][twitter-img]](https://twitter.com/KullerVan)
+  [![github-alt][github-img]](https://github.com/KentClarkGuitar)
+  
+### Keshav Seksaria
+
+- I am a studying at IIT-BHU (Varanasi).
+- My hobbies inlcude sleeping, eating and procrastinating.
+- [![github-alt][github-img]](https://github.com/keshavseksaria)
 
 ### Kundan Kumar
 
@@ -977,6 +1113,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Computer engineering student at UFPE
 - The future is female!
+
+### Lilith
+
+- CSE Undergrad
+- Python developer
+- My hobbies are Programming, Sports, Music
+- [![github-alt][github-img]](https://github.com/lilithxxx)
 
 ### Lincoln Anders
 
@@ -1048,12 +1191,19 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/manthankeim)
   [![facebook-alt][facebook-img]](https://www.facebook.com/manthan.keim.54)
   [![github-alt][github-img]](https://github.com/ManthanKeim)
- 
+
 ### Manisha
 
-- Master's Student at IGDTUW, New Delhi. 
+- Master's Student at IGDTUW, New Delhi.
 - [![twitter-alt][twitter-img]](https://twitter.com/manishakeim)
   [![github-alt][github-img]](https://github.com/manishakeim)
+
+### Marco Paulo Ollivier
+
+- Software Engineer
+- Rio de Janeiro - Brazil 
+- [![twitter-alt][twitter-img]](https://twitter.com/marcopollivier)
+  [![github-alt][github-img]](https://github.com/marcopollivier)
 
 ### Mathieu Jolivet (Cynferdd)
 
@@ -1061,7 +1211,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Bass player, I also love reading, photography and beer.
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
-  
+
 ### Maysa Borges
 
 - Graduated in Design, focused on UX and UI Design.
@@ -1089,27 +1239,39 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/mohityadav7)
 
 ### Morteza Hosseini
+
 - Yet Another Developer
 - [![twitter-alt][twitter-img]](https://twitter.com/mortezism)
   [![github-alt][github-img]](https://github.com/mory91)
 
 ### mkaur7999
-  - I am a young developer in Sri Lanka
-  - I'm currently a undergraduate
-  - My hobbies include:
-    - Coding
-    - Gaming
-    - Nature Photography
-  - [![github-alt][github-img]](https://github.com/mkaur7999)
+
+- I am a young developer in Sri Lanka
+- I'm currently a undergraduate
+- My hobbies include:
+  - Coding
+  - Gaming
+  - Nature Photography
+- [![github-alt][github-img]](https://github.com/mkaur7999)
   
-  ### Muh. Salman Alfansuri
+### Muh. Salman Alfansuri
+
 - I am a web developer and student in Indonesia
 - [![github-alt][github-img]](https://github.com/Alfansuri)
 
 ### MSedate
 
--I am a student majoring in software engineering.
+- I am a student majoring in software engineering.
 - I like getting better at coding and board games!
+
+### Mua Laurent
+
+- I am a software enthusiast , laravel addict and love solving real life scenarios using the computer.
+- [![twitter-alt][twitter-img]](https://twitter.com/muaRachmann)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/mua.Rachmann)
+  [![google-alt][google-img]](https://plus.google.com/u/0/110590356196093693388)
+  [![github-alt][github-img]](https://github.com/muarachmann)
+- [Know more at](http://muarachmann.com/)
 
 ### Muhammad Harits Syaifulloh
 
@@ -1123,6 +1285,21 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Manjila Nakarmi
 - Full Stack Web Developer(But I love Front-end more 😜 )
 - [![github-alt][github-img]](https://github.com/Manjilan)
+
+### Mangleh Saurabh
+
+- I am a third year university student and those are my first steps in GitHub.
+- I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
+- [![github-alt][github-img]] (https://github.com/Manglesh123)
+
+### Mua Laurent
+
+- I am a software enthusiast , laravel addict and love solving real life scenarios using the computer.
+- [![twitter-alt][twitter-img]](https://twitter.com/muaRachmann)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/mua.Rachmann)
+  [![google-alt][google-img]](https://plus.google.com/u/0/110590356196093693388)
+  [![github-alt][github-img]](https://github.com/muarachmann)
+- [Know more at](http://muarachmann.com/)
 
 # N
 
@@ -1154,7 +1331,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I'm studying Software Engineer at IFNTUOG in Ivano-Frankivsk
 - [![twitter-alt][twitter-img]](https://twitter.com/OctoFly1)
   [![github-alt][github-img]](https://github.com/Nazaren0k)
-  
+
 ### Nelly
 
 - I'm a comp sci student in NZ.
@@ -1191,11 +1368,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
-### Nomit Pahuja 
+### Nomit Pahuja
 
 - I'm pursuing B.Tech for Mechanical Engineering at VIT University,Vellore even though I love Computer Science
 - I love programming and currently learning Android App Development
-- My hobbies include programming, listening to songs, walking 
+- My hobbies include programming, listening to songs, walking
 - [![github-alt][github-img]](https://github.com/nomitpahuja)
   [![twitter-alt][twitter-img]](https://twitter.com/NomitP)
 
@@ -1207,9 +1384,14 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Nitish Kumar Jha
 
-- I am from Mechanical but want to start carrier in software development 
-- Passionate about Technologies - Java, C, C ++, Android 
-- [![github-alt][github-img]](https://github.com/njha6185) 
+- I am from Mechanical but want to start carrier in software development
+- Passionate about Technologies - Java, C, C ++, Android
+- [![github-alt][github-img]](https://github.com/njha6185)
+
+### Nayanathara
+- I am an undergraduate
+- I like to code
+- [![github-alt][github-img]](https://github.com/Nayanathara-Dhanasekara) 
 
 # O
 
@@ -1233,7 +1415,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Prateek Arora
 
-- JavaScript Student, 
+- JavaScript Student,
 - Currently, Doing My nano Degree Form Udacity.
 - I am currently Learn on:
   - HTML
@@ -1288,7 +1470,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Open Source Contributor
 - Front End Developer
   [![github-alt][github-img]](https://github.com/pranav0408)
-  
+
 ### Prince Sachdeva
 
 - Competitive Programmer
@@ -1317,11 +1499,27 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My favourite programming language is C++ and I'm a sport programmer.
 - [![github-alt][github-img]](https://github.com/ma5terdrag0n)
 
+### Philamer Sune
+
+- I hammer keyboard for a living.
+- Love working on:
+  - Python
+  - Docker
+  - DroneCI
+  - Alexa Skills Kit
+- [![github-alt][github-img]](https://github.com/pvsune)
+
 ### Pijus Rancevas
 
 - Software Engineering student with background in arts.
 - Front End dev doing VR/ AR.
 - [![github-alt][github-img]](https://github.com/pijusrancevas)
+
+### Pittyi2nd
+
+- Student
+- I like to play R6S.
+- [![github-alt][github-img]](https://github.com/pittyi2nd)
 
 ### Prajwal
 
@@ -1340,6 +1538,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am an aspiring Software Developer.
 - [![github-alt][github-img]](https://github.com/priyyyamm)
 
+### Pritam Piyush
+
+- An undergraduate student
+- Interests: Machine learning
+- [![github-alt][github-img]](https://github.com/pritampiyush5)
+
 # Q
 
 ### Quang Vũ Nhật
@@ -1355,7 +1559,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Second year CS student at GVP, Vizag.
 - Just learned frontend development
-- Hobbies: 
+- Hobbies:
   - Coding
   - Writing
   - Cooking
@@ -1413,6 +1617,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/_reesea)
   [![github-alt][github-img]](https://github.com/reesea)
 
+### Rehan jananga
+
+- I'm a 2rd year student.
+- I am a web developer.
+- [![github-alt][github-img]](https://github.com/rehanj)
+
 ### Rex
 
 - Web Application Developer
@@ -1420,7 +1630,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Guitar Playing
   - Video Games
 - [![github-alt][github-img]](https://github.com/rex-cruz)
-
 
 ### Rishabh jain
 
@@ -1471,7 +1680,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Studying web development
 - I am a gym passionate
 - I like reading and watching tv series
-- [![github-alt][github-img]](https://github.com/roxyoanes) 
+- [![github-alt][github-img]](https://github.com/roxyoanes)
+
+## Rj Capuno
+
+- Software Engineer from PH
+- [![github-alt][github-img]] (https://github.com/rjcapuno)
 
 ### Rudrangshu Nandi
 
@@ -1495,15 +1709,27 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - :heart: :video_game:[survivio](http://surviv.io/)
 - [![twitter-alt][twitter-img]](https://twitter.com/ruiminsim)
   [![github-alt][github-img]](https://github.com/rmsim)
-  
+
 ### Rafael Dantas
 
-- Student of Computer Science at the Federal University of Campina Grande (UFCG).  
+- Student of Computer Science at the Federal University of Campina Grande (UFCG).
 
 ### Rachit Manchanda
 
 - Student, Self-taught Developer
 - [![github-alt][github-img]](https://github.com/rachitmanchanda)
+
+### Rohit Kumar
+
+- Undergrad IIITian, Self-taught Developer and Competetive coder, Machine Learning enthusiast
+- Loves poetry 
+- [![github-alt][github-img]](https://github.com/aquatiko)
+
+### Reddy Balakrishna
+
+- 2nd year CS student at GVP, Vizag.
+- I like to play cricket, code.
+- [![github-alt][github-img]](https://github.com/reddyBalakrishna)
 
 ### Ruchika Salwan
 - Software Engineer 
@@ -1513,7 +1739,25 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/ruchika_salwan)
   [![github-alt][github-img]](https://github.com/Ruchika8)
 
+### Ramón Chancay
+- Front-end Engineer 
+- Hobbies:
+  - Coding :fire:
+  - Memes :joy:
+  - Reading :book:
+- [![twitter-alt][twitter-img]](https://twitter.com/devrchancay)
+  [![github-alt][github-img]](https://github.com/devrchancay)
+  [![medium-alt][medium-img]](https://medium.com/@devrchancay)
+
 # S
+
+### Saakshi
+- I am an Android Developer.
+- I am an undergraduate student.
+- Hobbies:
+   -Programming
+   -Dancing
+- [![github-alt][github-img]](https://github.com/Saakshi29)
 
 ### Sadik Kuzu
 - I am a Senior Software Specialist with a demonstrated history of working in the insurance industry.
@@ -1529,6 +1773,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Besides coding, I love to read novels and explore different places.
 - [![github-alt][github-img]](https://github.com/sahilwasan000)
 
+### Samir
+- I am a web developer
+- Hobbies : Programming, Sports, Playing guitar
+  [![github-alt][github-img](https://github.com/Qhsami)
+  
 ### Sattu
 
 - I am an undergraduate student.
@@ -1538,6 +1787,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
+
+### Sarthak
+- Undergrad student.
+- Open Source Enthusiast
+- [![github-alt][github-img]](https://gihub.com/SarthakKhoche)
 
 ### Satyendra kumar
 
@@ -1590,6 +1844,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
 
+### Sindhiya Arya
+
+- I am a 3rd year undergraduate student studying CSE.
+- [![github-alt][github-img]](https://github.com/aryasin)
+
+
 ### Siro Canabarro
 
 - Python and Kotlin Lover
@@ -1640,6 +1900,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies include reading and sleeping.
 - [![github-alt][github-img]](https://github.com/sukhwmit12)
 
+### Sumeet Shirgure
+
+- Sports programmer.
+- New to open source development.
+- My hobbies are playing football and listening to music.
+- [![github-alt][github-img]](https://github.com/sumeetshirgure)
+
 ### Suvin Nimnaka
 
 - A Student from Sri Lanka
@@ -1651,6 +1918,28 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Web Developer based in The UK
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
+
+### Siddharth Dhanuka
+- Backend developer and aspiring to be a Data Scientist
+- [![github-alt][github-img]](https://github.com/siddhanuka)
+
+### Shaurya Bagga
+- Student at IIIT-Delhi, India
+- I am studying Computer Science Engineering
+- My hobbies are Competitive Programming, Android App Dev, and sleeping ofc.
+- [![github-alt][github-img]](https://github.com/shauryabagga)
+
+ ### Swati Singh
+ - Budding iOS developer and UNIX enthusiast.
+ - I also do projects in 
+     - Python
+     - HTML
+     - C, C++
+  - [![github-alt][github-img]](https://github.com/swatisingh45)
+
+### Stefanie C
+- Just completed my nanodegree in Front-End Web Development
+- [![github-alt][github-img]](https://github.com/histef)
 
 # T
 
@@ -1786,6 +2075,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Painter
 - [![github-alt][github-img]](https://github.com/Vishal1541)
 
+### Vishesh Khandelwal 
+
+- Student 
+- Wordpress Developer 
+- Table Tennis Player 
+- [![github-alt][github-img]](https://github.com/visheshkl) 
+- [![facebook-alt][facebook-img]](https://facebook.com/visheshkkl)
 
 ### Vishal Madheshia
 
@@ -1814,6 +2110,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 # W
 
+### williamjcm
+
+- I'm a French C++ developer.
+- I'm a volunteer developer for a fangame project.
+- I also like video games (I hope to become a professional game dev) and metal music.
+- [![github-alt][github-img]](https://github.com/williamjcm)
+
 ### Wisnu Febriadi
 
 - Im a student at [Universitas Maritim Raja Ali Haji](https://umrah.ac.id)
@@ -1829,12 +2132,29 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Im from Colombia .student of programing, junior web Developer, in Vue Js, Node... Javascript is amazing
 - [![twitter-alt][twitter-img]](https://mobile.twitter.com/Yaderr_)
   [![github-alt][github-img]](https://github.com/yaderson)
-  
+
+### Yajushi Srivastava
+
+- I am a Software Engineer
+- Interests: Linux System Administration, Cloud Computing
+- Community Leader, Docker Jaipur; Core Team Member, PyJaipur
+- [![twitter-alt][twitter-img]](https://twitter.com/yajushiSri)
+  [![github-alt][github-img]](https://github.com/yajushiSri)
+
 ### Yee Antonio
 
 - I am a Backend and Mobile Developer.
 - [![twitter-alt][twitter-img]](https://twitter.com/antonioyee)
   [![github-alt][github-img]](https://github.com/antonioyee)
+
+### Yoshimura TAKUYA
+
+- I'm from Japan. Python and Node.js Developer.
+- Hobbies:
+  - Programming
+  - LiverpoolFC
+- [![twitter-alt][twitter-img]](https://twitter.com/yoshitaku_jp)
+  [![github-alt][github-img]](https://github.com/yoshitaku-jp)
 
 # Z
 
@@ -1849,13 +2169,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - I am a first year university student and those are my first steps in GitHub.
 - I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
-- [![github-alt][github-img]] (https://github.com/ZornitsaAsanska)
+- [![github-alt][github-img]](https://github.com/ZornitsaAsanska)
 
 ### Zayn
 
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
-- [![github-alt][github-img]] (https://github.com/zaynkorai)
+- [![github-alt][github-img]](https://github.com/zaynkorai)
 
 ---
 
