@@ -77,6 +77,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/aanuser)
   [![github-alt][github-img]](https://github.com/mfarchana)
 
+### Aaron Sato
+- Web Developer
+- I enjoy coding, problem solving and building.
+- [![twitter-alt][twitter-img]](https://twitter.com/aarongsato)
+- [![github-alt][github-img]](https://github.com/2asato)
+
 ### Akshay Agarwal
 
 - Student
@@ -114,7 +120,6 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
     - Python
     - Machine Learning
 - [![github-alt][github-img]](https://github.com/adhishanand9)
-
 
 ### Aditya Choudhary
 
@@ -732,18 +737,18 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Gaming
 - [![twitter-alt][twitter-img]](https://twitter.com/ganeshmajhi)
   [![github-alt][github-img]](https://github.com/ganeshmajhi)
-  
+
 ### Gayathri Venkatesh
 - I'm a first year computer science student from IIIT Bangalore :)
 - Hobbies: coding, singing, dancing, sketching.
 -  [![github-alt][github-img]](https://github.com/GayathriVenkatesh)[![facebook-alt][facebook-img]](https://www.facebook.com/gayathri.venkatesh.73)
-  
+
 ### Gunnika Batra
+
 - I'm a 2nd year B.Tech student.
 - Hobbies:
-    Coding and Sketching
+    - Coding and Sketching
 - [![github-alt][github-img]](https://github.com/Gunnika)
-
 
 ### Geri Adam
 
@@ -1031,7 +1036,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/vtavares11)
 
 
-### Jerin 
+### Jerin
 - I'm a CSE engineering student
 - [![github-alt][github-img]](https://github.com/jerinjoseph1)
 
@@ -1278,7 +1283,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/mortezism)
   [![github-alt][github-img]](https://github.com/mory91)
 
-### mkaur7999
+### Muh. Salman Alfansuri
 
 - I am a young developer in Sri Lanka
 - I'm currently a undergraduate
@@ -1288,7 +1293,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/mkaur7999)
   
-### Muh. Salman Alfansuri
+### mkaur7999
 
 - I am a web developer and student in Indonesia
 - [![github-alt][github-img]](https://github.com/Alfansuri)
@@ -1413,7 +1418,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### NotoriousRebel
 - Student pursuing B.S. in Computing Security.
 - Passionate about learning and coding useful things.
-- I enjoy python and making things more efficient. 
+- I enjoy python and making things more efficient.
 - [![github-alt][github-img]](https://github.com/NotoriousRebel)
 
 ### Nitish Kumar Jha
@@ -1766,7 +1771,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/reddyBalakrishna)
 
 ### Ruchika Salwan
-- Software Engineer 
+- Software Engineer
 - Hobbies:
   - Coding :heart:
   - Reading :heart:
@@ -2127,7 +2132,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Volkan Şengül
 - Software Engineer
 - Interest : Machine Learning
-- Teaching software development on youtube 
+- Teaching software development on youtube
 - Digital Painting
 - [![github-alt][github-img]](https://github.com/volkansengul)
   [![twitter-alt][twitter-img]](https://twitter.com/volkansengul)
