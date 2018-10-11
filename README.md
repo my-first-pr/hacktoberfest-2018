@@ -1086,6 +1086,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Computer engineering student at UFPE
 - The future is female!
 
+### Lilith
+- CSE Undergrad
+- Python developer
+- My hobbies are Programming, Sports, Music
+- [![github-alt][github-img]](https://github.com/lilithxxx)
+
 ### Lincoln Anders
 
 - 1st year CS major at Georgia Tech
