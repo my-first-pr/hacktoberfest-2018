@@ -307,7 +307,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Arjun Rajpal
   - Software Engineer and a ML Enthusiast
   - [![github-alt][github-img]](https://github.com/arjunrajpal)
-
+  
+### Arjun Mohnot
+  - CSE Student participating in hactoberfest
+  - check this out https://play.google.com/store/apps/details?id=com.optimisation.arjun.optimisation
+  
 ### ASHKUSH
 - Undergrad 2nd year CS student
 - Open Source contributor
