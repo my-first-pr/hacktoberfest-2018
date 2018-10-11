@@ -1982,6 +1982,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - My hobbies are Competitive Programming, Android App Dev, and sleeping ofc.
 - [![github-alt][github-img]](https://github.com/shauryabagga)
 
+### Shakira Ndagire
+- Software Developer, Andela Uganda
+- I am a Front End Developer
+- I developPython, HTML,CSS and Jvascript
+- [![github-alt][github-img]](https://github.com/shakirandagire)
+
  ### Swati Singh
  - Budding iOS developer and UNIX enthusiast.
  - I also do projects in 
