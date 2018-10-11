@@ -829,6 +829,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include gaming and listening to classical music.
 - [![github-alt][github-img]](https://github.com/example)
 
+### Helen França
+
+- I'm a student from Brazil
+- Bachelor student in information systems
+- Interested in node, ionic, angular, Machine learning and AI.
+- I like Python and Java.
+- My first Hacktoberfest!
+- [![github-alt][github-img]](https://github.com/helenfranca)
+
 ### Himanshu Aggarwal (@haggcoder)
 
 - 3rd year CS undergraduate at Delhi Technological University
