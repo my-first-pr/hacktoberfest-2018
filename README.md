@@ -1081,6 +1081,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Machine learning and Web Developement
 - [![github-alt][github-img]](https://github.com/kautukkundan)
 
+### KaiTiggy
+
+- Developer in Mooresville, NC, USA
+- [![github-alt][github-img]](https://github.com/kaitiggy)
+
 ### Kamal Iqlaas
 
 - Pursuing Master in Business Intelligence and Data Analytics
