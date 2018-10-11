@@ -1933,7 +1933,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/souvikmaji)
 
 ### Sofrie
-
+hacktoberfest-2019'
 - I'm a fullstack web developer
 - currently work in e-commerce
 - My hobbies include reading, watch movies, draw and sleeping
@@ -1945,6 +1945,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I study Electronics and Communication Engineering
 - My hobbies include coding, debating and acting
 - [![github-alt][github-img]](https://github.com/MittalS211)
+
+### Subrata Kumar Biswas
+
+- I am a First Year student of IIIT,Kalyani
+- [![github-alt][github-img]](https://github.com/subrata3112)
 
 ### Sukhwmit Kaur
 
