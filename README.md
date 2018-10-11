@@ -2274,6 +2274,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a Backend and Mobile Developer.
 - [![twitter-alt][twitter-img]](https://twitter.com/antonioyee)
   [![github-alt][github-img]](https://github.com/antonioyee)
+  
+### Yudi Tao
+
+- I am a Student Now studying in university currently 3rd year in Computer Science.
+- Interested in Web Design, Illustration.
+- I also did some small poject, mostly in (i order of frequency):
+	- Processing
+	- Python
+	- Java
+	- C++
+- [![github-alt][github-img]](https://github.com/Dooomino)
 
 ### Yoshimura TAKUYA
 
