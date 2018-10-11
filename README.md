@@ -2353,6 +2353,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Ssekito Charles
+- I love comoputers and sleep.
+- I really like chess, puzzles, and javascript is my first love.
+- [![twitter-alt][twitter-img]](https://twitter.com/Vinomix)
+  [![github-alt][github-img]](https://github.com/bozicschucky)
+
 ---
 
 ## Copyright
