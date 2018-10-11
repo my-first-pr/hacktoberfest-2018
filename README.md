@@ -1416,7 +1416,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
-### Nomit Pahuja
+### Niki Angelov
+- Passionate web developer and traveler.
+- [![twitter-alt][twitter-img]](https://twitter.com/nikiangelov)
+  [![github-alt][github-img]](https://github.com/nikiangelov)
+
+### Nomit Pahuja 
 
 - I'm pursuing B.Tech for Mechanical Engineering at VIT University,Vellore even though I love Computer Science
 - I love programming and currently learning Android App Development
