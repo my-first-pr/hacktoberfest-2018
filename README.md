@@ -2216,6 +2216,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # T
 
+### Tianna Henry-Lewis
+
+- Self-taught iOS Developer and 3d Modeller
+- Playing video games, reading, going for runs, reading
+- [![twitter-alt][twitter-img]](https://twitter.com/thenrylewis)
+- [![dribbble-alt][dribbble-img]](https://dribbble.com/tiannahlewis)
+- [![github-alt][github-img]](https://github.com/tiannahenrylewis)
+
 ### Tilak N Shenoy
 
 - Student
