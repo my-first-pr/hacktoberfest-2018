@@ -2170,6 +2170,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Python-Django, Java, C++
 - [![github-alt][github-img]](https://github.com/shubham76)
 
+### Shubham Soni
+
+- Javascript, Java, React
+- [![github-alt] [github-img]](https://github.com/shubhams0nii)
+
 ### Shweta Goyal
 
 - Computer Science Graduate
