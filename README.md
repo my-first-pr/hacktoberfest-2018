@@ -2084,6 +2084,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student
 - [![github-alt][github-img]](https://github.com/robotshateme)
 
+### Seul Lee
+
+- Python Server Developer
+- I live in Seoul
+- [![github-alt][github-img]](https://github.com/lee-seul)
+
 ### Shalini chaurasia
 
 - persuing b.tech
