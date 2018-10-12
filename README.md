@@ -105,6 +105,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a full Stack Web Developer
 - [![github-alt][github-img]] (https://github.com/Abhishek21sh)  
 
+### Danilo Vargas
+
+- Software Engineer
+- Backend Developer
+- [![twitter-alt][twitter-img]](https://twitter.com/dasouch)
+  [![github-alt][github-img]](https://github.com/dasouch)
+  
 ### Abhishek Kumar
 - Competietive Coder
 - Student, Self taught
