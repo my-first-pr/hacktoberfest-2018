@@ -1828,6 +1828,21 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Gastronomy
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
+  
+### Raju Kumar
+- Final Year CS Student,Kolkata
+- Learned Full Stack Development,Linux Lover
+- Aspiring Data Scientist
+- Tools: Git,NodeJS,MongoDB,React-Native
+- Intrests: Machine Learning,Cloud Computing
+- Language: JavaScript,Python,C
+- Hobbies:
+  - Coding
+  - Photography
+  - Geek
+  - Cricket
+- [![twitter-alt][twitter-img]](https://twitter.com/reyantouch)
+- [![github-alt][github-img]](https://github.com/rawzoo)
 
 ### Raspal Seni
 
