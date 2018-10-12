@@ -92,6 +92,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student
 - [![github-alt][github-img]](https://github.com/akag98)
 
+### Abhishek Pratap Singh
+- Student
+- Current Working on:
+  - game development
+  - some hacking materials.
+  - [![github-alt][github-img]](https://github.com/APSingh-007)
+
 ### Abay
 
 - UI Designer, Frontend Developer
