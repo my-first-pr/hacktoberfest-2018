@@ -1317,6 +1317,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - R&D Engineer AI Enthusiast
 - [![github-alt][github-img]](https://github.com/MElHussieni)
 
+### Mah Qi Hao
+
+- Mobile Developer
+- Web Developer
+- I like to watch game streaming and entertaining youtube videos.
+- [![github-alt][github-img]](https://github.com/qihaomah)
+
 ### Manthan Keim
 
 - Bachelor student in Computer Science Engineering at MAIT.
