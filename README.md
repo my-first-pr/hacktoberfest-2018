@@ -828,7 +828,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - IT Enthusiast
 - DevOps Enthusiast
 - [![twitter-alt][twitter-img]](https://twitter.com/a_hakimz)
-- [![github-alt][github-img]](https://github.com/ahakimz)
+  [![github-alt][github-img]](https://github.com/ahakimz)
 
 ### Hammad Mashkoor
 
