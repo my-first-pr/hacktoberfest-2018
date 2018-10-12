@@ -121,7 +121,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Student
 - I am a full Stack Web Developer
 - [![github-alt][github-img]] (https://github.com/Abhishek21sh)  
-  
+
 ### Abhishek Kumar
 - Competietive Coder
 - Student, Self taught
@@ -739,7 +739,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - AI Engineer
 - love travelling
   [![github-alt][github-img]](https://github.com/somchanokt)
-  
+
 # G
 
 ### Gabriel
@@ -1319,7 +1319,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Node.js, Java, Bash, Swift
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
-  
+
   ### Lizzy
 - blue team SecOps girl, psychology masters student
 - I love social engineering and learning new tech (need to get confidence in coding)
@@ -1442,10 +1442,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I make bots for the Discord platform.
 - [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
   [![github-alt][github-img]](https://github.com/MercyDoesCode)
-  
+
 ### Mimi Cheng
 
-- Data Scientist 
+- Data Scientist
 - Love AI, Tensorflow, Keras
 - [![github-alt][github-img]](https://github.com/mimicheng)
 
@@ -1589,6 +1589,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am very much passionate about programming.
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
+
+### Nicholas Ruan
+- Computer science student!
+- Programming, Outdoors, Biking
 
 ### Niki Angelov
 - Passionate web developer and traveler.
@@ -2154,7 +2158,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
-  
+
  ### Siddharth Varshney
  - I am Civil Engineering student at IIT ROORKEE.
 - I love to code and develop some some cool stuf.
@@ -2534,8 +2538,8 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Community Leader, Docker Jaipur; Core Team Member, PyJaipur
 - [![twitter-alt][twitter-img]](https://twitter.com/yajushiSri)
   [![github-alt][github-img]](https://github.com/yajushiSri)
-  
-  
+
+
 ### Yash
 
 - I am a C.S. student
