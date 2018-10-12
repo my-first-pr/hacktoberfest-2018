@@ -659,6 +659,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in angular, java
 - [![github-alt][github-img]](https://github.com/bailram)
 
+### dsargento
+- Developer
+- I like beer, music, and messing around with python
+- [![github-alt][github-img]](https://github.com/dsargento)
+
 ### Dylan Ferris
 - Student at University of Florida for Computer Engineering
 - Interest in embedded systems and circuit design
