@@ -2572,6 +2572,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Michael Beirnaert
+
+- Ceo and founder of kantrico studio
+- I love to develop websites and mobile applications
+- [facebook-alt][github-img]](https://www.facebook.com/michael.ofss)
+
 ---
 
 ## Copyright
