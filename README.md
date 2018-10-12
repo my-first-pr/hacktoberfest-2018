@@ -2401,6 +2401,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Community Leader, Docker Jaipur; Core Team Member, PyJaipur
 - [![twitter-alt][twitter-img]](https://twitter.com/yajushiSri)
   [![github-alt][github-img]](https://github.com/yajushiSri)
+  
+  
+### Yash
+
+- I am a C.S. student
+- I have made many mini projects, most of them are private
+- [![github-alt][github-img]](https://github.com/Y5Yash)
 
 ### Yee Antonio
 
