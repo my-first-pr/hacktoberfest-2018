@@ -1926,6 +1926,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Anime :heart:
 - [![facebook-alt][facebook-img]](https://facebook.com/rohit.kunji)
   [![github-alt][github-img]](https://github.com/ji-kun)
+  
+### Roland Horvath
+
+- Full stack developer
+- from Hungary
+- [![twitter-alt][twitter-img]](https://twitter.com/hroland_)
 
 ### Roxana Oanes
 
