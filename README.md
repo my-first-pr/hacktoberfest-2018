@@ -902,6 +902,13 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Love tech, learn tech, use tech, teach tech.
 - [![github-alt][github-img]](https://github.com/Iqlaas)
 
+### Kamil Swider
+
+- Learning how to code
+- Love coding, tech, fighting and history :)
+- [![github-alt][github-img]](https://github.com/bronasek)
+  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/bronasek)
+
 ### Kanchan Thareja
 
 - Pursuing Undergraduation in IT.
