@@ -1268,6 +1268,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Loves to code and game during free time.
 - [![github-alt][github-img]](https://github.com/KyaaKats)
 
+### Kunal Sharma
+
+- I am a Techie with interest in Stock Investing.
+- [![github-alt][github-img]](https://github.com/kunal12422)
+
 # L
 
 ### Lauren Reilly
