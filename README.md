@@ -1302,6 +1302,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Node.js, Java, Bash, Swift
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
+  
+  ### Lizzy
+- blue team SecOps girl, psychology masters student
+- I love social engineering and learning new tech (need to get confidence in coding)
+- [![twitter-alt][twitter-img]] https://twitter.com/malwareowl
+- [![github-alt][github-img]](https://github.com/glitzeeule)
 
 ### Lokesh Raj Arora
 
