@@ -758,9 +758,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Gaurav Umrani
 
 - I am Software enginner and student
-- Working on javascript technologies
-- can code in Angular/React
-- can code in NodeJS, ExpressJS, KoaJS
+- Working on javascript technologies and can code in Angular/React, NodeJS, ExpressJS, KoaJS
 
 ### G Basra
 
