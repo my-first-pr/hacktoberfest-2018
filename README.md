@@ -2002,6 +2002,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student
 - [![github-alt][github-img]](https://github.com/robotshateme)
 
+### Shalini chaurasia
+
+- persuing b.tech
+- Hobbies: Listening to music and coding
+- Frontend developer
+- [![github-alt][github-img]](https://github.com/shalini-chaurasia)
 
 ### Shashi Prakash
 
@@ -2115,7 +2121,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/MittalS211)
 
 ### Ssekito Charles
-- I love comoputers and sleep.
+- I love computers and sleep.
 - I really like chess, puzzles, and javascript is my first love.
 - [![twitter-alt][twitter-img]](https://twitter.com/Vinomix)
   [![github-alt][github-img]](https://github.com/bozicschucky)
