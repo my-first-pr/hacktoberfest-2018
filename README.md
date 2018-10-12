@@ -659,6 +659,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/dasouch)
   [![github-alt][github-img]](https://github.com/dasouch)
 
+### Dipsy
+- Passionate Learner
+- [![github-alt][github-img]](https://github.com/rdpradipta)
+
 # E
 
 ### Elijah Rwothoromo
