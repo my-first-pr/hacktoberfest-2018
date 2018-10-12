@@ -1114,6 +1114,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/lucasAlvesPOD)]
   [![github-alt][github-img]](https://github.com/lukpod1)
 
+
+### JoseMCO
+- Science Computer student
+- Full stack web developer
+  [![github-alt][github-img]](https://github.com/JoseMCO)
+
+
 ### John C
 
 - Hackerpreneur
