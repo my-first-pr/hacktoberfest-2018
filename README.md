@@ -1604,6 +1604,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I volunteer with High School students teaching them programming and robotics.
 - I will have each of them participate in Hacktoberfest tonight!!
 
+### Pedro Vitor
+
+- Fortaleza-CE Brazil
+- Student
+- Full Stack Web Dev
+  - Ruby on Rails ♥
+  - HTML / CSS / JS
+- [![github-alt][github-img]](https://github.com/pedroslark)
+
+
 ### Petri-Johan Last
 
 - I'm an Electronic Engineer and busy with a Masters degree in Machine Learning
