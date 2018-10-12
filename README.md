@@ -2253,7 +2253,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - 19 yea old hobby developer
 - I work for a small IT service company in germany
 - My hobbies include reading, gaming, programming and scouts
-- [![github-alt][github-img]](https://github.com/Echelon101
+- [![github-alt][github-img]](https://github.com/Echelon101)
 
 ### Tsung Han
 
