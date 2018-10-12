@@ -1094,6 +1094,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning Python, ML
 - [![github-alt][github-img]](https://github.com/thejohnykuz)
 
+### John Tay
+
+- Undergrad student, Y4
+- National University of Singapore
+- [![github-alt][github-img]](https://github.com/doraemonx)
+
 ### Jon B
 - A former CSE student
 - [![github-alt][github-img]](https://github.com/jonburleson)
