@@ -2252,6 +2252,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies includes `coding / learning new technologies`, `gym / baseball` and `visiting new places`
 - [![github-alt][github-img]](https://github.com/physsi07)
 
+### Stormgren
+- Computer engeneering student
+- Wannabe Java Full Stack Developer
+- In the process of learning Java
+[![github-alt][github-img]](https://github.com/Stormgren)
+
 ### Sukhwmit Kaur
 
 - I'm a contributor.
