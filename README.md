@@ -466,6 +466,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Gaming
 - [![github-alt][github-img]](https://github.com/singhbir)
 
+## Bj&ouml;rn Kristensson Alfsson
+
+- Mid age back-end developer, JPA, Spring Boot, Hibernate and Angular
+- Student, going from life on the road to life at a computer
+- My hobbies include:
+    - Travelling (Backpacking)
+    - Fishing
+    - Coding
+- [![github-alt][github-img]](https://github.com/BKristenssonAlfsson)
+
 ## Brenda Fitz
 - I'm a hobby programmer.
 - Just playing with Git.
