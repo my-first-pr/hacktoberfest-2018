@@ -1700,6 +1700,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I volunteer with High School students teaching them programming and robotics.
 - I will have each of them participate in Hacktoberfest tonight!!
 
+### Paulius Alaburda
+
+- I am a recent medicine graduate and have been programming in R for the past three years!
+- I also work on cell morphology and I also teach biology to high school students.
+- [![twitter-alt][twitter-img]](https://twitter.com/p_alab)
+
 ### Pedro Vitor
 
 - Fortaleza-CE Brazil
