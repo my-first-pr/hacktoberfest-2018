@@ -1,4 +1,4 @@
-﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -1270,6 +1270,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a studying at IIT-BHU (Varanasi).
 - My hobbies inlcude sleeping, eating and procrastinating.
 - [![github-alt][github-img]](https://github.com/keshavseksaria)
+
+### Kingcoconut332
+
+- I am an unemployed, computer enthusiast
+- [![github-alt][github-img]](https://github.com/kingcoconut332)
 
 ### Kumar Utkarsh
 
