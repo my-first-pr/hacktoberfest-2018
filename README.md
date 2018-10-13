@@ -1420,6 +1420,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Master's Student at IGDTUW, New Delhi.
 - [![twitter-alt][twitter-img]](https://twitter.com/manishakeim)
   [![github-alt][github-img]](https://github.com/manishakeim)
+  
+### Maurice Heumann
+
+- Student at DHBW Karlsruhe
+- I like to find out how things work
+- [![twitter-alt][twitter-img]](https://twitter.com/momo5502)
+  [![github-alt][github-img]](https://github.com/momo5502)
 
 ### Marco Paulo Ollivier
 
