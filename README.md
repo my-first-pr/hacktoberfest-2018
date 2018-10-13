@@ -2428,6 +2428,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Frontend Web Developer
 - Expertise in Data Structures and Algorithms (Java)
   [![github-alt][github-img]](https://github.com/uzmafaiz)
+  
+### Udith Ishara Madusanka
+- Frontend Web Developer
+- Languages: HTML, Javascript, CSS, C#, PHP
+- Hobbies
+  - Gaming
+  - Traveling
+  - Photography
+- [![twitter-alt][twitter-img]](https://twitter.com/udithishara)
+  [![facebook-alt][facebook-img]](https://facebook.com/uicreation)
+  [![github-alt][github-img]](https://github.com/udithishara)
 
 # V
 
