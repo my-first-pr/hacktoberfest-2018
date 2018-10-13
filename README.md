@@ -48,6 +48,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # A
 
+### Adriano Ianase
+
+- Bank Officer, Developer, Love to code
+- [![github-alt][github-img]](https://github.com/adrianomi)
+
+
 ### Aman Annaberdiyev
 
 - Student, AUBG
