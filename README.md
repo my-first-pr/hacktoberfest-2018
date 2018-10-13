@@ -1548,6 +1548,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Just a Noob
   [![github-alt][github-img]](https://github.com/itsnikhil)
 
+### Nishant Mittal
+
+- I'm a student of software development.
+- interest in maths,computer science,logical reasoning with tricks.
+- believes in innovations with new ideas.
+- i like to play chess also.
+- i like to do code.
+- [![github-alt][github-img]](https://github.com/example)
+  [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
+
 ### Nabheet Madan
 
 - I'm a SAP Technical Consultant interested in #Technical stuff.
