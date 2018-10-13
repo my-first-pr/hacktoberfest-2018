@@ -1466,6 +1466,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Always more to learn.
 - [![github-alt][github-img]](https://github.com/mind-as-well)
 
+### Mochamad Lucky Pradana
+
+- Front End Developer - VanillaJS and Clojure Enthusiast
+- [![twitter-alt][twitter-img]](https://twitter.com/ampersanda)
+  [![github-alt][github-img]](https://github.com/ampersanda)
+
 ### Mohit Yadav
 
 - I am a programmer and a student.
