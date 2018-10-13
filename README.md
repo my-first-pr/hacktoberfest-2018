@@ -638,6 +638,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
     Coding and Sketching
 - [![github-alt][github-img]](https://github.com/Gunnika)
 
+### Guneet Singh
+
+- Aspiring Web Developer
+- Currently a student
+- Hobbies:
+  - Playing Sports
+  - Learning how to code
+- [![github-alt][github-img]](https://github.com/SethiGuneet)
+
 
 ### Geri Adam
 
