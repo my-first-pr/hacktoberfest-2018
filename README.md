@@ -296,6 +296,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a software engineer.
 - [![github-alt][github-img]](https://github.com/pinkangelin4u)
 
+
+### Anderson Wu
+- I am a graduated student.
+  [![github-alt][github-img]](https://github.com/Anderson-Wu)
+
+
+
 ### André Paulo
 
 - I'm a Junior Back-End Developer from Portugal
