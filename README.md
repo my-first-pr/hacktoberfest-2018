@@ -1188,6 +1188,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a electrical engineer and a computer engineering student
 - [![github-alt][github-img]](https://github.com/jrmiranda)
 
+### Jesús Bossa
+- I'm a software engineer
+- I love to code in JavaScript and Ruby
+- [![github-alt][github-img]](https://github.com/makinox)
+
 # K
 
 ### Kautuk Kundan
