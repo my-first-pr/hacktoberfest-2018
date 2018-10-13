@@ -1606,6 +1606,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Passionate web developer and traveler.
 - [![twitter-alt][twitter-img]](https://twitter.com/nikiangelov)
   [![github-alt][github-img]](https://github.com/nikiangelov)
+  
+  ### Noel
+- 2nd year CS student, interested in cybersecurity
+- My first Hacktoberfest!
+
+- [![github-alt][github-img]](https://github.com/vodkanoya)
 
 ### Nomit Pahuja
 
