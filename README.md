@@ -298,7 +298,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 
 ### Anderson Wu
-- I am a graduated student.
+- I am a ungraduated student.
   [![github-alt][github-img]](https://github.com/Anderson-Wu)
 
 
