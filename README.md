@@ -678,6 +678,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # E
 
+### Eduardo Barreto
+
+- Computer Engineering Student at UFPE
+- Microsoft ASP.NET MVC 5 Intern
+- Love to code and to play video games (can't wait for Kingdom Hearts 3!)
+- I don't need a weapon. My friends are my power!
+- [![github-alt][github-img]](https://github.com/eduardobrito97)
+
 ### Elijah Rwothoromo
 
 - Software Developer
