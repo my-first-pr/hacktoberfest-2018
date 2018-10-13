@@ -887,6 +887,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/ahmad_haqqer)
   [![github-alt][github-img]](https://github.com/haqqer)
 
+### Harish V
+
+- Full-Stack Developer
+- Tech Enthusiast
+- Tech Geek
+- [![twitter-alt][twitter-img]](https://twitter.com/harishv207)
+  [![github-alt][github-img]](https://github.com/harishv7)
+
 ### Hayi Nukman
 
 - Android Developer
