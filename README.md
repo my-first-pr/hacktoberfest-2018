@@ -1571,6 +1571,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a comp sci student in NZ.
 - [![github-alt][github-img]](https://github.com/NotNelly)
 
+### Net Atcha
+
+- I'm a Information Engineering student of KMITL from Thailand.
+- I love coding, basketball and Dark color of terminal.
+- [![github-alt][github-img]](https://github.com/atchapcyp)
+
 ### Nha Huynh
 
 - Backend developer
