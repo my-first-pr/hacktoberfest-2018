@@ -199,6 +199,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/alenanog)
   [![github-alt][github-img]](https://github.com/alenanog)
 
+### Alessandro Melo
+
+- Student of Systems Information - UNIEURO
+- Sales Intern at Hitachi Vantara Brazil
+- Co-Founder at 7Sight Jr.
+- [![github-alt][github-img]](https://github.com/alessandro2702)
+
 ### Alex Weininger
 
 - Student - Computer Science - University of Portland 21'
