@@ -1051,6 +1051,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning Golang/Python and very interested in weareables/Fitness Tech
 - [![github-alt][github-img]](https://github.com/JClutch)
 
+### Jasper Martin
+
+- Software Developer
+- Currently an intern @ BloomSolutions
+- Likes to code!
+- [![twitter-alt][twitter-img]](https://twitter.com/jaspervanbrian)
+  [![github-alt][github-img]](https://github.com/jaspervanbrian)
+- Happy Hacktoberfest 2018 everyone!
+
 ### Jatin Mehta
 
 - Wannabe Web Developer
