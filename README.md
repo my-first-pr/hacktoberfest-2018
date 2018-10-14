@@ -1140,6 +1140,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning Elixir/Phoenix
 - [![github-alt][github-img]](https://github.com/thejohncotton)
 
+### John G
+
+- Electrical Engineer trying to learn new tricks "skills"
+  [![github-alt][github-img]](https://github.com/gotCaCO3)
+
 ### Jo Haugum
 
 - Software Engineer
