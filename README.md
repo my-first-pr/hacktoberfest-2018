@@ -524,6 +524,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/chirag2506)
   [![twitter-alt][twitter-img]](https://twitter.com/chiraggupta2506)
 
+### Pooja Jain  
+- Completed
+- Interested in development, machine learning.
+- Sings well
+
 ### CohheeTime
 
 - I built my first website in 1999
