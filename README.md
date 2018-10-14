@@ -1644,6 +1644,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include... Programming, Sports, Reading
 - [![github-alt][github-img]](https://github.com/nathanosborn)
 
+### Nui Nguyen
+
+- Student
+- Languages: C, C++, Java, Python, JS, Kotlin
+- My hobbies: Programming, CTF and Music (Guitar classic)
+- [![github-alt][github-img]](https://github.com/ngxson) | [My website](https://ngxson.com/)
+
 # O
 
 ### Omkar Kulkarni
