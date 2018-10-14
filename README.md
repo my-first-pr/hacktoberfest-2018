@@ -983,6 +983,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies is playing football.
 - [![github-alt][github-img]](https://github.com/ilhamtaufiq)
   [![twitter-alt][twitter-img]](https://twitter.com/ailhaeim)
+  
+### Ishita Chourasia
+- I am a software developer
+- I enjoy competitive programing
+- [![github-alt][github-img]](https://github.com/ishitach)
 
 ### Izabela Cardozo
 
