@@ -1825,6 +1825,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student | Machine Learning Enthusiast
 - [![github-alt][github-img]](https://github.com/Pratham1807)
 
+### Plasmagun86
+
+- Developer
+  [![github-alt][github-img]](https://github.com/plasmagun86)
+
 # Q
 
 ### Quang Vũ Nhật
