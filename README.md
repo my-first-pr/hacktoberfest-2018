@@ -1925,6 +1925,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - programming
 - [![github-alt][github-img]](https://github.com/rishabhjain12345)
 
+### Rishabh shukla
+- Computer science student
+- Learner
+- You will see me in coming years
+
 ### Ricardo van Laarhoven
 
 - Web developer
