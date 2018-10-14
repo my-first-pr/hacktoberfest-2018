@@ -659,6 +659,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in angular, java
 - [![github-alt][github-img]](https://github.com/bailram)
 
+### DP Gerber
+- Cheese
+- [![github-alt][github-img]](https://github.com/dpgerber)
+
 ### dsargento
 - Developer
 - I like beer, music, and messing around with python
