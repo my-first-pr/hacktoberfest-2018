@@ -342,6 +342,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/Anush93)
 
+### Anton Konstantinov
+
+- I am a student, developer and data science lover from Saint-Petersburg, Russia
+- Currently an undergraduate
+- My hobbies include:
+  - Coding
+  - Listening to and playing music
+ -  [![github-alt][github-img]](https://github.com/falceeffect)
+
 ### Apurva Vishwakarma
 - I am a young developer in India
 - I'm currently a undergraduate
