@@ -1542,6 +1542,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # N
 
+### niden
+- Python coder
+- Like anything that has to do with automation
+- [![github-alt][github-img]](https://github.com/nidens)
+- [![twitter-alt][twitter-img]](https://twitter.com/niden)
+
 ### Nikhil Singh
 
 - I'm a full stack Blokchain and NodeJS Developer.
