@@ -2311,6 +2311,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Just completed my nanodegree in Front-End Web Development
 - [![github-alt][github-img]](https://github.com/histef)
 
+###Sparsh Chadha
+- I'm a junior year student.
+- I have just started to code and currently engaging myself into learning some arduino
+- I like to listen to music while I code.
+- - [![github-alt][github-img]](https://github.com/sparsh0427)
+ 
 # T
 
 ### Tianna Henry-Lewis
