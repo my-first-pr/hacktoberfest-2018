@@ -2113,6 +2113,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student
 - [![github-alt][github-img]](https://github.com/robotshateme)
 
+## Shailja
+- Backend Developer
+- Trying my hands at open source for first time
+- Hobbies : coding, blogging
+- [![github-alt][github-img]](https://github.com/sagarwala)
+
+
 ### Shalini chaurasia
 
 - persuing b.tech
