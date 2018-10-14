@@ -22,7 +22,6 @@ public class StarArt {
                 System.out.print("*");
 
             }
-
             System.out.println();
 
         }
