@@ -582,6 +582,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Php y JavaScript developer, React lover
 - [![twitter-alt][twitter-img]](https://twitter.com/muydiego)
   [![github-alt][github-img]](https://github.com/diemax)
+  
+  ### Divyansh Darshan
+  - studying at KIT,Kanpur
+  - blogger(https://ddarshanunique.blogspot.com)
+  - Facebook page (we are unique)
 
 ### Dmitry Babinkin
 
