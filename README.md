@@ -2299,6 +2299,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I develop in Python, HTML,CSS and Jvascript
 - [![github-alt][github-img]](https://github.com/shakirandagire)
 
+### Swapan Asija
+
+- Software Developer
+- Studying Computer Science Engineering
+- [![github-alt][github-img]](https://github.com/Swapanasija)
+
  ### Swati Singh
  - Budding iOS developer and UNIX enthusiast.
  - I also do projects in
