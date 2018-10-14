@@ -1862,6 +1862,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Gastronomy
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
+  
+### Rakesh Pavan
+- Student
+- Current Working on:
+  - Machine Learning
+  - Competitive Programming
+  - CNNs and Models
+  - [![github-alt][github-img]](https://github.com/Rakeshpavan333)
 
 ### Raspal Seni
 
