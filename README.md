@@ -1617,6 +1617,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Passionate web developer and traveler.
 - [![twitter-alt][twitter-img]](https://twitter.com/nikiangelov)
   [![github-alt][github-img]](https://github.com/nikiangelov)
+  
+  ### Nishant Nischaya
+
+- I am a Student Now studying in university currently 3rd year in Electronics and Communication Engineering.
+- Interested in Web Design, Android Development and MATLAB.
+- You can find my portfolio at (http://www.nishantnischaya.surge.sh)
+- [![github-alt][github-img]](https://github.com/Nishant2604)
 
 ### Nomit Pahuja
 
