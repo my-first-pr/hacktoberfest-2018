@@ -799,6 +799,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am an Undergraduate .
 - I like competitive programming.
 
+### Gaurav Umrani
+
+- I am Software enginner and student
+- Working on javascript technologies and can code in Angular/React, NodeJS, ExpressJS, KoaJS
+
 ### G Basra
 
 - I'm a Beginner Front-End Developer
