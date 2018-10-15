@@ -2196,6 +2196,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a 3rd year undergraduate student studying CSE.
 - [![github-alt][github-img]](https://github.com/aryasin)
 
+### Sinsombat Jintavanich
+
+- I am Frontend Developer.
+- I use ReactJS for work.
+- I love Golang, Javascript, Python.
+- [![github-alt][github-img]](https://github.com/sinsombat)
+  [![twitter-alt][twitter-img]](https://twitter.com/sinsombat)
+
 
 ### Siro Canabarro
 
