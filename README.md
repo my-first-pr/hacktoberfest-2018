@@ -74,6 +74,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Reactjs.
 - [![github-alt][github-img]](https://github.com/goelaakash79)
 
+### Abhinav Raj
+
+- A High School student.
+- Intersted in Web Development
+- Hobbies:
+    - Programming
+    - Playing Games
+- [![twitter-alt][twitter-img]](https://twitter.com/hardwired_raj)
+  [![github-alt][github-img]](https://github.com/abhinavraj0123456789)
+
 ### Anant Maurya
 - Student
 - Current Working on:
@@ -2621,7 +2631,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
-
 ---
 
 ## Copyright
