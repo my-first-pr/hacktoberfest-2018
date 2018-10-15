@@ -527,6 +527,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Lover of programming, drums, cars, ping-pong and anime.
 - [![github-alt][github-img]](https://github.com/costassolla)
 
+### Charlie
+
+- CompSci student
+- New to GitHub and Open Source collaboration
+- [![github-alt][github-img]](https://github.com/atlasRand)
+
 ### Chirag Gupta  
 - First Year Student
 - Interested in development, machine learning.
