@@ -1620,7 +1620,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   
 ### Nishant Nischaya
 
-- I am a Student Now studying in university currently 3rd year in Electronics and Communication Engineering.
+- I am a student studying in university currently 3rd year in Electronics and Communication Engineering.
 - Interested in Web Design, Android Development and MATLAB.
 - You can find my portfolio at (http://www.nishantnischaya.surge.sh)
 - [![github-alt][github-img]](https://github.com/Nishant2604)
