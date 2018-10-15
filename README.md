@@ -678,6 +678,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # E
 
+### Emil Marian
+- Software Developer, QA
+- I like music, reading and programming.
+- [![twitter-alt][twitter-img]](https://twitter.com/EmilMarian)
+  [![github-alt][github-img]](https://github.com/EmilMarian)
+
 ### Elijah Rwothoromo
 
 - Software Developer
