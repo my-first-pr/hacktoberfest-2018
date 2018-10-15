@@ -2849,6 +2849,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Roqak
+
+- I am Computer Science Student and I speak Java, PHP, Node and Javascript.
+- I Love Learning new Tech.
+- [![github-alt][github-img]](https://github.com/Roqak)
 
 
 ---
