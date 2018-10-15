@@ -1271,6 +1271,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies inlcude sleeping, eating and procrastinating.
 - [![github-alt][github-img]](https://github.com/keshavseksaria)
 
+### Kevin Scully
+
+- I am web developer in the Boston, MA area
+- I recently completed a full stack web developer boot camp. We used the MERN stack.
+- [![github-alt][github-img]](https://github.com/scull1916)
+
 ### Kumar Utkarsh
 
 - I am a first year university student and those are my first steps in GitHub.
