@@ -1970,7 +1970,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Professor Renderer
 - Certified bear scientist, learning game dev
-  [![github-alt][github-img]](https://github.com/Renderer-RCT2)
+-  [![github-alt][github-img]](https://github.com/Renderer-RCT2)
 
 # Q
 
