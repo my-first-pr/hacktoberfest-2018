@@ -108,6 +108,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies is coding
 - Full Javascript
 
+### Vinod Patidar
+
+- Web Developer
+- I am Student
+- My hobbies is coding
+- Full Java Developer
+
 ### Aaron Sato
 - Web Developer
 - I enjoy coding, problem solving and building.
