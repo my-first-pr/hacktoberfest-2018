@@ -2114,6 +2114,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Marching Band
 - [![github-alt][github-img]](https://github.com/robertspurlin)
 
+### Rohan 
+- Web Developer
+- Python Programmer
+- Hobbies:
+  - gaming
+  - programming
+- - [![github-alt][github-img]](https://github.com/DemonDaddy22)
+
 ### Rohit Swami
 
 - Data Science Aspirant
