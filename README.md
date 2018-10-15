@@ -1885,6 +1885,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Cricket
 - [![github-alt][github-img]](https://github.com/RaahelBa1g)
 
+### Raghav Gupta
+
+- Student at IIIT-Delhi
+- Love coding
+- [![github-alt][github-img]](https://github.com/raghav3003)
+
 ### rahman95
 
 - Software Developer born in Germany raised in the UK. 🇩🇪 🇬🇧
