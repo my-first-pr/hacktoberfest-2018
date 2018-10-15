@@ -2149,6 +2149,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Apart from CP , I am a big fan of Machine Learning and TV shows like Silicon Valley.
 - [![github-alt][github-img]](https://github.com/sspeedy99)
 
+## Shehan Dhaleesha
+
+- I am an CS Undergraduate
+- Student @ UCSC
+-[![github-alt][github-img]](https://github.com/shehand)
+
 ### Shivam Ralli
 
 - I am an Undergrad.
