@@ -1,4 +1,4 @@
-﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -2670,7 +2670,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/yajushiSri)
   [![github-alt][github-img]](https://github.com/yajushiSri)
 
-
 ### Yash
 
 - I am a C.S. student
@@ -2708,6 +2707,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a Android Developer.
 - [![facebook-alt][facebook-img]](https://web.facebook.com/yothin.theone)
   [![github-alt][github-img]](https://github.com/yotheone0909)
+
+### Yuchuan (Eric) Chen
+
+- I am a second-year graduate student major in Computer Science in University of Southern California
+- Interested in Web Development, Android development and Data Visualization
+- [![github-alt][github-img]](https://github.com/LacticAcidCYC)
 
 # Z
 
