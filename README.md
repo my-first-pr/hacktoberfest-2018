@@ -2091,6 +2091,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a web developer
 - Hobbies : Programming, Sports, Playing guitar
   [![github-alt][github-img](https://github.com/Qhsami)
+  
+### Suras Kumar
+- I am a student pursuing Computer Science
+- Hobbies : Programming and travel
+  [![github-alt][github-img](https://github.com/surasnayak)
 
 ### Sattu
 
