@@ -2616,6 +2616,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love Mathematics, good food and OOP. I am currently studying Haskell, my first functional programming language.
 - [![github-alt][github-img]](https://github.com/ZornitsaAsanska)
 
+### Archit Awasthi 
+- I am 3rd year student of btech studying at KIT kanpur.
+-I love to play cricket.
+-love to learn new things.
+-[![github-alt][github-img]](https://github.com/archit023)
+
 ### Zayn
 
 - I am Computer Science Student and I speak Java, Node and Go.
