@@ -143,6 +143,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Competietive Coder
 - Student, Self taught
 
+### Anshu Kumar
+- B.tech student
+- Interested in Machine Learning and Competative Coding
+- Self taught
+
 ### Abdulgaphar
 - Cybersecurity Student
 - [![twitter-alt][twitter-img]](https://twitter.com/mrgaphy)
