@@ -2732,6 +2732,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Expert in Swift
 - [![github-alt][github-img]](https://github.com/vishalwaka)
 
+### Vishal Rastogi
+
+- Competitive Programmer
+- Area of Interest : Data Structures, Data Science
+- Web Developer
+- Reads, Writes, Travels
+-  [![github-alt][github-img]](https://github.com/vishal-rast0gi)
+
 ### Volkan Şengül
 - Software Engineer
 - Interest : Machine Learning
