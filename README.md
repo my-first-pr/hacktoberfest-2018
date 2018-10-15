@@ -1,4 +1,4 @@
-﻿![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
@@ -1561,6 +1561,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![google-alt][google-img]](https://plus.google.com/u/0/110590356196093693388)
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
+
+### Mansi Sharma
+
+- Final Year B.Tech Student at IGDTUW, Delhi,India.
+- [![github-alt][github-img]](https://github.com/MansiSharma1)
 
 # N
 
