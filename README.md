@@ -2041,6 +2041,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![github-alt][github-img]](https://github.com/devrchancay)
   [![medium-alt][medium-img]](https://medium.com/@devrchancay)
 
+### Roopam Sharma
+- Computer Science Graduate student at The University of Texas at Arlington
+- Hobbies:
+  - Coding
+  - Tennis
+  - Racquetball
+- [![github-alt][github-img]](https://github.com/RoopamSharma)
+
 # S
 
 ### Saakshi
