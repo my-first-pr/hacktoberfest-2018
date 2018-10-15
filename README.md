@@ -2343,6 +2343,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # T
 
+### Taz
+
+- Software Developer
+- [![github-alt][github-img]](https://github.com/IronLaddle)
+
 ### Tianna Henry-Lewis
 
 - Self-taught iOS Developer and 3d Modeller
