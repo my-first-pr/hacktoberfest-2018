@@ -1138,6 +1138,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a software developer from Germany
 - I like Lord of the Rings
 
+### Jeff Golditch
+
+- Computer Science Student
+- [![github-alt][github-img]](https://github.com/jgolditch)
+
 ### João Pedro B.B.
 
 - A Brazilian trying to print Hello World.
