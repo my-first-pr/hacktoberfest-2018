@@ -1535,6 +1535,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/mkaur7999)
 
+### Muhammad Alif A
+- I'm from Indonesia
+- I'm a student at electronics engineering polytechnic institute of surabaya (eepis)
+- Interest :
+  - Machine Learning
+  - Data Science
+  - Front end
+  
+- [![github-alt][github-img]](https://github.com/alifakbar111)
+[![facebook-alt][facebook-img]](https://www.facebook.com/muhammad.alif111)
+
 ### mkaur7999
 
 - I am a web developer and student in Indonesia
