@@ -1446,6 +1446,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Node.js, Java, Bash, Swift
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
+  
+### Lisa
+
+- Self-taught front-end software engineer.
+- My favorite coding languages are HTML and CSS.
+- [![twitter-alt][twitter-img]](https://twitter.com/lisa_blunt)
+  [![github-alt][github-img]](https://github.com/lisablunt)
 
   ### Lizzy
 - blue team SecOps girl, psychology masters student
