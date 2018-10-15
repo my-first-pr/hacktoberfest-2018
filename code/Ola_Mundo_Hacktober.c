@@ -1,7 +1,7 @@
-//By Carlos Henrique Rorato
+//By vishal choudhary
 #include<stdio.h>
 
 main()
 {
-  printf("Olá mundo!!! Eu sou o Carlos!! xD");
+  printf("hey i am on github");
 }
