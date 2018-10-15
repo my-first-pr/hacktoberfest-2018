@@ -1982,6 +1982,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/rmeena840)
   [![github-alt][github-img]](https://github.com/rmeena840)
 
+### Redvan
+
+- Front End Web Developer
+- Open Source Enthusiast & I love to learn new things
+- I have two hobbies: Code & Workout!
+- [![twitter-alt][twitter-img]](https://twitter.com/Redvano)
+  [![github-alt][github-img]](https://github.com/Redvanisation)
+
 ### Reesea
 
 - I'm an MBA student
