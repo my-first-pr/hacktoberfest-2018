@@ -2820,6 +2820,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/VinodVJ)
 - [![twitter-alt][twitter-img]](https://twitter.com/Vinod70474537)
 
+### Brandon Lam
+
+- Undergrad Student in CS
+- Interests: Machine Learning, Autonomous Vehicles
+- Hobbies: Gym, Music, Coding
+
 ### Vishal Anand
 
 - Student
