@@ -2483,6 +2483,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies are playing football and listening to music.
 - [![github-alt][github-img]](https://github.com/sumeetshirgure)
 
+### Sumesh Majhi
+- I am Computer Science Student and self taught full stack web developer specializing mostly in JavaScript/Node.js but also work with PHP. 😎
+- [![twitter-alt][twitter-img]](https://twitter.com/MajhiRockzZ)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/sumesh.majhi.5)
+  [![github-alt][github-img]](https://github.com/MajhiRockzZ)
+
 ### Suvin Nimnaka
 
 - A Student from Sri Lanka
