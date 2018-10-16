@@ -52,6 +52,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student, McMaster University
 - [![github-alt][github-img]](https://github.com/AaronPinto)
 
+### Ajani Eniola
+- Instuctor , Center point Enugu
+- I am currently work on:
+  - Ionic 3/4
+  - Angular 4,5,6
+  - Node.js
+  - Firebase
+- [![github-alt][github-img]](https://github.com/ajanieniolasolomon)
+
 ### Abandon C++
 - Student, NCKU
 
@@ -563,6 +572,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - New to GitHub and Open Source collaboration
 - [![github-alt][github-img]](https://github.com/atlasRand)
 
+### Chhavi
+
+- UX Designer
+- Trying to learn React.js, failing and trying again
+- [![twitter-alt][twitter-img]](https://twitter.com/chhavi_justme)
+
 ### Chirag Gupta  
 - First Year Student
 - Interested in development, machine learning.
@@ -753,6 +768,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/johnynsk)
 
 # F
+
+### FarzanEkram
+- i'm Undergraduate from KIT,Kanpur
+- Begineer in opensource (https://github.com/scorpion-kali)
 
 ### FaseemMunna
 - program lover
@@ -1015,12 +1034,18 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Speaks German
 - [![github-alt][github-img]](https://github.com/verdantfire)
 
+### Himanshu Sachan
+- studying in KIT ,Kanpur
+- wordpress developer
+- Blogger
+
 ### Hiep Nguyen
 
 - Software Engineer at Dwarves Foundation
 - Really likes Algorithms and Data Structure
 - Also interested in Machine Learning
 - [![github-alt][github-img]](https://github.com/hiepndd)
+
 
 ### Ha Huy Long Hai
 
@@ -1254,6 +1279,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - National University of Singapore
 - [![github-alt][github-img]](https://github.com/doraemonx)
 
+### Johnny Lopez
+- Sotware Engineer
+- Learning python and Kotlin
+- [![github-alt][github-img]](https://github.com/devjaou)
+- [![twitter-alt][twitter-img]](https://twitter.com/pythongt)
+
 ### Jon B
 - A former CSE student
 - [![github-alt][github-img]](https://github.com/jonburleson)
@@ -1374,6 +1405,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a studying at IIT-BHU (Varanasi).
 - My hobbies inlcude sleeping, eating and procrastinating.
 - [![github-alt][github-img]](https://github.com/keshavseksaria)
+
+### Kingcoconut332
+
+- I am an unemployed, computer enthusiast
+- [![github-alt][github-img]](https://github.com/kingcoconut332)
 
 ### Kevin Scully
 
@@ -1673,6 +1709,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [Know more at](http://muarachmann.com/)
 
 # N
+
+### niden
+- Python coder
+- Like anything that has to do with automation
+- [![github-alt][github-img]](https://github.com/nidens)
+- [![twitter-alt][twitter-img]](https://twitter.com/niden)
 
 ### Nikhil Singh
 
@@ -2032,6 +2074,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/reyantouch)
 - [![github-alt][github-img]](https://github.com/rawzoo)
 
+### Rakesh Sarangi
+- I am a backend developer in Java
+- I like to delve in other languages like Python and Go
+- My hobbies are reading and photography 
+- [![twitter-alt][twitter-img]](https://twitter.com/rrrrrrrocky)
+- [![github-alt][github-img]](https://github.com/rockydcoder)
+
 ### Raspal Seni
 
 - Freelance Writer, WordPress Developer, Linux Geek
@@ -2306,6 +2355,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student
 - [![github-alt][github-img]](https://github.com/robotshateme)
 
+## Shailja
+
+- Backend Developer
+- Trying my hands at open source for first time
+- Hobbies : coding, blogging
+- [![github-alt][github-img]](https://github.com/sagarwala)
+
 ### Seul Lee
 
 - Python Server Developer
@@ -2433,6 +2489,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Solomon H.
+- Aspiring iOS Developer (Swift).
+- [![twitter-alt][twitter-img]](https://twitter.com/TechSolomon)
+- [![github-alt][github-img]](https://github.com/TechSolomon)
+
 ### Souvik Maji
 
 - Full Stack Web Dev
@@ -2488,11 +2549,23 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies are playing football and listening to music.
 - [![github-alt][github-img]](https://github.com/sumeetshirgure)
 
+### Sumesh Majhi
+- I am Computer Science Student and self taught full stack web developer specializing mostly in JavaScript/Node.js but also work with PHP. 😎
+- [![twitter-alt][twitter-img]](https://twitter.com/MajhiRockzZ)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/sumesh.majhi.5)
+  [![github-alt][github-img]](https://github.com/MajhiRockzZ)
+
 ### Suvin Nimnaka
 
 - A Student from Sri Lanka
 - [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
   [![github-alt][github-img]](https://github.com/suvink)
+  
+### Sumanth Kumar Nayak
+
+- Hi! I am a school student and just 14.
+- C, C++ and Java are the languages I love the most.
+-  [![github-alt][github-img]](https://github.com/sumanth0904)
 
 ### Ste Royle
 
@@ -2769,6 +2842,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/xenocidewiki)
   [![github-alt][github-img]](https://github.com/xenocidewiki)
 
+### xander galdones
+- Software Developer. Interested in web technologies and Bitcoin and Blockchain technologies.
+- [![twitter-alt][twitter-img]](https://twitter.com/xandergaldones)
+  [![github-alt][github-img]](https://github.com/alexandergaldones)
 
 # Y
 
