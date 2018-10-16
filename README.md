@@ -2473,6 +2473,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Engineer at heart, if it isn't broken, break it!
 - [![github-alt][github-img]](https://github.com/slouchd)
 
+### Solomon H.
+- Aspiring iOS Developer (Swift).
+- [![twitter-alt][twitter-img]](https://twitter.com/TechSolomon)
+- [![github-alt][github-img]](https://github.com/TechSolomon)
+
 ### Souvik Maji
 
 - Full Stack Web Dev
