@@ -2792,6 +2792,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/xenocidewiki)
   [![github-alt][github-img]](https://github.com/xenocidewiki)
 
+### xander galdones
+- Software Developer. Interested in web technologies and Bitcoin and Blockchain technologies.
+- [![twitter-alt][twitter-img]](https://twitter.com/xandergaldones)
+  [![github-alt][github-img]](https://github.com/alexandergaldones)
 
 # Y
 
