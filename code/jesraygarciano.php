@@ -6,5 +6,5 @@ Hi .
 @twitter : https://twitter.com/jesrayg
 @github : https://github.com/jesraygarciano
  */
- echo '<p>Maayung buntag</p>'; 
- ?>
+    echo '<p>Maayung buntag</p>'; 
+?>
