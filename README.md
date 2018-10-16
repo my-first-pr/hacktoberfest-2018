@@ -436,6 +436,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Banso D. Wisdom
 
+- Student at UofT
+- Hobbies:
+- Gaming
+- Netflix
+- [![github-alt][github-img]](https://github.com/baylisade)
+
+### Banso D. Wisdom
+
 - Software Engineer, Gamer and Machine Learning Enthusiast
 - Hobbies:
   - Programming
