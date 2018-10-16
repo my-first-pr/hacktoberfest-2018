@@ -6,15 +6,15 @@ public class CountingSort {
 	{
 		int n = arr.length;
 		char output[] = new char[n]; 
-		//Creating the count array for each charecters
+		//Creating the count array for each characters
 		int count[] = new int[256]; 
 		//initializing count array
 		for (int i=0; i<256; ++i) 
             count[i] = 0; 
-		//incrementing the occurences of charecters in the array
+		//incrementing the occurences of characters in the array
 		for (int i=0; i<n; ++i) 
             ++count[arr[i]]; 
-		//updating the count array to hold correct position of each charecters
+		//updating the count array to hold correct position of each characters
 		for (int i=1; i<=255; ++i) 
             count[i] += count[i-1]; 
 		
