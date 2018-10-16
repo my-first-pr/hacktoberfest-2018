@@ -1651,6 +1651,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/mortezism)
   [![github-alt][github-img]](https://github.com/mory91)
 
+### Merlanio
+
+- I am student
+- I am live in Kazakhstan,Almaty
+- My hobbies:
+  - Gaming
+  - Coding
+  - drawing
+  
+ [![github-alt][github-img]](https://github.com/MerlanOurBoss)
 ### Muh. Salman Alfansuri
 
 - I am a young developer in Sri Lanka
