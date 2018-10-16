@@ -563,6 +563,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - New to GitHub and Open Source collaboration
 - [![github-alt][github-img]](https://github.com/atlasRand)
 
+### Chhavi
+
+- UX Designer
+- Trying to learn React.js, failing and trying again
+- [![twitter-alt][twitter-img]](https://twitter.com/chhavi_justme)
+
 ### Chirag Gupta  
 - First Year Student
 - Interested in development, machine learning.
