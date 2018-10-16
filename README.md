@@ -1157,6 +1157,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/jayvasantjv)
   [![github-alt][github-img]](https://github.com/jayvasantjv)
 
+### Jesray Garciano
+
+- I am made of star stuff who loves astronomy, bodybuilding and web development. 
+- Interior design aficionado
+- [![github-alt][github-img]](https://github.com/jesraygarciano)
+- [![twitter-alt][twitter-img]](https://twitter.com/jesrayg)
+
 ### Jillian Anderson Slate
 
 - I am a 25-year-old from the United States of America, and I recently moved with my husband to Barcelona, Spain.
@@ -2849,12 +2856,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
-### Jesray Garciano
-
-- I am made of star stuff who loves astronomy, bodybuilding and web development. 
-- Interior design aficionado
-- [![github-alt][github-img]](https://github.com/jesraygarciano)
-- [![twitter-alt][twitter-img]](https://twitter.com/jesrayg)
 
 
 ---
