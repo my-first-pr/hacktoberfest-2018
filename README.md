@@ -2366,6 +2366,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student
 - [![github-alt][github-img]](https://github.com/robotshateme)
 
+## Sebastian Crossa
+
+- First year CS student @ Tec de Monterrey.
+- Proud Mexican.
+- Trying to make the world a better place.
+- [![github-alt][github-img]](https://github.com/sebastiancrossa)
+
 ## Shailja
 
 - Backend Developer
