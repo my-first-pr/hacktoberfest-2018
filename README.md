@@ -2824,7 +2824,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 - Undergrad Student in CS
 - Interests: Machine Learning, Autonomous Vehicles
-- Hobbies: Gym, Music, Coding
+- Hobbies: Gym, Music, Coding, Reading
 
 ### Vishal Anand
 
