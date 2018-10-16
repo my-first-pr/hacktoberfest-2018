@@ -900,6 +900,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/glaseca)
   [![github-alt][github-img]](https://github.com/glaseca)
 
+### Gno
+
+- I am from Bangkok,Thailand
+- Junior NodeJS Developer
+  [![github-alt][github-img]](https://github.com/Gnoyoyo)
+
+
 ### gursimran
 
 - I am a young developer in india
