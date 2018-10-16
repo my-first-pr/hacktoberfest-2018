@@ -2753,6 +2753,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # V
 
+### Victor - KingVirr
+- Student at University West (Sweden)
+- Hobbies: gem cutting, coding and spending time in the nature
+
 ### Vipin Kumar
 
 - Student of Btech, computer science & engineering
