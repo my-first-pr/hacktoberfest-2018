@@ -2849,6 +2849,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Jesray Garciano
+
+- I am made of star stuff who loves astronomy, bodybuilding and web development. 
+- Interior design aficionado
+- [![github-alt][github-img]](https://github.com/jesraygarciano)
+- [![twitter-alt][twitter-img]](https://twitter.com/jesrayg)
 
 
 ---
