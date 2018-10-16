@@ -2488,6 +2488,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - A Student from Sri Lanka
 - [![twitter-alt][twitter-img]](https://twitter.com/tikirimaarie)
   [![github-alt][github-img]](https://github.com/suvink)
+  
+### Sumanth Kumar Nayak
+
+- Hi! I am a school student and just 14.
+- C, C++ and Java are the languages I love the most.
+-  [![github-alt][github-img]](https://github.com/sumanth0904)
 
 ### Ste Royle
 
