@@ -475,6 +475,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/Ben_Aaron_Mort)
   [![github-alt][github-img]](https://github.com/jmort125)
 
+### Ben Pearson
+
+- LAMP, web dev
+- working on recreating an old game I loved
+- [![github-alt][github-img]](https://github.com/benpearson2003)
+
 ### Ben Thompson
 
 - New to open source
