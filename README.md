@@ -2619,6 +2619,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Software Developer
 - [![github-alt][github-img]](https://github.com/IronLaddle)
 
+### Theodosis Paidakis
+
+- 21 years old and i love to code
+- Currently studying Software Engineering at University of Athens
+- Interested in big creative projects
+- [![twitter-alt][twitter-img]](https://twitter.com/TheoPaid)
+- [![github-alt][github-img]](https://github.com/theopaid)
+
 ### Tianna Henry-Lewis
 
 - Self-taught iOS Developer and 3d Modeller
