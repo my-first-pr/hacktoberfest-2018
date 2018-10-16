@@ -1968,6 +1968,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - C++ - Favourite Programming Language
 - [![github-alt][github-img]](https://github.com/prince17080)
 
+### Pushpneet Singh
+
+- I am a tech. enthsiastic person.
+- [![facebook-alt][facebook-img]](https://web.facebook.com/PushpneetSingh)
+  [![github-alt][github-img]](https://github.com/PushpneetSingh)
+
 ### Pawan Singh
 - Computer Science Graduate from India
 - Software Engineer
