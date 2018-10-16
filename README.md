@@ -52,6 +52,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student, McMaster University
 - [![github-alt][github-img]](https://github.com/AaronPinto)
 
+### Ajani Eniola
+- Instuctor , Center point Enugu
+- I am currently work on:
+  - Ionic 3/4
+  - Angular 4,5,6
+  - Node.js
+  - Firebase
+- [![github-alt][github-img]](https://github.com/ajanieniolasolomon)
+
 ### Abandon C++
 - Student, NCKU
 
