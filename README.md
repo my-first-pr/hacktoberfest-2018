@@ -2042,6 +2042,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/reyantouch)
 - [![github-alt][github-img]](https://github.com/rawzoo)
 
+### Rakesh Sarangi
+- I am a backend developer in Java
+- I like to delve in other languages like Python and Go
+- My hobbies are reading and photography 
+- [![twitter-alt][twitter-img]](https://twitter.com/rrrrrrrocky)
+- [![github-alt][github-img]](https://github.com/rockydcoder)
+
 ### Raspal Seni
 
 - Freelance Writer, WordPress Developer, Linux Geek
