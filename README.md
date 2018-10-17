@@ -2240,6 +2240,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Software Engineer from PH
 - [![github-alt][github-img]] (https://github.com/rjcapuno)
 
+### Rhonin
+
+- Softie Engineer
+- [![github-alt][github-img]] (https://github.com/odzeno)
+
 ### Rudrangshu Nandi
 
 - Student, Self-taught Developer
