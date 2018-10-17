@@ -1485,6 +1485,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # L
 
+### Lam Lieu
+- 2nd Year Computer Science Student
+- [![github-alt][github-img]](https://github.com/LamLieu)
+
 ### Lauren Reilly
 
 - I'm a cat loving underwater gardener
