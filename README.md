@@ -2052,6 +2052,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # Q
 
+### Qas
+
+- I am a student.
+- I am interested in game development and AI.
+- This is my first Hacktoberfest
+- [![github-alt][github-img]](https://github.com/qasimwarraich) 
+
 ### Quang Vũ Nhật
 
 - I'm an Information Security Engineer.
