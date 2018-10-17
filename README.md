@@ -18,7 +18,7 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 ![Hacktoberfest 2018](https://my-first-pr.github.io/assets/images/Hacktoberfest_2018_logo_lockup.png)
 
 # Getting Started
-
+Thank you!
 ### Example Profile
 
 - I'm an example that you can copy, if you want :)
