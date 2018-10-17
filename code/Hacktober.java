@@ -1,4 +1,3 @@
-package com.timbuchalka;
 
 public class Hacktober {
 
