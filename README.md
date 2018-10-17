@@ -1429,6 +1429,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a web developer in Los Angeles, CA.
 - [![twitter-alt][twitter-img]](https://twitter.com/KullerVan)
   [![github-alt][github-img]](https://github.com/KentClarkGuitar)
+  
+### Ken Davis
+
+- Software Developer From  The United States
+- Hobbies:
+  - Coding
+  - Gaming
+- [![twitter-alt][twitter-img]](https://twitter.com/kdavis158)
+  [![github-alt][github-img]](https://github.com/kdavis-ssi)
 
 ### Keshav Seksaria
 
