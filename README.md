@@ -1877,6 +1877,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/OumaimaTiguint)
 
 # P
+### Prakhar Dubey
+
+- Love to code JavaScript.
+- React,Redux,NodeJS,ExpressJS,MongoDB
+- [![twitter-alt][twitter-img]](https://twitter.com/prakhardubey2)
+  [![github-alt][github-img]](https://github.com/prakhardb)
+  [facebook-alt][facebook-img]](https://facebook.com/prakhardb)
 
 ### Prateek Arora
 
