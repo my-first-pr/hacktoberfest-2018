@@ -2335,6 +2335,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Besides coding, I love to read novels and explore different places.
 - [![github-alt][github-img]](https://github.com/sahilwasan000)
 
+### Sakshi
+- I am an undergraduate student
+- It's my second pr
+- Besides coding, i love scribbling and sketching
+
 ### Samir
 - I am a web developer
 - Hobbies : Programming, Sports, Playing guitar
