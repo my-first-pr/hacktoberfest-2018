@@ -2352,6 +2352,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - i am intersted in web development
 - [![github-alt][github-img]](https://github.com/sandeepsanjusplr)
 
+### Sanidhya (sandy)
+
+- I am a machine learning enthusiast working on neutral nets and GAN.
+- I am working on Angular , Tensorflow and Python.
+- [![github-alt][github-img]](https://github.com/sandy1999)
+
+
+
+
 
 ### Sanjay
 
