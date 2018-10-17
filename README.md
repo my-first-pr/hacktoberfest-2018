@@ -548,6 +548,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - New to open source, looking to get experienced
 - [![github-alt][github-img]](https://github.com/catielynncodes)
 
+### Cameron Brill
+
+- Self-study and University Freshman, learning through open source projects and class projects
+- Currently learning task automation with Python, deb development, and Android development.
+- Java, Python, JS
+- [![github-alt][github-img]](https://github.com/gaiscioch)
+
 ### caviar
 
 - student in National Cheng Kung University major in Computer Science
