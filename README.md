@@ -1062,6 +1062,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Also interested in Machine Learning
 - [![github-alt][github-img]](https://github.com/hiepndd)
 
+### Hiro
+
+- Front End Dev
+- Proud UCLA Alumni
+- I listen to [Polyphia](https://open.spotify.com/album/7GhytR6ZMWetf1jxAzITtG) when I code
+- [![github-alt][github-img]](https://github.com/roromusic)
 
 ### Ha Huy Long Hai
 
