@@ -2497,6 +2497,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/shradha-khapra)
 
+### Shahidul Islam
+
+- I'm currently an undergraduate for Bachelor of Engineering in Computer Engineering
+- Web developer.
+- [![github-alt][github-img]](https://github.com/Shahidcseku)
+
+
 ### Shubham Patil
 
 - Python-Django, Java, C++
