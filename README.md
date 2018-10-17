@@ -435,6 +435,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Grad Student
 - OpenSource Enthusiast
 
+### Ashwani Kumar
+
+- Software Engineer, and Cyber Security Enthusiast from India
+- Say Hi to me
+- My hobbies include:
+  - Coding
+  - Gaming
+  - Photography
+- [![github-alt][github-img]](https://github.com/ashwani762)
+
 ### Azhar Mithani
 
 - I am a young Software Engineer and a ML Enthusiast in India
