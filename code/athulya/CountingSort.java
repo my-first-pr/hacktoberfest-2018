@@ -10,24 +10,25 @@ public class CountingSort {
 		int count[] = new int[256]; 
 		//initializing count array
 		for (int i=0; i<256; ++i) 
-            count[i] = 0; 
+            		count[i] = 0; 
+		
 		//incrementing the occurences of characters in the array
 		for (int i=0; i<n; ++i) 
-            ++count[arr[i]]; 
+            		++count[arr[i]]; 
+		
 		//updating the count array to hold correct position of each characters
 		for (int i=1; i<=255; ++i) 
-            count[i] += count[i-1]; 
+            		count[i] += count[i-1]; 
 		
 		//building the output array
-		for (int i = n-1; i>=0; i--) 
-        { 
-            output[count[arr[i]]-1] = arr[i]; 
-            --count[arr[i]]; 
-        } 
+		for (int i = n-1; i>=0; i--) { 
+            		output[count[arr[i]]-1] = arr[i]; 
+            		--count[arr[i]]; 
+		} 
 		
-		//coping the result to original array
+		//copying the result to original array
 		for (int i = 0; i<n; ++i) 
-            arr[i] = output[i]; 
+           		 arr[i] = output[i]; 
 	}
 	
 	public static void main(String...args)
