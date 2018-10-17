@@ -1358,6 +1358,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love to code in JavaScript and Ruby
 - [![github-alt][github-img]](https://github.com/makinox)
 
+###
+- I'm a grade 9th student from Thailand.
+- HTML JS RUBY R PYTHON C++,C# LOVER!.
+- [![github-alt][github-img]](https://github.com/wit03)
 # K
 
 ### Kautuk Kundan
