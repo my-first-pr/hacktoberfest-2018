@@ -626,6 +626,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in Python, Django
 - [![github-alt][github-img]](https://github.com/BeAsYit)
 
+### Darin Mao
+
+- I'm a student from the United States
+- I like Java and maybe Python if I'm feeling good on a certain day
+- Also interested in front-end web development
+
 ### Darshan D V
 
 - I'm a CSE student studying at NITK Surathkal.
