@@ -2,9 +2,13 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
-  res.send('Hello World!');
+
+  res.send('Hola Mundo!');
+
 });
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+app.listen(3030, function () {
+	
+  console.log('Ejemplo APP, escuchando por puerto 3030!');
+  
 });
