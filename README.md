@@ -2551,6 +2551,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include reading, watch movies, draw and sleeping
 - [![github-alt][github-img]](https://github.com/sofrie)
 
+### Srinath
+
+- Developer
+- C, C++, Python, JS
+- Lara, Federer, Sachin for life
+- [![github-alt][github-img]](https://github.com/srinath9721)
+
 ### Srishty Mittal
 
 - I'm a contributor and web developer
