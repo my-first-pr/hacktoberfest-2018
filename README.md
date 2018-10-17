@@ -2028,6 +2028,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am an aspiring Software Developer.
 - [![github-alt][github-img]](https://github.com/priyyyamm)
 
+### Pritish Patra
+- I am an aspiring Software Developer working in Python. 
+- [![github-alt][github-img]](https://github.com/patty22)
+
+
 ### Pritam Piyush
 
 - An undergraduate student
