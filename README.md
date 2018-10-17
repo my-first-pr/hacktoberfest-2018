@@ -1811,6 +1811,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a member of Microsoft Technical Community , LPU
 - [![github-alt][github-img]](https://github.com/NikhilShrivastava)
 
+### Nikoloz Buligini
+
+- Software Developer
+- Working on javascript technologies and can code in React, NodeJS, ExpressJS
+- [![github-alt][github-img]](https://github.com/NikaBuligini)
+
 ### Nicholas Ruan
 - Computer science student!
 - Programming, Outdoors, Biking
