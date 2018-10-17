@@ -1358,6 +1358,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love to code in JavaScript and Ruby
 - [![github-alt][github-img]](https://github.com/makinox)
 
+### Jacinto Ramírez
+
+- Software Consultant, Developement
+- I like to find the pain point to give gain point
+- First time contributing to Hacktoberfest!
+- [![github-alt][github-img]](https://github.com/chiroz1)
+
 # K
 
 ### Kautuk Kundan
