@@ -2191,6 +2191,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Marching Band
 - [![github-alt][github-img]](https://github.com/robertspurlin)
 
+### Rogério do Carmo
+
+- Mobile Developer
+- Hobbies:
+  - Coding and gaming
+  - Watching animes and movies
+- [![github-alt][github-img]](https://github.com/RogerioDoCarmo)
+
 ### Rohit Swami
 
 - Data Science Aspirant
