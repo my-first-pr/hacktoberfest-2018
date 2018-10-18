@@ -713,6 +713,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in everything JavaScript, Python and Kotlin.
 - [![github-alt][github-img]](https://github.com/pdejan)
 
+### Demir Baş
+
+- CS Student from Turkey.
+- Love playing guitar.
+- [![github-alt][github-img]](https://github.com/ironhead690)
+
 ### Diego (diemax)
 
 - Php y JavaScript developer, React lover
