@@ -212,6 +212,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a web developer.
 - [![github-alt][github-img]](https://github.com/adikolsur)
 
+### Adrian Grimm
+
+- Student at Stark State College
+- Studing Web Development and Database Administration
+- Self taught Android Developer/Enthusiast
+- [![github-alt][github-img]](https://github.com/usmcamgrimm)
+- [![twitter-alt][twitter-img]](https://twitter.com/usmcamgrimm)
+
 ### Agustin Vargas
 
 - Project Manager
