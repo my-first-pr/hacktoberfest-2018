@@ -1476,6 +1476,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies inlcude sleeping, eating and procrastinating.
 - [![github-alt][github-img]](https://github.com/keshavseksaria)
 
+### Kim Abel Thomas
+- I am a first year computer science student at Model Engineering College
+- My hobbies include playing the uke,gaming
+-[![github-alt][github-img]](https://github.com/kimmeccsb)
+
 ### Kingcoconut332
 
 - I am an unemployed, computer enthusiast
