@@ -646,6 +646,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning all about PR's and open source.
 - [![github-alt][github-img]](https://github.com/dalanskis)
 
+### Daniil Ratarov
+
+- Software engineer intern in CERN
+- Machine learning engineer in DeepML
+- [![github-alt][github-img]](https://github.com/RatarovDaniil)
+
 ### Danil Shankovskiy
 
 - I'm a student from Ukraine
