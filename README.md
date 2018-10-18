@@ -769,6 +769,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Passionate Learner
 - [![github-alt][github-img]](https://github.com/rdpradipta)
 
+### Dahyun Yu
+- Python Engineer (+ Frontend Developer)
+- I work at Edu Startup.
+- [![github-alt][github-img]](https://github.com/yuda110)
+
 # E
 
 ### Emil Marian
