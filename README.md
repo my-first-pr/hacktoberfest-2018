@@ -3171,6 +3171,20 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 - [![github-alt][github-img]](https://github.com/SORM00)
 
+
+### Vaibhav Raj
+
+- Student of B.Tech, Information Technology
+- Working on front end development.
+- Interested in Machine Learning and Cyber Security.
+- Languages :- C/C++, Python, JavaScript.
+
+- [![github-alt][github-img]](https://github.com/codebuster10x)
+
+
+
+
+
 ### Vipin Kumar
 
 - Student of Btech, computer science & engineering
