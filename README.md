@@ -2030,6 +2030,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - First PR!
 - [![github-alt][github-img]](https://github.com/pranjalsingh20)
 
+### Prayag Raj Singh
+
+- I'm a bit curious and good listner.
+- I work on c, python and java.
+- My hobbies include: working on AI, swimming, playing football etc...
+- [![twitter-alt][twitter-img]](https://twitter.com/PRS1598)
+- [![github-alt][github-img]](https://github.com/PrayagRajSingh)
+
 ### Priyam Mehta
 - I'm 11th grade Computer Science Student.
 - I am an aspiring Software Developer.
