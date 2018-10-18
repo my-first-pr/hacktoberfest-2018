@@ -2041,6 +2041,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/mortezagk)
   [![github-alt][github-img]](https://github.com/mortezagk)
   
+### Moyin Shabi
+- I'm a university student studying Computer Engineering and I aspire a lot in Technology...
+- [![twitter-alt][twitter-img]](https://twitter.com/justmoyinn)
+- [![github-alt][github-img]](https://github.com/MoyinShabi)
+  
 ### Mani Kashyap
 
 - Software Developer. Interested in web technologies
