@@ -1,0 +1,14 @@
+print("Enter Time in 12hr Format (HR:MN:SCAM/PM)")
+s=input()
+l=s.split(":")
+if "PM" in l[2]:
+
+    if (int(l[0])+12)==24:
+        l[0]="00"
+    else:
+        l[0]=str(int(l[0])+12)
+    l[2]=l[2].split("P")[0]
+else:
+    l[2]=l[2].split("A")[0]
+
+print(":".join(l))
