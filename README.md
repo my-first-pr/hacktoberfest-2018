@@ -41,10 +41,11 @@ Please read our [contributing](CONTRIBUTING.md) guidelines before making your pu
 Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Reference Links
+
 How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Go to : https://hacktoberfest.digitalocean.com/stats/ (Scroll down to Check Out Your Own Stats)
 
-## Contributors List
+# Contributors List
 
 # A
 
@@ -351,8 +352,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Anderson Wu
 - I am a ungraduated student.
   [![github-alt][github-img]](https://github.com/Anderson-Wu)
-
-
 
 ### André Paulo
 
@@ -1961,7 +1960,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/nikiangelov)
   [![github-alt][github-img]](https://github.com/nikiangelov)
 
-  ### Noel
+### Noel
 - 2nd year CS student, interested in cybersecurity
 - My first Hacktoberfest!
 
@@ -2139,6 +2138,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Learning New Things
 - [![twitter-alt][twitter-img]](https://twitter.com/shah_perin)
   [![github-alt][github-img]](https://github.com/freeformelm)
+
 ### Pritish Thakkar
 
 - I'm an undergraduate from Punjab engineering college
@@ -2534,10 +2534,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a machine learning enthusiast working on neutral nets and GAN.
 - I am working on Angular , Tensorflow and Python.
 - [![github-alt][github-img]](https://github.com/sandy1999)
-
-
-
-
 
 ### Sanjay
 
@@ -3090,7 +3086,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![youtube-alt][youtube-img]](https://youtube.com/volkansengul)
   
 ### Veena Rawat
-
 - Student, Self-taught Developer
 - Web Designing
 - I am currently work on:
@@ -3126,6 +3121,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![facebook-alt][facebook-img]](https://facebook.com/febriady.adys)
 
 # X
+
 ### xenocidewiki
 - Student from Norway. Programming in C++. Interested in reverse engineering.
 - [![twitter-alt][twitter-img]](https://twitter.com/xenocidewiki)
@@ -3219,7 +3215,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
-
 
 ---
 
