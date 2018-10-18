@@ -276,6 +276,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am studying data science
 - [![github-alt][github-img]](https://github.com/magauran)
 
+### Alhamza (DarthHamza)
+- Django instructor at a coding bootcamp
+- [![github-alt][github-img]](https://github.com/DarthHamza)
+
 ### Alistair Holmes
 
 - I'm an Android Developer and UI Designer from Zimbabwe
