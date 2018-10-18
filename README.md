@@ -897,6 +897,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love movies, poetry and hangouts.
 - [![twitter-alt][twitter-img]](https://twitter.com/rwothoromo)
   [![github-alt][github-img]](https://github.com/rwothoromo)
+  
+### Euclides Ramos
+
+- Computer Maintenance and Support Technician by IFPB;
+- Graduating in Computer Science at the UFCG;
+- Paraíba, Brazil <3
+- [![github-alt][github-img]](https://github.com/EuclidesRamos)
 
 ### Evgeniy Vasilev
 
