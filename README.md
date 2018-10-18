@@ -2788,6 +2788,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # T
 
+### Tu Tran (Max)
+
+- Full-stack Developer
+- Coding, gym, reading book.
+- [![twitter-alt][twitter-img]](https://twitter.com/tutv95)
+- [![github-alt][github-img]](https://github.com/tutv)
+
 ### Taz
 
 - Software Developer
