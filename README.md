@@ -3200,6 +3200,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # U
 
+### Uchenna Cyril Nnamadim
+
+- I am a mechanical engineer turned software engineer
+- I have a knack for solving problems
+- [![github-alt][github-img]](https://github.com/WiseCyril)
+
 ### Ubaidillah Waseem
 
 - Software Engineer based in Prague
