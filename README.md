@@ -1157,6 +1157,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # J
 
+### Jalaj
+- I am currently a student. I love webdev. 
+- I know HTML, CSS and Javascript. 
+- [![github-alt][github-img]](https://github.com/thevip799) [![link-alt][link-image]](https://jalaj.funcity.org) 
+
 ### J Hi-Tech
 - Software dev rusty with github's online tool
 - Learning angular 6, looking for projects to help out
