@@ -976,6 +976,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in Android and Games
 - [![github-alt][github-img]](https://github.com/fahmimuh)
 
+### Felipe B.
+
+- Software Developer who loves numbers, calculus and statistics.
+- Java and .NET developer.
+- MS SQL Server data
+- [![github-alt][github-img]](https://github.com/felipebossolani)
+
 ### Felkan
 
 - CS-Student
