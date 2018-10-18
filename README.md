@@ -2945,6 +2945,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Painter
 - [![github-alt][github-img]](https://github.com/Vishal1541)
 
+### Vishal Sharma
+- Programmer
+- Student
+- [![twitter-alt][twitter-img]](https://twitter.com/makeavish11)
+  [![github-alt][github-img]](https://github.com/makeavish)
+  
 ### Vishesh Khandelwal
 
 - Student
