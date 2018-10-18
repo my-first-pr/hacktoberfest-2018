@@ -595,6 +595,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a Front-End developer and work with React, React Native, Angular, AngularJS, ES6, CSS3, HTML5, UX and others technologies.
 - [![github-alt][github-img]](https://github.com/dulcetti )
   [![twitter-alt][twitter-img]](https://twitter.com/dulcetti)
+  
+### Bartłomiej Skoczeń
+- I'm a simple teenage programmer. I write code mainly in C# and Java. I know Crystal (and others) too!
+- Currently i'm in high school, but in meanwhile i'm trying to write something usewfull.
+- [![github-alt][github-img]](https://github.com/MineBartekSA)
 
 ### Brandon M
 
