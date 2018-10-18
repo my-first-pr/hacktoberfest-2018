@@ -260,6 +260,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Taking my first steps into open source!
 - [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/maximumfluff)
 
+### Alexander Ivanov
+- Business Transformation Analyst from New Zealand
+- Currenlty learning React to make a career switch
+- [![github-alt][github-img]](https://github.com/ivalexig)
+- [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/ivalexig)
+
 ### Alexandre Pereira Santos
 
 - Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
