@@ -1252,6 +1252,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I also like playing the cello, watching shows on Netflix, and cooking.
 - [![github-alt][github-img]](https://github.com/janicek1m)
 
+### Janice Keita
+
+- I am a college student.
+- My hobbies include reading, watching movies and animes.
+- [![github-alt][github-img]](https://github.com/Gotaskaen)
+
 ### Janitha Rasanga
 - I am a student of University of Moratuwa
 - [![facebook-alt][facebook-img]](https://web.facebook.com/janitha.rasanga.7)
