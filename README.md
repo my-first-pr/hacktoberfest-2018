@@ -301,6 +301,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![github-alt][github-img]](https://github.com/mudspringhiker)
 - [Know more at](https://alonavarshal.com)
 
+### Ameer Zaita
+- Majoring in Computer Science, want to be a web developer.
+- I enjoy coding and biking.
+
 ### Amintas Victor
 
 - I'm a Science Computing graduating, from Brasil
