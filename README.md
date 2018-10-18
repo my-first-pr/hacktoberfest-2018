@@ -1861,6 +1861,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I make bots for the Discord platform.
 - [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
   [![github-alt][github-img]](https://github.com/MercyDoesCode)
+  
+### Michael McClean
+- Tech Elevator student in Cincinnati, Ohio
+- Enjoy algorithm based programming
+  [![github-alt][github-img]](https://github.com/mdmcclean)
 
 ### Mikołaj Radkowski
 
