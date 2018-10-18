@@ -3072,6 +3072,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/VinodVJ)
 - [![twitter-alt][twitter-img]](https://twitter.com/Vinod70474537)
 
+
+
+### Vishakha Lall
+
+- Passionate about technology
+- Languages: Python, JAVA, C++
+- Technology blogger
+- [![github-alt][github-img]](https://github.com/vishakha-lall)
+
+
+
 ### Vishal Anand
 
 - Student
