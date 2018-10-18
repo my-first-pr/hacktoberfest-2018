@@ -453,6 +453,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Open Source Freak (Have worked in SymPy..!)
 - [![github-alt][github-img]](https://github.com/ArighnaIITG)
 
+### Arighna Chakrabarty
+- I'm currently an undergraduate at Lovely Professional University, India.
+- My Interests are:-
+  - Android Developer
+  - Music
+  - coding
+- [![github-alt][github-img]](https://github.com/ankitak28)
 ### Arjun Rajpal
   - Software Engineer and a ML Enthusiast
   - [![github-alt][github-img]](https://github.com/arjunrajpal)
