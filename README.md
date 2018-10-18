@@ -1964,6 +1964,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
 
+### Mansi Sharma
+
+- Final Year B.Tech Student at IGDTUW, Delhi,India.
+- [![github-alt][github-img]](https://github.com/MansiSharma1)
+
 ### Morteza GK
 - A Wannabe Data Scientist
 - [![twitter-alt][twitter-img]](https://twitter.com/mortezagk)
