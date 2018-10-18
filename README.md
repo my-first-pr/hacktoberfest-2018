@@ -2362,13 +2362,22 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - gaming
 - [![github-alt][github-img]](https://github.com/ricardovanlaarhoven)
 
+### Ritik Patni
+
+- Front End developer
+- Hobbies:
+  - Developing
+  - Gaming
+- [![github-alt][github-img]](https://github.com/ritikpatni)
+
 ### Robert Spurlin
 
 - Web Developer
 - Hobbies:
   - Programming
   - Marching Band
-- [![github-alt][github-img]](https://github.com/robertspurlin)
+- [![twitter-alt][twitter-img]](https://twitter.com/03ritikpatni)
+  [![github-alt][github-img]](https://github.com/robertspurlin)
 
 ### Rogério do Carmo
 
