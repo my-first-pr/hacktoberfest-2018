@@ -3227,6 +3227,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # V
 
+### Vishakha jethanandani
+
+- I'm pursuing my post graduation.
+- I am an aspiring Data Scientist.
+- [![github-alt][github-img]](https://github.com/sunny14898)
+
 ### Victor - KingVirr
 - Student at University West (Sweden)
 - Hobbies: gem cutting, coding and spending time in the nature
