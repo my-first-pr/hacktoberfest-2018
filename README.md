@@ -1669,6 +1669,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Electrical engineering student
 - A fair bit rusty in coding, hope to get back into it
 
+### Leeland Clenista
+
+- Full Stack Web Developer
+- [![github-alt][github-img]](https://github.com/Rockleeland)
+
 ### Letícia Maciel
 
 - Computer engineering student at UFPE
