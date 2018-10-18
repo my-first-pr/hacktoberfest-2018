@@ -3074,6 +3074,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Afif Hendrawan
+I am a reseacher who love github. Currently I working on EEG data
+- [![github-alt][github-img](https://github.com/hndr91)
 
 ---
 
