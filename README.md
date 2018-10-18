@@ -773,6 +773,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Bio graduate from University of Hawaii
 - [![github-alt][github-img]](https://github.com/SnowyMan)
 
+### David L
+
+- Software Engineer by day, Crime-Fighting Masked Vigilante by night
+- Passionate about exploring how we can leverage tech for social justice and for the benefit of all, not the few
+- [![github-alt][github-img]](https://github.com/DavidALee)
+
 ### David Marques
 
 - I'm a student from Brazil
