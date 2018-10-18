@@ -229,6 +229,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/akshaynshaju)
   [![github-alt][github-img]](https://github.com/Akshay-N-Shaju)
 
+### Christophoros
+- Student, Self taught
+
 ### Alena Anog
 
 - Aspiring Web Developer
