@@ -1119,6 +1119,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # I
 
+### Ian Vidaurre
+
+- I am a full-stack web developer currently living in Los Angeles
+- First Hacktoberfest
+- Linux user (Ubuntu 18.04LTS)
+- JavaScript enthusiast
+- Looking to learn Python
+-[![github-alt][github-img]](https://github.com/theVidVid)
+
 ### Icaro Lima
 
 - I am a Brazilian SI student.
