@@ -678,6 +678,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![instagram-alt][instagram-img]](https://www.instagram.com/darsh4n/)
   [![github-alt][github-img]](https://github.com/darshan934)
 
+### Debolina M
+- I'm a Computer Science student and a Machine Learning enthusiast
+- I'm presently working on Deep Learning and Social Network Analysis
+  [![github-alt][github-img]](https://github.com/debolina201)
+
 ### Deepak (d02d33pak)
 
 - Computer Science graduate working for XYZ corp (don't want to reveal the name here)
