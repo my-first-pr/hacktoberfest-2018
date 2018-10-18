@@ -1787,6 +1787,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/cynferdd)
   [![github-alt][github-img]](https://github.com/cynferdd)
 
+### Max Morales
+- Student, UTEP
+- [![github-alt][github-img]](https://github.com/mamorales10)
+
 ### Maysa Borges
 
 - Graduated in Design, focused on UX and UI Design.
