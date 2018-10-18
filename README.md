@@ -3386,6 +3386,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I have made many mini projects, most of them are private
 - [![github-alt][github-img]](https://github.com/Y5Yash)
 
+### Yasminn Vaz
+- I am a fullstack developer
+- I want to learn more about JS, React and Node
+- [![twitter-alt][twitter-img]](https://twitter.com/yasminnvaz)
+  [![github-alt][github-img]](https://github.com/yasminnvaz)
+  
 ### Yee Antonio
 
 - I am a Backend and Mobile Developer.
