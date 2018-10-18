@@ -973,6 +973,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - AI Engineer
 - love travelling
   [![github-alt][github-img]](https://github.com/somchanokt)
+
+### Furlo Magnamus
+- Frontend Development
+  [![github-alt][github-img]](https://github.com/contact-us)
   
 ### F9Uf
 - CPE-Student @ KMUTT
