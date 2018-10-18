@@ -2657,6 +2657,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
 
+### Steve
+- Programmer
+
 ### Siddharth Dhanuka
 - Backend developer and aspiring to be a Data Scientist
 - [![github-alt][github-img]](https://github.com/siddhanuka)
