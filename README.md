@@ -1230,6 +1230,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am looking foward learning Django.
 - [![github-alt][github-img]](https://github.com/igcigc)
 
+### Igor Dias
+
+- I am a Brazilian developer.
+- I am lokking for a job in Python
+- [![github-alt][github-img]](https://github.com/Igorth)
+
 ### Ilham Taufiq
 
 - I am an Indonesian computer science student.
