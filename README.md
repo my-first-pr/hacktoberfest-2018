@@ -759,6 +759,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in Python, Golang
 - [![twitter-alt][twitter-img]](https://twitter.com/dmytrogrendach)
   [![github-alt][github-img]](https://github.com/grendach)
+  
+### Domenick DiBiase
+- Computer Science Undergrad, USA
+- Interested in Java, Full stack development, and most things coding
+- [![github-alt][github-img]](https://github.com/Domenick97)
 
 ### duongoku
 
