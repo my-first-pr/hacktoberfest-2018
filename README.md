@@ -523,6 +523,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Gaming
 - [![github-alt][github-img]](https://github.com/singhbir)
 
+### Bhonesh Chawla
+
+- I am Computer Science Student and I code in Java, C and C++.
+- I Love competitive coding and android development.
+- [![github-alt][github-img]](https://github.com/bhonesh1998)
+
 ## Bj&ouml;rn Kristensson Alfsson
 
 - Mid age back-end developer, JPA, Spring Boot, Hibernate and Angular
@@ -3234,6 +3240,8 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
+
+
 
 ---
 
