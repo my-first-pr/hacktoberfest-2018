@@ -1663,6 +1663,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/MercyDev)
   [![github-alt][github-img]](https://github.com/MercyDoesCode)
 
+### Mikołaj Radkowski
+
+- I love ML
+- I make apps with flutter and RN
+
 ### Mimi Cheng
 
 - Data Scientist
