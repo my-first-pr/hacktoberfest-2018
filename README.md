@@ -2626,9 +2626,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # V
 
+### Valentina Calabrese
 - Front-End Developer & Designer
-- Languages: HTML5,CSS3, JavaScript, Java, Python.
-- Fav Hobbies:
+- Programming Languages: HTML5, CSS3, JavaScript, Java, Python.
+- Fav Hobbies <3 :
   - Playing the drums.
   - Skateboarding.
   - Creating cool apps.
