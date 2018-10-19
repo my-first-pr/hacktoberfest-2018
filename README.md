@@ -2205,6 +2205,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies: Programming, CTF and Music (Guitar classic)
 - [![github-alt][github-img]](https://github.com/ngxson) | [My website](https://ngxson.com/)
 
+### Noa
+
+- I am Engineer Student and I recantly started to learn Java.
+- [![github-alt][github-img]](https://github.com/n0anilsson)
+
 # O
 
 ### Omkar Kulkarni
@@ -3519,8 +3524,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
-
-
 
 ---
 
