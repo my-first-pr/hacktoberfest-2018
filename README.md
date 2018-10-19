@@ -2631,7 +2631,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - CS Student at the University of Parma.
 - I am a Front-End Web Developer & I also <3 Design.
 - Languages : JavaScript (ES6), Python & Java.
-
 - [![github-alt][github-img]](https://github.com/vale-c)
 
 ### Vipin Kumar
