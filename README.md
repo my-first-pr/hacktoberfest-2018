@@ -3516,6 +3516,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in Web Development, Android development and Data Visualization
 - [![github-alt][github-img]](https://github.com/LacticAcidCYC)
 
+### Yusuf Adefolahan 
+
+- Interested in Android development
+- [![github-alt][github-img]](https://github.com/sanxy)
+
 # Z
 
 ### Zakariya
