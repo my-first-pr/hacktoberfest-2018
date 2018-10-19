@@ -3546,6 +3546,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Endormi
+
+- I am sort of experienced developer from Helsinki, currently tackling new challenges.
+- HTML5 and CSS3 are easy, learning JS, PHP and Python.
+- [![github-alt][github-img]](https://github.com/endormi)
+
 ---
 
 ## Copyright
