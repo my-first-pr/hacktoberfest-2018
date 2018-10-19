@@ -3533,6 +3533,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 - I am a Spanish beginner developer. Starting with python.
   [![github-alt][github-img]](https://github.com/A1zippo1)
+  
+### Ariff Azmi
+- I am Application Specialist.
+- I love PHP,Java and OOP design pattern.
+[![github-alt][github-img]](https://github.com/ariffazmi)
 
 ### Zornitsa Asanska
 
