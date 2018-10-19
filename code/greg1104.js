@@ -1,0 +1,1 @@
+documnet.writeln("Hello World");
