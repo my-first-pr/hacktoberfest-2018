@@ -48,6 +48,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # A
 
+### Adrian Muntean
+
+- I am a Computer Science Student and I worked with Java, Groovy, NodeJs and Python
+- I like working with new technologies and keep up to date with new stuff
+- ![github-alt][github-img]](https://github.com/AdrianMuntean)
+
 ### Aman Annaberdiyev
 
 - Student, AUBG
@@ -55,7 +61,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Aadesh Mirajkar
 
-- Student, Code Ninza
+- Student, Code Ninzaa
 - [![github-alt][github-img]](https://github.com/captainadsh)
 
 ### Aakash Dadhich
@@ -2676,12 +2682,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
-
-### Adrian Muntean
-
-- I am a Computer Science Student and I worked with Java, Groovy, NodeJs and Python
-- I like working with new technologies and keep up to date with new stuff
-- ![github-alt][github-img]](https://github.com/AdrianMuntean)
 ---
 
 ## Copyright
