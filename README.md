@@ -2453,6 +2453,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # Q
 
+### Q. Jing Ying
+- I'm an undergraduate student
+- Interests: Artificial Intelligence
+- [![github-alt][github-img]](https://github.com/QiuJingYing)
+
 ### Quang Vũ Nhật
 
 - I'm an Information Security Engineer.
