@@ -1,0 +1,5 @@
+/* Hello world without html markup */
+
+body:before {
+  content: "Hello World";
+}
