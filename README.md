@@ -2492,6 +2492,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
 
+### Rajdeep Bharati
+
+- Full Stack Developer, uses ML at times
+- I am currently working on:
+  - Django, Python, JavaScript
+  - Machine Learning (sklearn, scipy, numpy...)
+  - Firebase
+- [![github-alt][github-img]](https://github.com/rajdeepbharati) [![twitter-alt][twitter-img]](https://twitter.com/ImRajdeepB)
+
 ### Raju Kumar
 - Final Year CS Student,Kolkata
 - Learned Full Stack Development,Linux Lover
