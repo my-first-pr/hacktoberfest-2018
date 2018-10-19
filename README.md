@@ -2626,13 +2626,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # V
 
-### Valentina Calabrese
-
-- CS Student at the University of Parma.
-- I am a Front-End Web Developer & I also <3 Design.
-- Languages : JavaScript (ES6), Python & Java.
-- [![github-alt][github-img]](https://github.com/vale-c)
-
+- Front-End Developer & Designer
+- Languages: HTML5,CSS3, JavaScript, Java, Python.
+- Fav Hobbies:
+  - Playing the drums.
+  - Skateboarding.
+  - Creating cool apps.
+- [![twitter-alt][twitter-img]](https://twitter.com/CherriePie4897)
+  [![facebook-alt][facebook-img]](https://facebook.com/vale.calabrese95)
+  [![github-alt][github-img]](https://github.com/vale-c)
+  
 ### Vipin Kumar
 
 - Student of Btech, computer science & engineering
