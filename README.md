@@ -2617,9 +2617,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
 ### Keshav Kumar
+
 - I'm a student and love programming.
 - Interested in C but also knowledge of HTML, CSS, JAVA, MySQL.
-- [![github-alt][github-img]](https://github.com/keshav2212
+- [![github-alt][github-img]](https://github.com/keshav2212)
 
 ---
 
