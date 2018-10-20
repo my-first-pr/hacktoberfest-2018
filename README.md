@@ -2257,6 +2257,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # N
 
+### n0z
+- I'm a student
+- I like erverything related to computers, from code to repair computers. I <3 Linux.
+- [![github-alt][github-img]](https://github.com/n0zg)
+
+
 ### Nasser alostath
 
 - I'm a Python traINER AND DEVELOPER
