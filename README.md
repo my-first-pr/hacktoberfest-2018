@@ -2103,6 +2103,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Enjoy algorithm based programming
   [![github-alt][github-img]](https://github.com/mdmcclean)
 
+### Mikaela Peters
+- Business and IT Student 
+- Passionate about learning new languages and traveling abroad
+  [![github-alt][github-img]](https://github.com/mppmpp315)
+
 ### Mikołaj Radkowski
 
 - I love ML
