@@ -88,7 +88,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 - I am a Computer Science Student and I worked with Java, Groovy, NodeJs and Python
 - I like working with new technologies and keep up to date with new stuff
-- ![github-alt][github-img]](https://github.com/AdrianMuntean)
+- [![github-alt][github-img]](https://github.com/AdrianMuntean)
 
 ### Aman Annaberdiyev
 
