@@ -1433,6 +1433,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning angular 6, looking for projects to help out
 - [![github-alt][github-img]](https://github.com/jhinton2015)
 
+### Jakeliny Gracielly
+
+- Web Developer in Brazil
+- [![github-alt][github-img]](https://github.com/jakeliny)
+
 ### Jackson Machado (Jaja)
 - I am a AdvPL Dev
 - Is my first Hacktoberfest
@@ -1676,7 +1681,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love to code in JavaScript and Ruby
 - [![github-alt][github-img]](https://github.com/makinox)
 
-### Jacinto Ramírez
+### Jacinto Ramï¿½rez
 
 - Software Consultant, Developement
 - I like to find the pain point to give gain point
