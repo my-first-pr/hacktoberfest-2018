@@ -1524,6 +1524,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Computer Science Student
 - [![github-alt][github-img]](https://github.com/jgolditch)
 
+### João Gabriel D. Joaquim
+- I'm a brazilian student trying his best in this little world, information security enthusiast when I have time.
+- Studying Information Systems on UFV-CRP.
+- I like Games, coffe, security related stuff.
+- [![github-alt][github-img]](https://github.com/jgdj01)
+- [![twitter-alt][twitter-img]](https://twitter.com/jgdj01)
+- [![facebook-alt][facebook-img]](https://www.facebook.com/Joao.Gabriel.Hakai)
+
 ### João Pedro B.B.
 
 - A Brazilian trying to print Hello World.
