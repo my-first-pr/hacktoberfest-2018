@@ -31,7 +31,12 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
   [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/example)
-
+###Warushika
+- I'm a student of university of colombo.
+- I work on software projects.
+- [![facebook-alt][facebook-img]](https://m.facebook.com/home.php?_rdr)
+  [![github-alt][github-img]](https://github.com/warushika)
+  
 ## How to Contribute
 
 Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request.
