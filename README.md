@@ -1690,6 +1690,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies inlcude sleeping, eating and procrastinating.
 - [![github-alt][github-img]](https://github.com/keshavseksaria)
 
+### Khaja Moinuddin Mohammed
+
+- I am a Blockchain Developer and Automation Architect.
+- My hobbies inlcude exploring new stuff in the Blockchain Space, prior to that exploring anything in technology space
+- [![twitter-alt][twitter-img]](https://twitter.com/KhajaMD143)[![github-alt][github-img]](https://github.com/moinuddin14)
+
 ### Kim Abel Thomas
 - I am a first year computer science student at Model Engineering College
 - My hobbies include playing the uke,gaming
