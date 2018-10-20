@@ -150,6 +150,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/aanuser)
   [![github-alt][github-img]](https://github.com/mfarchana)
 
+### Andrii Hurskyi
+
+- I'm Software Developer from Ukraine.
+- I love coding and good music. Rock forever! :)
+- [![github-alt][github-img]](https://github.com/tyran53red)
+  
 ### Andy Javier Reyes
 
 - .Net Developer
