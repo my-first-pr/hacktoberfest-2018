@@ -1742,6 +1742,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a Techie with interest in Stock Investing.
 - [![github-alt][github-img]](https://github.com/kunal12422)
 
+### Kelvin Osh
+
+- I am unemployed.
+- I love hacktoberfest shirts.
+- [![github-alt][github-img]](https://github.com/kelvinosh)
+
 # L
 
 ### Lauren Reilly
