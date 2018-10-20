@@ -2103,6 +2103,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/_mohit_yadav)
   [![github-alt][github-img]](https://github.com/mohityadav7)
 
+### Monsij Biswal
+
+- Competitive Programmer with a passion for electronic stuff
+- Python geek but cpp enthusiast 
+- [![github-alt][github-img]](https://github.com/monsij)
+
 ### Morteza Hosseini
 
 - Yet Another Developer
