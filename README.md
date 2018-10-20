@@ -2226,6 +2226,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/nikiangelov)
   [![github-alt][github-img]](https://github.com/nikiangelov)
 
+### Niranjan A Gade
+- Starving for Bachelor in Pharmacy but born to be a progammer
+- Self declared ethical hacker, coder
+- I work with Java, C, Linux
+- Termux is love❤ to the core!
+[![github-alt][github-img]](https://github.com/ngstylle)
+[![twitter-alt][twitter-img]](https://twitter.com/ngstylle)
+[![facebook-alt][facebook-img]](https://facebook.com/ngstylle)
+
 ### Nishant Nischaya
 
 - I am a student studying in university currently 3rd year in Electronics and Communication Engineering.
@@ -2235,10 +2244,8 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 [![twitter-alt][twitter-img]](https://twitter.com/nishantnischaya)
 
 ### Noel
-
 - 2nd year CS student, interested in cybersecurity
 - My first Hacktoberfest!
-
 - [![github-alt][github-img]](https://github.com/vodkanoya)
 
 ### Nomit Pahuja
