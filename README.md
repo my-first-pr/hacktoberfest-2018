@@ -95,6 +95,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student, AUBG
 - [![github-alt][github-img]](https://github.com/IMMAMAN)
 
+
+### Arman Gupta
+
+- Student,Android Developer
+- [![github-alt][github-img]](https://github.com/Arman1611)
+
+
 ### Aadesh Mirajkar
 
 - Student, Code Ninza
