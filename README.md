@@ -1414,6 +1414,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am takin part in hacktoberfest for the first time
 - [![github-alt][github-img]](https://github.com/ishitavarshney)
 
+### Ifunanya Ikemma
+
+- I'm a computer science graduate student
+- I am a web developer/API/Integration Engineer
+- I am also GitHub Campus Expert , I have interest in AI.
+- [![github-alt][github-img]](https://github.com/Iphytech)
+
 # J
 
 ### Jalaj
