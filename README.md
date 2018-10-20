@@ -3868,6 +3868,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### My Name
+- Pianist and Developer. Currently at UWaterloo.
+- [![github-alt][github-img]](https://github.com/manavmehra96)
 ---
 
 ## Copyright
