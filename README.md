@@ -1837,6 +1837,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![facebook-alt][facebook-img]](https://facebook.com/lokiiarora)
   [![github-alt][github-img]](https://github.com/lokiiarora)
 
+### Lucas Costa Oliveira
+
+ - Full Stack Software Developer at IBM
+ - [![twitter-alt][twitter-img]](https://twitter.com/l_costao)
+    [![github-alt][github-img]](https://github.com/bolacha)
+
 ### Lucas Gomes Flegler
 
 - Bachelor student in information systems and experience with Pentaho suite.
