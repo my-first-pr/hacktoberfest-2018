@@ -376,6 +376,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a Computer Science Student.
 - Hobbies : Programming and travel
   [![github-alt][github-img](https://github.com/AmrHendy)
+  
+### Amir Hamzah
+- Freelancer
+  [![github-alt][github-img](https://github.com/aktaktaw)
+
 
 ### Ana Carolina Ferreira
 
