@@ -500,6 +500,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a Project Manager who's learning how to code!
 - [![twitter-alt][twitter-img]](https://twitter.com/AhmedHajat)
   [![github-alt][github-img]](https://github.com/AhmedH14)
+  
+### Abhinav Kesarwani
+
+- I am a Computer Science student and love programming in java.
+- I love making alexa skills and actions on google. 
+- My hobbies include...
+	- Playing Poker
+  [![github-alt][github-img]](https://github.com/abhinavkesari)
 
 ### Anto
 - I am a junior system administrator, learning python.
@@ -1702,6 +1710,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a studying at IIT-BHU (Varanasi).
 - My hobbies inlcude sleeping, eating and procrastinating.
 - [![github-alt][github-img]](https://github.com/keshavseksaria)
+
+### Keshav Kumar
+- I'm a student and love programming.
+- Interested in C but also knowledge of HTML, CSS, JAVA, MySQL.
+- [![github-alt][github-img]](https://github.com/keshav2212)
 
 ### Kim Abel Thomas
 - I am a first year computer science student at Model Engineering College
@@ -3638,12 +3651,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
-
-### Keshav Kumar
-
-- I'm a student and love programming.
-- Interested in C but also knowledge of HTML, CSS, JAVA, MySQL.
-- [![github-alt][github-img]](https://github.com/keshav2212)
 
 ---
 
