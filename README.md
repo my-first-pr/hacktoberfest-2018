@@ -2385,6 +2385,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include... Programming, Sports, Reading
 - [![github-alt][github-img]](https://github.com/nathanosborn)
 
+
+### Narmin Huseynli
+
+- Software Developer, MSc in Software Engineering
+- Area of interest - Software Architecture and Design, Web Development/Web Services
+- [![github-alt][github-img]](https://github.com/narmin-h)
+
 ### Nui Nguyen
 
 - Student
@@ -2396,6 +2403,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 - I am Engineer Student and I recantly started to learn Java.
 - [![github-alt][github-img]](https://github.com/n0anilsson)
+
 
 # O
 
