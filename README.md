@@ -2451,6 +2451,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Front End Developer
   [![github-alt][github-img]](https://github.com/pranav0408)
 
+### Prateek Surana
+
+- Competitve Programmer
+- Mobile and web app developer
+- React native enthusiast
+- BLogger
+- [![twitter-alt][twitter-img]](https://twitter.com/psuranas)
+  [![github-alt][github-img]](https://github.com/prateek3255)
+
 ### Prince Sachdeva
 
 - Competitive Programmer
