@@ -142,7 +142,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - some hacking materials.
   - [![github-alt][github-img]](GithubHandler:anantkumar323)
 
-###Andra Antariksa
+### Andra Antariksa
 - I'm a first year college student in Indonesia.
 - I love to code <3.
 - [![github-alt][github-img]](https://github.com/andraantariksa)
