@@ -3868,6 +3868,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### GreenSticky
+ - I am a Computer Science enthusiast/student
+ - I also do some web design / code
+ - Still lots to learn
 ---
 
 ## Copyright
