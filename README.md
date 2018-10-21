@@ -3871,7 +3871,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Manish Kumar
 
 - I am a CS undergaraduate student.
-- Being new to open source , I love it I dont know what happens next.
+- Being new to open source , I love it I dont know what happens next .
 - [![github-alt][github-img]](https://github.com/manigedit)
 
 ---
