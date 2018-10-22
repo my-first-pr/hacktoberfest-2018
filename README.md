@@ -1356,6 +1356,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interests: Machine learning
 - [![github-alt][github-img]](https://github.com/longhai18)
 
+### Houda Kaddioui
+- A medical graduate and Engineering Student
+- Interested in healthcare and AI for social good
+- I mainly code in Python
+- First Hacktoberfest as well! 
+- [![github-alt][github-img]](https://github.com/joydisette)
+
 ### Hrishikesh Bodas
 - An Graduate Engineering Student
 - New to github
