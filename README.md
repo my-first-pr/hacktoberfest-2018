@@ -1150,6 +1150,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a young developer in india
 - I'm currently a student!
 
+### Guy Ross
+
+- I am from Ann Arbor, MI
+- First hacktoberfest!
+  [![github-alt]](https://github.com/guyaross)
+
 ### Gleb
 
 - Software engineer, Blockchain and .NET developer
