@@ -677,7 +677,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Caique
 
 - I am Beginner Developer
-- Currently learning PHP
+- Currently learning PHP 
 - [![github-alt][github-img]](https://github.com/caiqueff)
 
 ### Caitlyn Woods
