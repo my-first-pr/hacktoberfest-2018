@@ -772,6 +772,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning all about PR's and open source.
 - [![github-alt][github-img]](https://github.com/dalanskis)
 
+### Damian Husted
+
+- I used to be a chef, now i Study Computer Science at the University of Auckland
+- I am learning to code in python at the moment
+- Interested in information security
+- [![github-alt][github-img]](https://github.com/damianhusted)
+
 ### Daniil Ratarov
 
 - Software engineer intern in CERN
