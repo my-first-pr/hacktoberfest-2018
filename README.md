@@ -3420,6 +3420,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Software Developer
 - [![github-alt][github-img]](https://github.com/IronLaddle)
 
+### Taku
+
+- I am a Computer Science Student and I worked with C++ and Python
+- I like working with new technologies and keep up to date with new stuff
+- [![github-alt][github-img]](https://github.com/taku0592)
+
+
 ### Theodosis Paidakis
 
 - 21 years old and i love to code
