@@ -1,0 +1,35 @@
+<html>
+<main>
+  <h1 id="title">Satisfaction Survey</h1>
+  <p id="description">Take a guess for how many licks to get to the tutsipop center for a chance to win a $100 Amazon Card</p>
+  <body>
+<form id="survey-form">
+<label id="name-label">Name: <input type="text" id="name" placeholder="Enter your name"required><br>
+  <br>
+  <label id="email-label">Email: <input type="email" id="email" placeholder="Enter your email" required><br>
+  <br>
+  <label id="number-label">Pick a number: <input type="number" id="number" placeholder="Guess!" min="1" max="100">
+<br>
+<br>
+<label id="contact">How do we contact you?
+ <select id="dropdown">
+  <option value="phone">By phone</option>
+  <option value="email">By email</option>
+  <option value="no">Don't, I'll come to the store</option>
+</select>
+ <br><br>
+  Please select the one option you identify with: <br>
+  <input type="radio" name="gender" value="female">Female<br>
+  <input type="radio" name="gender" value="male">Male<br>
+  <input type="radio" name="gender" value="Other">Rather not say<br>
+ <br>
+ Would you rather an Amazon or an Audible card?<br>
+<input type="checkbox" name="card1" value="Amazon">Amazon<br>
+  <input type="checkbox" name="card2" value="Audible">Audible<br><br> 
+For additional points, write a short story starring TutsiPop's Owl!<br>
+  <textarea rows="4" cols="50"></textarea><br><br>
+  <input type="submit" id="submit">  
+</form>
+    </body>  
+</main>
+</html>
