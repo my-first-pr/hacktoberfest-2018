@@ -992,6 +992,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # E
 
+### ecebear14
+
+- Electrical & Computer Engineer
+- Austin, TX
+- [![github-alt][github-img]](https://github.com/ecebear14)
+
+
 ### Eduardo Barreto
 
 - Computer Engineering Student at UFPE
