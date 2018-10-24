@@ -2755,7 +2755,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
   
-  ### Rahul
+### Rahul
 
 - Electronics Engineering student
 - I like watching T.V. shows and youtube videos, playing table tennis and eating donuts.
