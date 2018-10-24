@@ -3413,6 +3413,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - C, C++ and Java are the languages I love the most.
 -  [![github-alt][github-img]](https://github.com/sumanth0904)
 
+### squarepancakes
+- Newbie trying to learn some basic programming with no background
+- Came across Hacktoberfest on freecodecamp
+- Makes candles, writes letters and utterly random
+- [![github-alt][github-img]](http://github.com/squarepancakes)
+
 ### Ste Royle
 
 - Web Developer based in The UK
