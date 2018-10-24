@@ -3552,6 +3552,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/Tommygun200202)
   [![github-alt][github-img]](https://github.com/Tommygun200202)
 
+### Tia Esguerra
+- I am a web developer.
+- Aside from coding, I love classical music, travelling, baking, aviation, and photography.
+- [![twitter-alt][twitter-img]](https://twitter.com/msSFO)
+  [![github-alt][github-img]](https://github.com/msksfo)
+
 ### Trill Cosby
 
 - Student Computer Science
