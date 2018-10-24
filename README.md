@@ -1273,6 +1273,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/Hammad_Lari)
   [![github-alt][github-img]](https://github.com/hammadmashkoor)
 
+### Harsh Kumar
+- I'm a Full stack web developer and a Engineerisng Student.
+- I do freelance projects and involve myself in internships.
+- [![twitter-alt][twitter-img]](https://twitter.com/HarshCic)
+  [![github-alt][github-img]](https://github.com/HarshCic)
+
 ### haqqer
 
 - Python Programmer and Web BackEnd Dev
