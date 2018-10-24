@@ -860,6 +860,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/muydiego)
   [![github-alt][github-img]](https://github.com/diemax)
 
+### Diego Volpatto
+
+- Numerical developer at ESSS, DSc student at (brazilian) National Laboratory for Scientific Computing
+- Scientific Python and Fortran programmer, and I love it! Computational Thermodynamics and Finite Elements.
+- I love games, play bass guitar and eletric guitar.
+  [![github-alt][github-img]](https://github.com/volpatto)
+
 ### Dmitry Babinkin
 
 - I'm a mathematics student from Saint-Petersburg,Russia
