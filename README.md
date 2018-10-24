@@ -1503,6 +1503,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am also GitHub Campus Expert , I have interest in AI.
 - [![github-alt][github-img]](https://github.com/Iphytech)
 
+### Illoxian
+
+- I'm a CS bachelor student at University Milano Bicocca
+- This is my frist Hacktoberfest ever
+- Recently took part at Campus Party in Milan (CPIT2)
+- [![github-alt][github-img]](https://github.com/illoxian)
+
 # J
 ### Jason
 - An Cybersecurity undergraduate.
