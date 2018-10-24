@@ -306,6 +306,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/ivalexig)
 - [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/ivalexig)
 
+### Alexander Malinov
+- Full-stack JS developer
+- [![github-alt][github-img]](https://github.com/xmalinov)
+
 ### Alexandre Pereira Santos
 
 - Student of Analysis and Development of Systems - Estácio de Sá University - Last Period
