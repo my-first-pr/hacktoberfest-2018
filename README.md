@@ -3395,6 +3395,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Lara, Federer, Sachin for life
 - [![github-alt][github-img]](https://github.com/srinath9721)
 
+### Srishti
+
+- Computer engineering student
+- Java, Python
+- [![github-alt][github-img]](https://github.com/srishag)
+
 ### Srishty Mittal
 
 - I'm a contributor and web developer
