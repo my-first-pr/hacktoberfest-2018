@@ -3051,6 +3051,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/ruiminsim)
   [![github-alt][github-img]](https://github.com/rmsim)
 
+### Ruxandra Avram
+- third year CS student
+- C++ :heart:
+- [![github-alt][github-img]](https://github.com/ruxandravr)
+ 
 ### Rafael Dantas
 
 - Student of Computer Science at the Federal University of Campina Grande (UFCG).
