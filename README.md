@@ -3416,6 +3416,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies includes `coding / learning new technologies`, `gym / baseball` and `visiting new places`
 - [![github-alt][github-img]](https://github.com/physsi07)
 
+### Stephan E
+- CS student
+- Front End Dev / Aspiring blockchain dev
+- Starting not to hate JS that much!
+ [![twitter-alt][twitter-img]](https://twitter.com/stephanedmonson)
+ [![github-alt][github-img]](https://github.com/sedmo)
+
 ### Stormgren
 - Computer engeneering student
 - Wannabe Java Full Stack Developer
