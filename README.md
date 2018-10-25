@@ -4001,6 +4001,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Conrad Fitzgerald
+- Just a hobbyist.
+- Go is a nice language. So is C. I hate Java, cpp and Javascript (along with its variants, aside from webassembly and NativeScript.)
+- If you don't know any functional programming, you're not a programmer. If you don't know how lambdas work, you're not a programmer.
+- [See you on the other side.](https://github.com/conradfitzgerald)
+
 ---
 
 ## Copyright
