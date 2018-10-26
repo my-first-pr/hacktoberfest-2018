@@ -49,6 +49,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # A
 
+### Ayush Gupta
+- Web & Mobile App Developer
+- Photographer
+- Technical Writer
+- Open Source Enthusiast
+- Worked on React Native, Ionic Framework, AngularJS and Firebase Tools
+- [![github-alt][github-img]](https://github.com/gupta-ji6)
+[![twitter-alt][twitter-img]](https://twitter.com/_guptaji_)
+[![facebook-alt][facebook-img]](https://www.facebook.com/guptaji.6)
+[![google-img][google-img]](https://plus.google.com/+AyushGupta66)
+
 ### Abhishta
 - Student Developer and Goofball
 - [![github-alt][github-img]](https://github.com/abhishtagatya)
