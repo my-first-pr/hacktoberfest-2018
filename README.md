@@ -2051,6 +2051,25 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # M
 
+### Michael Ikechukwu Fortune
+- junior software engineer, currently computer science student based in Nigeria
+- I've experience on:
+    - html5,
+    - css3,
+    - javascript,
+    - python,
+    - java,
+    - sql,
+    - visual basic,
+    - oop,
+    - php,
+    - data structure
+    - and algorithm
+- My hobbies include break dance, food, computer game, waching movie
+- [![facebook-alt][facebook-img]](https://facebook.com/De-benige michael)
+  [![google-img][google-img]](https://plus.google.com/u/0/104536652374167696305)
+  [![github-alt][github-img]](https://github.com/michaelik)
+
 ### Mahesh Sarathchandra
 
 - student in Information Technology in university of moratuwa .
