@@ -885,6 +885,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in Java, Full stack development, and most things coding
 - [![github-alt][github-img]](https://github.com/Domenick97)
 
+### Dominique Köstler
+- Computer Science Trainee, Germany
+- Aspiring Game Dev, Python developer, love algorithms
+
+
 ### duongoku
 
 - I'm a student and I'm in last year of highschool.
