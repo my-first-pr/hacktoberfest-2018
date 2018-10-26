@@ -1013,6 +1013,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I don't need a weapon. My friends are my power!
 - [![github-alt][github-img]](https://github.com/eduardobrito97)
 
+### Ema Fazillah
+- Software Developer
+  [![github-alt][github-img]](https://github.com/emafazillah)
+
 ### Emil Marian
 - Software Developer, QA
 - I like music, reading and programming.
