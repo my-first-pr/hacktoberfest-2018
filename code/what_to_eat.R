@@ -1,3 +1,5 @@
+# This is a random R function that outputs a random food choice (for indecisive eaters)
+
 what_to_eat <- function(string) {
   name <- tolower(string)
   if (name == "hello") {
