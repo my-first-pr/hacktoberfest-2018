@@ -1120,6 +1120,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in Web develope and ML
   [![github-alt][github-img]](https://github.com/F9Uf)
   
+### Fahmi Izzuddin
+
+- Android Dev
+- Interested in Android
+- [![github-alt][github-img]](https://github.com/nonamekunn)
+  
 # G
 
 ### Gabriel
