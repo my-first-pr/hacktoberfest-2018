@@ -6,7 +6,7 @@
 #include <Windows.h>
 
 
-
+// compiled with mingw under windows
 
 int main()
 {
@@ -32,7 +32,7 @@ int main()
 			char eingabeChar = '0';
 
 			
-			eingabeChar = (char) _getch();
+			eingabeChar = (char) getch();
 			if (eingabeChar == 'l')
 			{
 				eingabeChar = '0';
@@ -73,7 +73,7 @@ int main()
 
 
 			printf("eingabe:");
-			scanf_s("%i", &eingabe);
+			scanf("%i", &eingabe);
 			versuche++;
 
 			if (eingabe == zufallszahl)
