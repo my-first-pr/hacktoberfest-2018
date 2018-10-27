@@ -2117,6 +2117,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/marcopollivier)
   [![github-alt][github-img]](https://github.com/marcopollivier)
 
+### Matan Davidi
+
+- IT student in "Arti e Mestieri Trevano" school
+- I am also a drummer and a huge nerd
+- [![github-alt][github-img]](https://github.com/MatanDavidi)
+
 ### Mathieu Jolivet (Cynferdd)
 
 - Developper as a hobby since 1996, professionaly since 2005.
