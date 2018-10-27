@@ -1075,6 +1075,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Nerd, geek, gamer, I love TLoK
 - [![github-alt][github-img]](https://github.com/frannievas)
 
+### Frank Mckechnie
+- Full stack developer
+- I work in a web agency, working on php, angular 2-5, vueJS and es6 js.
+- [![github-alt][github-img]](https://github.com/frankmckechnie)
+
 ### Franciele Portugal
 - Student of Information Systems and I love datas.
 - I'm a researcher in Data Science and study a analytical solution to the research scenery of the University of the State of the Bahia and scenery of the arboviroses.
