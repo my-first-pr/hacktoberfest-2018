@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <windows.h>
-#include <string>
 #include <math.h>
 #include <time.h>
 
