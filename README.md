@@ -1122,6 +1122,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   
 # G
 
+### Gabe
+- Computer Science student at University of Guam
+- [![github-alt][github-img]](https://github.com/gmcaguilar)
+
 ### Gabriel
 
 - I'm a computer science student
