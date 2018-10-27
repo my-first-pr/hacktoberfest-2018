@@ -2021,6 +2021,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/lukasgf18)
   [![github-alt][github-img]](https://github.com/lukasg18)
 
+### Lucas Gomes Dantas
+
+- Brazilian student in IT at Universidade Federal do Rio Grande do Norte.
+- [![github-alt][github-img]](https://github.com/vertumno)
+
 ### Lúcio Leandro
 - Computer science student
 -  nerd, I like Free Software, musician
