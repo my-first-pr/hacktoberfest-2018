@@ -1795,6 +1795,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # K
 
+### KavishkaRajakaruna
+
+- I'm a student at Sabaragamuwa Univercity of Sri Lanka
+- I work on website designing , andrid app development , database development
+- Creating apps for day to day questions , combining large scale technology with remote control cars
+- [![twitter-alt][twitter-img]](https://twitter.com/KavishkaRajaka1)
+- [![google-img][google-img]](https://plus.google.com/u/1/107777101259881690759)
+- [![github-alt][github-img]](https://github.com/KavishkaRajakaruna)
+  
+  
+
 ### Kautuk Kundan
 
 - Btech 3rd Year student at IPU
