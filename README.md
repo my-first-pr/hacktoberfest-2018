@@ -1931,6 +1931,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love playing and making games.
 - [![github-alt][github-img]](https://github.com/kundan28)
 
+### Kurtis Taylor
+- Software Engineer and Graduate CS student at Purdue
+- [![twitter-alt][twitter-img]](https://twitter.com/kurthasgame)
+  [![github-alt][github-img]](https://github.com/quietgiant)
+
 ### Kusal Kahaduwa
 
 - I am an undergraduate.
@@ -1938,16 +1943,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love playing games and waching movies.
 - [![github-alt][github-img]](https://github.com/kusalhasintha)
 
+### Kunal Sharma
+
+- I am a Techie with interest in Stock Investing.
+- [![github-alt][github-img]](https://github.com/kunal12422)
+
 ### Kyaa Kats
 
 - Pursuing Undergraduation in IT and business.
 - Loves to code and game during free time.
 - [![github-alt][github-img]](https://github.com/KyaaKats)
-
-### Kunal Sharma
-
-- I am a Techie with interest in Stock Investing.
-- [![github-alt][github-img]](https://github.com/kunal12422)
 
 # L
 
