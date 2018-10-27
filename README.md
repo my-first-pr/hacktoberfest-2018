@@ -1687,6 +1687,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![facebook-alt][facebook-img]](https://facebook.com/jaicke97)
   [![github-alt][github-img]](https://github.com/jaicke)
 
+### Punti Jain
+
+- Science Computer student
+- [![github-alt][github-img]](https://github.com/Pj18)
+
 ### José Lucas
 
 - I'm taking the 4th period of the course in computer science.
