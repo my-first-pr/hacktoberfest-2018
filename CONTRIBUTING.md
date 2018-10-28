@@ -16,7 +16,7 @@ That said, suggested ways to contribute include:
 
 ### Your name on the README.md
 
-* Add your name and description to the README.md using this example:
+* Add your name and description to the README.md using this example :
 
 ```
 ### My Name
