@@ -1465,6 +1465,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am lokking for a job in Python
 - [![github-alt][github-img]](https://github.com/Igorth)
 
+### Iknoor
+- Love to learn to make machines learn
+- [![github-alt][github-img]](https://github.com/iknoorjobs)
+
 ### Ilham Taufiq
 
 - I am an Indonesian computer science student.
