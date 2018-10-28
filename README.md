@@ -49,6 +49,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # A
 
+### Aarushi Goenka
+- First year Computer Science student
+- [![github-alt][github-img]](https://github.com/Aarushi2405)
+
 ### Abhishta
 - Student Developer and Goofball
 - [![github-alt][github-img]](https://github.com/abhishtagatya)
