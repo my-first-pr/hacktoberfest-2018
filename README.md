@@ -200,7 +200,8 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Anshu Kumar
 - B.tech student
 - Interested in Machine Learning and Competative Coding
-- Self taught
+- [![github-alt][github-img]] (https://github.com/Abhishek21sh)
+
 
 ### Abdulgaphar
 - Cybersecurity Student
@@ -246,6 +247,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Self taught Android Developer/Enthusiast
 - [![github-alt][github-img]](https://github.com/usmcamgrimm)
 - [![twitter-alt][twitter-img]](https://twitter.com/usmcamgrimm)
+
+### Abhinav Singh Rathore
+- B.tech final year student
+- Interested in Competetive Coding
+- [![github-alt][github-img]] (https://github.com/AbhinavRathore)
 
 ### Agustin Vargas
 
