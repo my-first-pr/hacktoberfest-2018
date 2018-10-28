@@ -2522,6 +2522,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a Computer Engineer.
 - [![github-alt][github-img]](https://github.com/omkar1212)
 
+
+### Omaj Yakii
+
+- I'm a System Admin.
+- [![github-alt][github-img]](https://github.com/foolsjoke)
+
 ### Onnys Lopes Menete
 
 - I'm a Computer Engineer/Android Developer.
