@@ -3557,6 +3557,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/Th3Kevmaster74)
 - [![twitter-alt][twitter-img]](https://twitter.com/th3kevmaster74)
 
+### Karan S
+- Studying CS at MKUT
+- [![github-alt][github-img]](https://github.com/karanssh)
+
 ### TheNoodleMoose
 
 - Student Studying Web Development
