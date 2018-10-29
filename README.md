@@ -533,6 +533,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Photography
 - [![github-alt][github-img]](https://github.com/ashwani762)
 
+### Ayush
+- Interested in Machine Learning and Deep Learning
+- Junior Undergraduate at IIT-BHU Varanasi
+- Hobbies: Quizzing, reading, listening to classical music
+- [![twitter-alt][twitter-img]](https://twitter.com/ayush_songra)
+  [![github-alt][github-img]](https://github.com/corxrew)
+
 ### Azhar Mithani
 
 - I am a young Software Engineer and a ML Enthusiast in India
