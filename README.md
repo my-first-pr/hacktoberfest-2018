@@ -1130,6 +1130,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I share as I learn at [DIY DS](https://www.instagram.com/dodsyourself/) and [DIY CS](https://www.instagram.com/docsyourself/) on instagram.
 - Started from the bottom, now we here: [![github-alt][github-img]](https://github.com/festusdrakon)
 
+### Firefly
+
+- New to coding
+- Looking forward to exploring GitHub
+
 ### Francesco Tabaro
 
 - Bioinformatics PhD student
