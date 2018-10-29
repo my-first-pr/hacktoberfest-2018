@@ -49,6 +49,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # A
 
+### Rohit Agarwal
+- CSE student at IIT MANDI .
+- Deep interest in robotronics .
+- [![github-alt][github-img]](https://github.com/agarwalr98)
+
 ### Abhishta
 - Student Developer and Goofball
 - [![github-alt][github-img]](https://github.com/abhishtagatya)
