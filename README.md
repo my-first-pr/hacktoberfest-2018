@@ -1795,6 +1795,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # K
 
+### Kaan Ant
+
+- Software Developer
+- [![twitter-alt][twitter-img]](https://twitter.com/kaanantt)
+  [![github-alt][github-img]](https://github.com/kaanant)
+
 ### Kautuk Kundan
 
 - Btech 3rd Year student at IPU
