@@ -2397,6 +2397,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![github-alt][github-img]](https://github.com/muarachmann)
 - [Know more at](http://muarachmann.com/)
 
+
+### Marvin Olomu
+- I am a CS student just started learning the programming language C / C++.
+- I love Electronics,Mathematics and Information Technology.
+  [![github-alt][github-img]](https://github.com/xyz-neory)
+  [![google-alt][google-img]](https://plus.google.com/105161662106733614474)
+  [![twitter-alt][twitter-img]](https://twitter.com/neory5)
+
 ### Mansi Sharma
 
 - Final Year B.Tech Student at IGDTUW, Delhi,India.
@@ -2418,6 +2426,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Hobbies
 	-Spending time on quora
 - [![github-alt][github-img]](https://github.com/Manik2704)
+
 
 # N
 
