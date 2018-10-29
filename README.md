@@ -2058,6 +2058,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Full Stack Web Developer
 - [![github-alt][github-img]](https://github.com/Rockleeland)
 
+### Lee Magbanua
+
+- Student University of St. Lasalle
+- [![github-alt][github-img]](https://github.com/lmag18)
+
 ### Letícia Maciel
 
 - Computer engineering student at UFPE
