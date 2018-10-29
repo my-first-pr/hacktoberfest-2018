@@ -3370,7 +3370,18 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a web developer
 - Hobbies : Programming, Sports, Playing guitar
   [![github-alt][github-img](https://github.com/Qhsami)
-  
+
+
+## Shubham Jain
+
+- Full stack developer
+- currently working on: 
+    - React
+    - React Native
+    - Node js
+- [![github-alt][github-img]](https://github.com/jsjain007)
+
+
 ### Suras Kumar
 - I am a student pursuing Computer Science
 - Hobbies : Programming and travel
