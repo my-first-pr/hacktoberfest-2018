@@ -4050,6 +4050,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/wfebriadi)
 - [![facebook-alt][facebook-img]](https://facebook.com/febriady.adys)
 
+### Wuerfelbruder
+- not a talented programmer
+- I like translating stuff and am currently able to do so in German, English and French 
+- [![github-alt][github-img]](https://github.com/Wuerfelbruder)
+
 # X
 
 ### xenocidewiki
