@@ -3455,6 +3455,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include coding, debating and acting
 - [![github-alt][github-img]](https://github.com/MittalS211)
 
+### Shubham Prajapati
+
+- I'm a OpenSource contributor and a web developer.
+- I love coffee.
+- [![github-alt][github-img]](https://github.com/iamkumarji)
+
 ### Shubham Karala
 
 - I'm a OpenSource contributor and web developer.
