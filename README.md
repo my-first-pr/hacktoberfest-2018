@@ -216,6 +216,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Competietive Coder
 - Student, Self taught
 
+### Adam Taemur
+- Interest in AI and Deep Learning 
+- Student at UoR
+- Here for Hacktoberfest 2018 @ Thames Tower!
+
 ### Anshu Kumar
 - B.tech student
 - Interested in Machine Learning and Competative Coding
