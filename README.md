@@ -1159,6 +1159,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Currently working on a Neural Network.
   [![github-alt][github-img]](https://github.com/felky)
 
+### Fidel Lim
+
+- I am Computer Science Student and I speak Java and C++.
+- I Love solving problems and web designing.
+- [![github-alt][github-img]](https://github.com/fidellim)
+
 ### Fon
 
 - AI Engineer
