@@ -14,7 +14,7 @@
 
 This repository is for anyone to create pull requests during Hacktoberfest 2018, with their name, code samples, etc. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
-![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fall_is_coming_dg3x.svg)
+![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fFl_is_coming_dg3x.svg)
 ![Hacktoberfest 2018](https://my-first-pr.github.io/assets/images/Hacktoberfest_2018_logo_lockup.png)
 
 # Getting Started
@@ -564,6 +564,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Akbar Dhany
 - Interest on Network Security!
 - [![github-alt][github-img]](https://github.com/akbardhany)
+
+### Aldi Ruliansyah
+- I am An Informatics Engineering Student
+- Interest on Networking
+- [![github-alt][github-img]](https://github.com/aldiruli)
 
 # B
 
