@@ -1298,7 +1298,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a first year computer science student from IIIT Bangalore :)
 - Hobbies: coding, singing, dancing, sketching.
 -  [![github-alt][github-img]](https://github.com/GayathriVenkatesh)[![facebook-alt][facebook-img]](https://www.facebook.com/gayathri.venkatesh.73)
-
+### G SURYA TEJA
+-A.K.A BINARY01
+-final year student from JBIET
+-I LOVE CODING
 ### Gunnika Batra
 
 - I'm a 2nd year B.Tech student.
