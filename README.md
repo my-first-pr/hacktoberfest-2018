@@ -1553,7 +1553,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - DevOps Engineer
 - Taking part in my first Hacktoberfest
 
-### My Name
+### James Bentley
 - Cloud Architect
 - Write mostly scripts in python
 - [![twitter-alt][twitter-img]](https://twitter.com/jbentley_740)
