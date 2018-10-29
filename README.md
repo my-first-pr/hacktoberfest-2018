@@ -2656,6 +2656,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 -I'm currently learning Web development.
 - [![github-alt][github-img]](https://github.com/OumaimaTiguint)
 
+### Oren Yanous
+
+- I'm a Software Engineering student.
+- I'm currently learn on: JavaScript.
+- [![github-alt][github-img]](https://github.com/orenys7)
+
+
 # P
 ### Prakhar Dubey
 
