@@ -1,3 +1,1 @@
-export const helloWorld = () => {
-	console.log('hello world in js');
-};
+console.log(" ------ Hello World , Karthikeyan Full Stack Web Devleoper ------")  
