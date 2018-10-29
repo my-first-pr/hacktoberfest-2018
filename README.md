@@ -713,6 +713,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a student from Taiwan National Cheng Kung university
 - [![github-alt][github-img]](https://github.com/BroLeaf)
 
+### Bruno Barão
+
+- I Love Photography :)
+- [![github-alt][github-img]](https://github.com/bbarao)
+
 ### Bruno Dulcetti
 - I'm a Front-End developer and work with React, React Native, Angular, AngularJS, ES6, CSS3, HTML5, UX and others technologies.
 - [![github-alt][github-img]](https://github.com/dulcetti )
