@@ -2678,6 +2678,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a Computer Engineer.
 - [![github-alt][github-img]](https://github.com/omkar1212)
 
+
+### Omer Yazici
+
+- I'm a Mathematical Engineering Student.
+- [![github-alt][github-img]](https://github.com/yaziciom)
+
 ### Onnys Lopes Menete
 
 - I'm a Computer Engineer/Android Developer.
