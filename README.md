@@ -1026,7 +1026,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/rwothoromo)
   [![github-alt][github-img]](https://github.com/rwothoromo)
   
- ### Elizabeth Villalejos
+### Elizabeth Villalejos
 
 - I'm a self-taught front-end developer
 - Proud chihuahua mom and NFL enthusiast
