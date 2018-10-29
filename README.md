@@ -2758,6 +2758,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Petar
 
 - JavaScript Developer
+- Stuntman
   [![github-alt][github-img]](https://github.com/Petar-np)
 
 # Q
