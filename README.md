@@ -3880,6 +3880,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include reading, gaming, programming and scouts
 - [![github-alt][github-img]](https://github.com/Echelon101)
 
+### Total Package
+- Professional software developer, new to open source contributions
+- Interested in coding, running and college sports.  Rock Chalk Jayhawk!
+- [![twitter-alt][twitter-img]](https://twitter.com/jbernasky)
+  [![github-alt][github-img]](https://github.com/jxb04)
+
 ### Tsung Han
 
 - I am a student
