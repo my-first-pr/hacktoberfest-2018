@@ -3411,6 +3411,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Open Source Enthusiast
 - [![github-alt][github-img]](https://gihub.com/SarthakKhoche)
 
+### Sarvasv
+
+- I'm a high schooler, programmer, AI enthusiast and writer
+- Currently working on [a startup that makes machine learning more accessible](http://www.mlblocks.com)
+- [![github-alt][github-img]](https://gihub.com/sarvasvkulpati)
+
 
 ### Satyendra kumar
 
