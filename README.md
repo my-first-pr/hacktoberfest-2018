@@ -65,7 +65,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Andriod
   - Django
 - [![github-alt][github-img]](https://github.com/aditya7861)
----
 
 ### Aakash Goel
 
