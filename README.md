@@ -1827,6 +1827,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Learning Elixir/Phoenix
 - [![github-alt][github-img]](https://github.com/thejohncotton)
 
+### John Doe
+
+- The police were not able to identify the victim, so they simply refered to him as John Doe.
+
 ### John G
 
 - Electrical Engineer trying to learn new tricks "skills"
