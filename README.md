@@ -4257,6 +4257,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### William
+
+- I am a front end web developer for a startup
+- I love creating SPA's and interested in start up culture!
+- [![github-alt][github-img]](https://github.com/uuykay)
+
+
 ---
 
 ## Copyright
