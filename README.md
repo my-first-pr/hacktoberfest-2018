@@ -4110,6 +4110,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Cyber Security Student
 - [![github-alt][github-img]](https://github.com/VishalDas95)
 
+### Vyaas Shenoy
+- Vyaas is a person. He dows things
+- [![twitter-alt][twitter-img]](https://twitter.com/saayv)
+  [![github-alt][github-img]](https://github.com/saayv1)
+
 # W
 
 ### Warushika
