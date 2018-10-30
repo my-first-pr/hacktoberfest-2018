@@ -58,6 +58,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student, Code Ninza
 - [![github-alt][github-img]](https://github.com/captainadsh)
 
+### Aditya Pratap Singh
+
+- I am a Writer , I write code :)
+- I'm currently Working On
+  - Andriod
+  - Django
+- [![github-alt][github-img]](https://github.com/aditya7861)
+---
+
 ### Aakash Goel
 
 - Student, Self-taught Developer, Aspiring Entreprenuer
@@ -2562,18 +2571,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
-
-
-### Aditya Pratap Singh
-
-- I am an Andriod and Backend Developer
-- I'm currently a undergraduate
-- My hobbies include:
-  - Coding
-  - Gaming
-  - Nature Photography
-- [![github-alt][github-img]](https://github.com/mkaur7999)
----
 
 ## Copyright
 
