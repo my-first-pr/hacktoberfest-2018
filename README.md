@@ -1508,6 +1508,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My first Hacktoberfest!
 - [![github-alt][github-img]](https://github.com/helenfranca)
 
+### Henry Filho
+
+- Undergraduate student in Computer Science at UFCG.
+- Also that's my first hacktoberfest.
+- No, it's not Henrique.
+- [![github-alt][github-img]](https://github.com/HenryFilho)
+
 ### Heru
 
 - I'm a frontend developer
