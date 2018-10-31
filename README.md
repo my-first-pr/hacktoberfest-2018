@@ -2168,6 +2168,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Computer engineering student at UFPE
 - The future is female!
 
+### Lewis Shaw
+
+- Front-End Web & App Developer from the West Coast of Scotland! 🌄
+- [![twitter-alt][twitter-img]](https://twitter.com/WeaverOfTheWeb)
+
 ### Lilith
 
 - CSE Undergrad
