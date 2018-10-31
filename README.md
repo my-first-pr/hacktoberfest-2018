@@ -4409,6 +4409,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
 
+### Lewis
+
+- I'm an Computer Technican.
+- I work on storage platfroms and customer assistance.
+- My hobbies include climbing and gaming.
+- [![twitter-alt][twitter-img]](https://twitter.com/LDWme)
+  [![github-alt][github-img]](https://github.com/LDWme)
+
 ---
 
 ## Copyright
