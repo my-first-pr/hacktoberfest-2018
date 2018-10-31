@@ -3619,6 +3619,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Javascript, Java, React
 - [![github-alt] [github-img]](https://github.com/shubhams0nii)
 
+### Shubham Srivastava
+
+- I'm a senior year Computer Science & Engineering student from India.
+- Google India Challenge Scholarship Recipient 2018 for Android Basics Nanodegree from Udacity.
+- I love to work on Android, C and Java.
+- My hobbies include singing and reading on Quora.
+- [![twitter-alt][twitter-img]](https://twitter.com/Shubham6059/)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/S.Shubham6059)
+  [![google-img][google-img]](https://plus.google.com/u/0/106411498226601422239)
+  [![github-alt][github-img]](https://github.com/Shubham6059)
+
 ### Shweta Goyal
 
 - Computer Science Graduate
