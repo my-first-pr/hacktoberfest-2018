@@ -530,6 +530,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I solve problem and make stuff
 - [![github-alt][github-img]](https://github.com/muhtarudinsiregar/)
 
+### Ariessa
+
+- 2nd year Software Engineering student
+- Loves reading, coding, and sleeping
+- [![github-alt][github-img]](https://github.com/ariessa)
+
 ### Aris Kurniawan
 
 - I'm a student at Universitas Maritim Raja Ali Haji
