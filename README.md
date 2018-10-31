@@ -694,6 +694,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
     - Coding
 - [![github-alt][github-img]](https://github.com/BKristenssonAlfsson)
 
+### Brandy Ford
+- Recent college graduate who studied web design and development.
+- Learning PHP and other back end languages to round out my skills.
+- My hobbies are:
+  - Crocheting
+  - Sewing
+  - Video games
+  - Conventions
+  [![github-alt][github-img]](https://github.com/kupokaze)
+
 ## Brenda Fitz
 - I'm a hobby programmer.
 - Just playing with Git.
