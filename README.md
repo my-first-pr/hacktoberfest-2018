@@ -144,6 +144,18 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
     - Playing Games
 - [![twitter-alt][twitter-img]](https://twitter.com/hardwired_raj)
   [![github-alt][github-img]](https://github.com/abhinavraj0123456789)
+  
+### Amlan Jena
+
+- JAVA Developer
+- Amazing Video Game Player
+- First time contributing to open Source
+- Hobbies:
+    - Mixed Martial Arts
+    - Long Distance Motorcycling
+- [![github-alt][github-img]](https://github.com/Amlan96)
+  [![google-img][google-img]](https://plus.google.com/u/0/107137908788470327822)
+
 
 ### Anant Maurya
 - Student
