@@ -1091,6 +1091,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I don't need a weapon. My friends are my power!
 - [![github-alt][github-img]](https://github.com/eduardobrito97)
 
+### Eduardo Barreto
+
+- Cience Computer Student at UFCG
+- I am music, I like reading and I love programming.
+- Love to code and to play video games!!
+- I don't need a weapon. My friends are my power!
+- [![github-alt][github-img]](https://github.com/eduhique)
+
 ### Emil Marian
 - Software Developer, QA
 - I like music, reading and programming.
