@@ -755,6 +755,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Long time coder 
 - First time public contributor 
 - Looking forward to many more to come :)
+
+
+### Bhavya Takkar
+
+- B.Tech student.
+- Hobbies:
+    - Coding and Reading
+- [![github-alt][github-img]](https://github.com/bhavyatakkar23)
     
 # C
 
