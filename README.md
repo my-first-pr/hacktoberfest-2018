@@ -1272,6 +1272,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Computer Science student at University of Guam
 - [![github-alt][github-img]](https://github.com/gmcaguilar)
 
+### Giordi Fungula
+
+- Aspiring Web Developer studying online and bootcamp
+- [![twitter-alt][twitter-img]](https://twitter.com/jodifungula)
+  [![github-alt][github-img]](https://github.com/giordifungula)
+
 ### Gabriel
 
 - I'm a computer science student
