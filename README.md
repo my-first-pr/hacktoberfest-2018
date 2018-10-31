@@ -3971,6 +3971,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - 29 year old full-stack developer living and working in Norway.
 - [![twitter-alt][twitter-img]](https://twitter.com/tormorten)
   [![github-alt][github-img]](https://github.com/tormjens)
+  
+### Tom Anderson
+- I code a little
+- [![github-alt][github-img]](https://github.com/tom-ando)
 
 ### Timo S (Echelon101)
 
