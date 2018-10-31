@@ -803,6 +803,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - student in National Cheng Kung University major in Computer Science
 - [![github-alt][github-img]](https://github.com/caviarNCKU)
 
+### Ceef Box
+- project euler hobbiest
+- [![github-alt][github-img]](https://github.com/ceefbox)
+  
+  
 ### Celso Uliana
 
 - Last year student.
