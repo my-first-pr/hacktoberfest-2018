@@ -479,6 +479,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I study JavaScript now.
 - [![github-alt][github-img]](https://github.com/annsv)
 
+### Alejandro Paz
+- I am a developer from El Salvador
+- Hobbies : Programming and hang out with friends
+  [![github-alt][github-img](https://github.com/alepaz)
+
 ### Anush93
 
 - I am a young developer in Sri Lanka
