@@ -1674,7 +1674,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Ioannis Vaitsis
 
 - I am an aspiring Web and Mobile App developer
-- My hobbies include: Photography, Movies, Video games
 - [![github-alt][github-img]](https://github.com/Vairus)
 
 ### Izabela Cardozo
