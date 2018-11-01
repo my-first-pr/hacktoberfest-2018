@@ -1163,6 +1163,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Android Developer
 - [![github-alt][github-img]](https://github.com/eduardobachiega)
 
+### Edson Weslley
+
+- Graduating in Computer Science at the UFCG;
+- Artificial Intelligence
+- Information Security
+- [![github-alt][github-img]](https://github.com/edsonweslley)
+
 # F
 
 ### FarzanEkram
