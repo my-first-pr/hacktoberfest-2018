@@ -3200,6 +3200,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Beatboxing
 - [![twitter-alt][twitter-img]](https://twitter.com/rmeena840)
   [![github-alt][github-img]](https://github.com/rmeena840)
+  
+  ### Rebecca Medrano
+
+- Teacher
+- Computer Science student
+- Just beginning to learn about open source, excited to start contributing! :) 
+- [![github-alt][github-img]](https://github.com/nyamako)
 
 ### Redvan
 
