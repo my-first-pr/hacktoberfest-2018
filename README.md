@@ -843,6 +843,20 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Lover of programming, Greek mythology, Marvel.
 - [![github-alt][github-img]](https://github.com/chirag2506)
   [![twitter-alt][twitter-img]](https://twitter.com/chiraggupta2506)
+  
+  ### Chris Stephens
+
+- Front End Developer and teacher of digital arts
+- I love to work with Angular and C++ currently
+- My hobbies include Jiu-Jitsu, eating, and being awesome. 
+- [![twitter-alt][twitter-img]](https://twitter.com/example)
+  [![facebook-alt][facebook-img]](https://facebook.com/example)
+  [![google-img][google-img]](https://plus.google.com/+Example)
+  [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
+  [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
+  [![github-alt][github-img]](https://github.com/snocone)
+  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/sno.c0ne)
+
 
 ### Cleber Fonseca
 - I'm a programming teacher at IFSUL.
