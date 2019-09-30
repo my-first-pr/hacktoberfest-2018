@@ -3586,9 +3586,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Shivam Chowdhri
 
-- I'm an IT undergraduate student.
-- like doing problem solving using programming.
-- like playing racquet sports.
+- IT undergraduate student
+- love solving problems using programming
+- love playing racquet sports
 - [![github-alt][github-img]](https://github.com/Shivam175)
 
 ### Shivam Ralli
