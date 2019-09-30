@@ -3584,6 +3584,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student @ UCSC
 -[![github-alt][github-img]](https://github.com/shehand)
 
+### Shivam Chowdhri
+
+- IT undergraduate student
+- love solving problems using programming
+- love playing racquet sports
+- [![github-alt][github-img]](https://github.com/Shivam175)
+
 ### Shivam Ralli
 
 - I am an Undergrad.
