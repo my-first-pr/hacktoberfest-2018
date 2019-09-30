@@ -207,6 +207,11 @@ Start adding your names here:
 - Computer science student
 - Nerd, geek, gamer, I love TLoK
   [![github-alt][github-img]](https://github.com/frannievas)
+  
+### Palak Gupta
+- I'm a ful-stack developer at MapMyIndia.
+- I love to code and paint.
+- https://github.com/palaknaugriya
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
