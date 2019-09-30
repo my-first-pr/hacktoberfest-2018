@@ -3903,6 +3903,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Just completed my nanodegree in Front-End Web Development
 - [![github-alt][github-img]](https://github.com/histef)
 
+### Stephanie A
+- Started working in web development using JS and React
+- [![github-alt][github-img]](https://github.com/9Lambda)
+
 # T
 
 ### Tu Tran (Max)
