@@ -1278,6 +1278,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I'm a java, python, C++ developer.
   [![github-alt][github-img]](https://github.com/gabriel-arauj)
 
+### Gael Roussel
+- Ruby lover, Flutter enthusiast
+- [ma github](http://github.com/groussel42)
+
 ### Gahan
 
 - Student
