@@ -53,6 +53,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - First year Computer Science student
 - [![github-alt][github-img]](https://github.com/Aarushi2405)
 
+### Abhimanyu Babbar
+- Backend Developer
+- Distributed Systems Engineer
+- Open Source Enthusiast
+- Worked on Python, Go, Javascript.
+- [![github-alt][github-img]](https://github.com/abhimanyu-babbar)
+
 ### Ayush Gupta
 - Web & Mobile App Developer
 - Photographer
