@@ -2072,7 +2072,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I want to contribute for opensource
 - [![github-alt][github-img]](https://github.com/kasivenkatasai)
 
-
 ### Kasper Zutterman
 
 - I am currently a third year Information Engineering student at Ghent University.
