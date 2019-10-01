@@ -104,6 +104,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I like working with new technologies and keep up to date with new stuff
 - [![github-alt][github-img]](https://github.com/AdrianMuntean)
 
+### Afrijal Dzuhri
+- Software Engineer
+- [![twitter-alt][twitter-img]](https://twitter.com/afrijaldz)
+  [![github-alt][github-img]](https://github.com/afrijaldz)
+
 ### Aman Annaberdiyev
 
 - Student, AUBG
