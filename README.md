@@ -1560,6 +1560,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I listen to [Polyphia](https://open.spotify.com/album/7GhytR6ZMWetf1jxAzITtG) when I code
 - [![github-alt][github-img]](https://github.com/roromusic)
 
+### Honey Agrawal
+
+- Software Developer
+- Proud Computer Science Undergraduate.
+
 ### Ha Huy Long Hai
 
 - An undergraduate Computer Science student
