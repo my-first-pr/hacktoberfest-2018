@@ -49,6 +49,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # A
 
+### Ana Carolina Chaves
+- First year Computer Science student
+- [![github-alt][github-img]](https://github.com/Aarushi2405)
+- [![facebook-alt][facebook-img](https://www.facebook.com/karol.
+  vasconcellos.1291)
+
 ### Aarushi Goenka
 - First year Computer Science student
 - [![github-alt][github-img]](https://github.com/Aarushi2405)
@@ -3200,12 +3206,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Beatboxing
 - [![twitter-alt][twitter-img]](https://twitter.com/rmeena840)
   [![github-alt][github-img]](https://github.com/rmeena840)
-  
+
   ### Rebecca Medrano
 
 - Teacher
 - Computer Science student
-- Just beginning to learn about open source, excited to start contributing! :) 
+- Just beginning to learn about open source, excited to start contributing! :)
 - [![github-alt][github-img]](https://github.com/nyamako)
 
 ### Redvan
