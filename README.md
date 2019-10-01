@@ -3166,6 +3166,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/rrrrrrrocky)
 - [![github-alt][github-img]](https://github.com/rockydcoder)
 
+### Ramesh Sah
+- I am a graduate student in Computer Science.
+- I like to build electronics systems for health care applications.
+- [![twitter-alt][twitter-img]](https://twitter.com/rameshkrshah)
+- [![github-alt][github-img]](https://github.com/rameshKrSah)
+
+
 ### Raspal Seni
 
 - Freelance Writer, WordPress Developer, Linux Geek
