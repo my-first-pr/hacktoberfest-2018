@@ -81,6 +81,15 @@ Start adding your names here:
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/Anush93)
 
+### Birvarinder singh
+- I am a Dev , ❤ open source community
+- I'm currently a computer science student!
+- My hobbies include:
+  - Coding
+  - Pubg
+- [![github-alt][github-img]](https://github.com/singhbir)
+
+
 ### Arjun Rajpal
 - Software Engineer and a ML Enthusiast
 - [![github-alt][github-img]](https://github.com/arjunrajpal)
