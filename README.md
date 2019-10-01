@@ -2187,7 +2187,8 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Leeland Clenista
 
-- Full Stack Web Developer
+- Software Engineer
+- [Style Guide integrating Material UI and Styled Components](https://styled-components-material-ui-style-guide.netlify.com/)
 - [![github-alt][github-img]](https://github.com/Rockleeland)
 
 ### Lee Magbanua
