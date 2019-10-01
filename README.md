@@ -2924,6 +2924,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Front End Developer
   [![github-alt][github-img]](https://github.com/pranav0408)
 
+### Priyansh Garg
+
+- Computer Science Undergraduate Student
+- Competitive Programmer
+- Full Stack Web Developer
+- [![github-alt][github-img]](https://github.com/garg3133)
+  
 ### Prateek Surana
 
 - Competitve Programmer
