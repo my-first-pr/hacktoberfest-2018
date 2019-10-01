@@ -4038,6 +4038,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a student
 - [![github-alt][github-img]](https://github.com/Mystes-CS)
 
+### Tushar Agarwal
+- Full Stack developer & Freelancer.
+- [![twitter-alt][twitter-img]](https://twitter.com/niftytushar)
+  [![github-alt][github-img]](https://github.com/niftytushar)
+
 # U
 
 ### Uchenna Cyril Nnamadim
