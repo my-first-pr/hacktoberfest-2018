@@ -109,6 +109,16 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student, AUBG
 - [![github-alt][github-img]](https://github.com/IMMAMAN)
 
+### Akash Ghosh
+
+- Student Developer
+- I am currently working on:
+  - Django
+  - Flask 
+  - NodeJs
+  - ReactJs
+- [![github-alt][github-img]](https://github.com/akash100)
+
 ### Arman Gupta
 
 - Student,Android Developer
