@@ -2220,6 +2220,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/lincolnanders5)
   [![github-alt][github-img]](https://github.com/lincolnanders5)
 
+### Lis Azevedo
+
+- Computer Engineering Student
+- My favorite coding languages are Python and C++
+- I love CyberSecurity
+- [![github-alt][github-img]](https://github.com/lisazevedo)
+
 ### Lisa
 
 - Self-taught front-end software engineer.
