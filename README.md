@@ -831,6 +831,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - New to GitHub and Open Source collaboration
 - [![github-alt][github-img]](https://github.com/atlasRand)
 
+### Charlie
+
+- Android Developer
+- [![github-alt][github-img]](https://github.com/NullByte08)
+
 ### Chhavi
 
 - UX Designer
