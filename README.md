@@ -112,7 +112,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Akash Ghosh
 
 - Student Developer
-- I am currently work on:
+- I am currently working on:
   - Django
   - Flask 
   - NodeJs
