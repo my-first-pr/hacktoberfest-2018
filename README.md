@@ -3191,6 +3191,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
  - Student, Developer
 - [![github-alt][github-img]](https://github.com/guptaravi540)
 
+### Ravi Jyoti
+ - Student,Developer
+ - ML Enthusiast
+ - [![twitter-alt][twitter-img]](https://twitter.com/ravi_jyoti3)
+   [![github-alt][github-img]](https://github.com/ravijyoti3)
+
 ### Ravindra Kumar Meena
 
 - Computer Sciene & Engineering Student
