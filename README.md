@@ -1964,7 +1964,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Juan Manuel Otegui
 - Programmer. Currently studying software engineer.
-- First time in Hacktoberfest!
+- Second time in Hacktoberfest!
 - I'm from Uruguay.
 - [![github-alt][github-img]](https://github.com/JuanMa06)
 
