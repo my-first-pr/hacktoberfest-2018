@@ -2045,7 +2045,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Karan Tandon
 - Student
-- Love Mathematics and Tech
+- Love mathematics and Tech
 - [![github-alt][github-img]](https://github.com/karan2dec)
 
 ### Karen Geerts
