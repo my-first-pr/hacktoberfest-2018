@@ -4296,6 +4296,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I like translating stuff and am currently able to do so in German, English and French
 - [![github-alt][github-img]](https://github.com/Wuerfelbruder)
 
+### Wulandari
+- newbie with a little php knowledge
+- love playing rpg game and reading book (im serious) :D
+- [![github-alt][github-img]](https://github.com/misspuff55)
+
 # X
 
 ### xenocidewiki
