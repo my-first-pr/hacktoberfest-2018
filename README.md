@@ -959,6 +959,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I love games, play bass guitar and eletric guitar.
 - [![github-alt][github-img]](https://github.com/volpatto)
 
+### Divyansh Tripathi
+- I'm an engineering student from India.
+- I like puzzles, cricket and music.
+  [![github-alt][github-img]](https://github.com/divtrip)
+
 ### Dmitry Babinkin
 
 - I'm a mathematics student from Saint-Petersburg,Russia
