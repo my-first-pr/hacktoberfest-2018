@@ -1412,6 +1412,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/gdeusdara)
   [![facebook-alt][facebook-img]](https://www.facebook.com/gdeusdara)
 
+### Gustavo Brandão
+- I'm a C# developer in Porto Alegre - Brazil
+- Fullstack developer
+- [![github-alt][github-img]](https://github.com/Brand00wn)
+[![facebook-alt][facebook-img]](https://www.facebook.com/Brand00wn)
+
 ### Gustavo Martusewicz
 - I'm a front-end developer
 - Drupal front-end Dev
