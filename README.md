@@ -844,6 +844,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/chirag2506)
   [![twitter-alt][twitter-img]](https://twitter.com/chiraggupta2506)
 
+### Christopher (ChrisIIx)
+- Cloud Enginne & Architect
+- Microsoft Azure
+- [![github-alt][github-img]](https://github.com/ChrisIIX)
+
 ### Cleber Fonseca
 - I'm a programming teacher at IFSUL.
 - I mainly work with python and frontend.
