@@ -2881,6 +2881,17 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I also work on cell morphology and I also teach biology to high school students.
 - [![twitter-alt][twitter-img]](https://twitter.com/p_alab)
 
+### Pedro Veríssimo
+
+- Recife-PE Brazil
+- Student
+- Full Stack Web Dev
+  - SQL
+  - HTML / CSS / JS
+- [![facebook-alt][facebook-img]](https://www.facebook.com/pedro.b.verissimo)
+- [![twitter-alt][twitter-img]](https://twitter.com/pdrvrssm)
+- [![github-alt][github-img]](https://github.com/pbv2)
+
 ### Pedro Vitor
 
 - Fortaleza-CE Brazil
