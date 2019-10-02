@@ -2142,10 +2142,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Kundan Kumar
 
-- I am a high school graduate.
-- I love AI, programming and web development.
-- I love playing and making games.
-- [![github-alt][github-img]](https://github.com/kundan28)
+- Web Developer & Designer.
+- I love playing games a lot.
+- [![github-alt][github-img]](https://github.com/Kundan28)
 
 ### Kurtis Taylor
 - Software Engineer and Graduate CS student at Purdue
