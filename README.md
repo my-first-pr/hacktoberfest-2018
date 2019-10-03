@@ -2129,6 +2129,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Konrad
 - Big Data student, Poland
 
+### Konrad
+- Newbie who learning program, Indonesia
+- [![github-alt][github-img]](https://github.com/criedchild)
+
 ### Kshitij Mhatre
 - I am developer in Bangalore, India
 - I also sketch and binge on TV shows
