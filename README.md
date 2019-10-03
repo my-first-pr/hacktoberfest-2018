@@ -122,10 +122,8 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Furkan Göksel
 
-- Student, Coder, Security enthusiast \n
--Python \n
--C \n
--C++ \n
+- Student, Coder, Security enthusiast
+- C/C++, Python, Low-level Assembly
 - [![github-alt][github-img]](https://github.com/firehunter27)
 
 ### Aakash Dadhich
