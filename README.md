@@ -4038,6 +4038,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a student
 - [![github-alt][github-img]](https://github.com/Mystes-CS)
 
+### Tristan
+
+- Trying to get into coding
+- Working on my second degree
+
 # U
 
 ### Uchenna Cyril Nnamadim
