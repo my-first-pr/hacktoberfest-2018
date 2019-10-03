@@ -1812,7 +1812,19 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Python enthusiast.
 - My hobbies include: - Competitive Programming - Reading and Writing Blogs
 - [![twitter-alt][twitter-img]](https://twitter.com/jayvasantjv)
-  [![github-alt][github-img]](https://github.com/jayvasantjv)
+- [![github-alt][github-img]](https://github.com/jayvasantjv)
+
+### Jeg Garcia
+
+- I am web developer. 
+- I've used reactjs and angular in my previous projects
+- I've also used ASP.NET Core for backend stuff
+- I have experience with mobile development using Xamarin.Forms
+- I also have experience building Windows applications using C#
+- I've done a project on an embedded system using C# on Windows Embedded
+- I'm Interested in transitioning to full stack javascript.
+- Full stack meaning: Electron for desktop, React Native for mobile, Angular or React for front-end web, Express or Meteor for back-end web
+- [![github-alt][github-img]](https://github.com/JJEEGG2211)
 
 ### Jesray Garciano
 
