@@ -1824,6 +1824,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I've done a project on an embedded system using C# on Windows Embedded
 - I'm Interested in transitioning to full stack javascript.
 - Full stack meaning: Electron for desktop, React Native for mobile, Angular or React for front-end web, Express or Meteor for back-end web
+- I play basketball and ultimate frisbee
 - [![github-alt][github-img]](https://github.com/JJEEGG2211)
 
 ### Jesray Garciano
