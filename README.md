@@ -1807,6 +1807,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I also love Python
 - [![github-alt][github-img]](https://github.com/Exoceus)
 
+### Jatin Narula
+
+- Competitive Programmer
+- Software Engineer
+- Beginner in Open Source
+- [![github-alt][github-img]](https://github.com/jatin96)
+
 ### Jay Vasant
 
 - Python enthusiast.
