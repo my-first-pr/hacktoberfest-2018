@@ -119,6 +119,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student, Code Ninza
 - [![github-alt][github-img]](https://github.com/captainadsh)
 
+
+### Furkan Göksel
+
+- Student, Coder, Security enthusiast
+-Python
+-C
+-C++
+- [![github-alt][github-img]](https://github.com/firehunter27)
+
 ### Aakash Dadhich
 
 - Student at UoN participating in Hacktoberfest
