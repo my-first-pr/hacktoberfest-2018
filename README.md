@@ -3439,6 +3439,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am a student at San Jose State Univ
 - I am a Java Developer
 
+### Ryan Walker
+- Amateur web developer, works at [LaunchCode](https://launchcode.org)
+- [![twitter-alt][twitter-img]](https://twitter.com/clockworkgadget)
+  [![github-alt][github-img]](https://github.com/ryanawalker)
+
 # S
 
 ### Saakshi
