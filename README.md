@@ -2332,6 +2332,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I like to watch game streaming and entertaining youtube videos.
 - [![github-alt][github-img]](https://github.com/qihaomah)
 
+### Majzer
+
+- Software Engineering Student
+- I like to play simulation games
+- [![github-alt][github-img]](https://github.com/Majzer)
+
 ### Manthan Keim
 
 - Bachelor student in Computer Science Engineering at MAIT.
