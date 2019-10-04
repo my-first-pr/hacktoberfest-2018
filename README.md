@@ -98,6 +98,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Abandon C++
 - Student, NCKU
 
+### Ananya Bhatia
+
+- Student, IIIT-D
+
 ### Adrian Muntean
 
 - I am a Computer Science Student and I worked with Java, Groovy, NodeJs and Python
