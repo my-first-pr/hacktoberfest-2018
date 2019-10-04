@@ -259,7 +259,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Anchit Thakur
 - B.tech student
 - Full stack web developer
-  [![github-alt][github-img]](https://github.com/anchitthakur)
+- [![github-alt][github-img]](https://github.com/anchitthakur)
 
 ### Adhish Anand
 
