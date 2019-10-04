@@ -3135,6 +3135,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I like watching T.V. shows and youtube videos, playing table tennis and eating donuts.
 - [![github-alt][github-img]](https://github.com/RaulG99)
 
+### mrc03
+
+- Student At MITS,Gwalior
+- Loves ML
+- [![github-alt][github-img]](https://github.com/mrc03)
+
+
 ### Rajdeep Bharati
 
 - Full Stack Developer, uses ML at times
