@@ -2170,6 +2170,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Loves to code and game during free time.
 - [![github-alt][github-img]](https://github.com/KyaaKats)
 
+### Kusal Priyanka
+
+- I am Undergraduate from Sri Lanka.
+- [![github-alt][github-img]](https://github.com/KusalPriyanka)
+
 # L
 
 ### Lauren Reilly
