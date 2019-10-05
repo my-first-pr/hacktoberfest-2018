@@ -1975,6 +1975,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - First time contributing to Hacktoberfest!
 - [![github-alt][github-img]](https://github.com/Juldays)
 
+### Julia Cinel
+- Second year CS student learning how to use git tools
+- [![github-alt][github-img]](https://github.com/jcinel)
+
 ### JrMiranda
 - I'm a electrical engineer and a computer engineering student
 - [![github-alt][github-img]](https://github.com/jrmiranda)
