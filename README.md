@@ -4420,6 +4420,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
+### Theofilos
+
+- I am a Computer Science and Electrical Engineering Student.
+- I like working with new technologies.
+- [![github-alt][github-img]](https://github.com/MeTeoRise)
 
 ---
 
