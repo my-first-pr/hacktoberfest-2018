@@ -1484,6 +1484,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Loves technology
 - [![github-alt][github-img]](https://github.com/harshnipriya)
 
+### Hasan Iftikhar
+
+- Student
+- A born lover of computer 
+- A fast bowler 
+- A good player of CS.
+- Worked on two languages- C++, Python
+
 ### Hayi Nukman
 
 - Android Developer
