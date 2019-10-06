@@ -49,6 +49,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # A
 
+### Aljaž Glavač
+- Third year Computer Science student
+- Working with Django/Python for backend and Vue for frontend
+- [![github-alt][github-img]](https://github.com/aljazglavac)
+
 ### Aarushi Goenka
 - First year Computer Science student
 - [![github-alt][github-img]](https://github.com/Aarushi2405)
