@@ -2170,6 +2170,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Loves to code and game during free time.
 - [![github-alt][github-img]](https://github.com/KyaaKats)
 
+### Kaustuv Sahu
+
+- I am an undergraduate.
+- I love AI, programming and web development.
+- I love playing games and waching movies.
+- [![github-alt][github-img]](https://github.com/kaustuvsahu)
+
 # L
 
 ### Lauren Reilly
