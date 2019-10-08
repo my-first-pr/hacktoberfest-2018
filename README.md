@@ -2286,6 +2286,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/lunamana104)
 
 # M
+### Michael
+- Secondary school computer science student
+- [![github-alt][github-img]](https://github.com/mxz519)
 
 ### Michael Ikechukwu Fortune
 - junior software engineer, currently computer science student based in Nigeria
