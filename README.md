@@ -2901,6 +2901,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 - [![github-alt][github-img]](https://github.com/plvigarg)
 
+### pittyi2nd
+- I am a student of Akashi Kosen in Japan
+- [![github-alt][github-img]](https://github.com/pittyi2nd)
+
 ### Pittyolo
 
 - I'm an Audio Network Engineer
