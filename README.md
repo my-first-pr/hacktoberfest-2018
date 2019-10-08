@@ -2060,6 +2060,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I like to code and build applications.
 - [![github-alt][github-img]](https://github.com/Karthik-0)
 
+### Kate
+
+- I am Computer Science Student
+- I am learning the languages Python and Visual Basic
+- [![github-alt][github-img]](https://github.com/KateLipton)
 
 ### Karthikeyan
 
@@ -4419,6 +4424,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Computer Science Student and I speak Java, Node and Go.
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
+
 
 
 ---
