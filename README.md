@@ -506,6 +506,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/Anush93)
 
+### Anuneet Anand
+
+ - I am CSE student from India.
+ - [![github-alt][github-img]](https://github.com/anuneetanand)
+ 
 ### Anton Konstantinov
 
 - I am a student, developer and data science lover from Saint-Petersburg, Russia
