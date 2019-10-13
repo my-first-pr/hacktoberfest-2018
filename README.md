@@ -621,6 +621,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # B
 
+### Bhupen Pal
+- I am Computer Science student and I love programming.
+- An excellent web-developer.
+- [![github-alt][github-img]](https://github.com/BhupenPal)
+
 ### Banso D. Wisdom
 
 - Software Engineer, Gamer and Machine Learning Enthusiast
