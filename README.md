@@ -1477,6 +1477,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Tech Geek
 - [![twitter-alt][twitter-img]](https://twitter.com/harishv207)
   [![github-alt][github-img]](https://github.com/harishv7)
+  
+### Harshaan Nihal Khan
+
+- Full-Stack Developer
+- MERN
+- Ruby on Rails, Django
+- [![twitter-alt][twitter-img]](https://twitter.com/klassynihal)
+  [![github-alt][github-img]](https://github.com/harshaannihal)
+
 
 ### Harshni
 
