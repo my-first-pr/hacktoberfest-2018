@@ -3053,11 +3053,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Stuntman
   [![github-alt][github-img]](https://github.com/Petar-np)
   
-  ###PrasadeeJ
+###PrasadeeJ
   
-  -Java and Web Developer
-  -Student
-  [![github-alt][github-img]](https://github.com/PrasadeeJ)
+-Java and Web Developer
+-Student
+[![github-alt][github-img]](https://github.com/PrasadeeJ)
 
 # Q
 
