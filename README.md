@@ -566,6 +566,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Grad Student
 - OpenSource Enthusiast
 
+### Asim Jha
+
+- B.Tech Student
+- OpenSource Enthusiast
+
 ### Ashwani Kumar
 
 - Software Engineer, and Cyber Security Enthusiast from India
