@@ -2932,6 +2932,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - BLogger
 - [![twitter-alt][twitter-img]](https://twitter.com/psuranas)
   [![github-alt][github-img]](https://github.com/prateek3255)
+  
+### Prayas Mittal
+- Developer at Selekt.in (http://selekt.sg)
+- [![github-alt][github-img]](https://github.com/prayas26)
 
 ### Prince Sachdeva
 
