@@ -2597,6 +2597,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # N
 
+### Nathan FS
+- Web & Mobile App Developer
+- Student
+- Make programs with Firebase, repl.it, Sublime Text Editor 3, etc.
+- [![github-alt][github-img]](https://github.com/backentrancehacker)
+
 ### n0z
 - I'm a student
 - I like erverything related to computers, from code to repair computers. I <3 Linux.
