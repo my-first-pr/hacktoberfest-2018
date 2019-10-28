@@ -1,0 +1,432 @@
+[[JavaRegex, JavaIO, networking, awt, swing, fx, applet, reflection, date, conversion, jdnc, new features, rmi, ]]
+
+* object oriented programming, procedure oriented programming, function oriented programming.
+
+* The switch statement works with byte, short, int, long, enum types, String and some wrapper types like Byte, 
+Short, Int, and Long.
+
+Object is an instance of a class.	
+Class is a blueprint or template from which objects are created.
+
+Object is a real world entity such as pen, laptop, mobile, bed, keyboard, mouse, chair etc.
+Class is a group of similar objects.
+
+There are many ways to create object in java such as new keyword, 
+newInstance() method, clone() method, factory method and deserialization.	
+
+*The case values must be unique. In case of duplicate value, it renders compile-time error.
+
+*There are three types of for loops in java.
+Simple For Loop
+For-each or Enhanced For Loop: It works on elements basis not index. 
+			       It returns element one by one in the defined variable
+Labeled For Loop
+
+*The Exception Handling in Java is one of the powerful mechanism to handle the runtime errors so that normal 
+flow of the application can be maintained.
+
+* Exceptions: IOException, ClassNotFoundException, SQLException, RuntimeException(aritmetic, nullpointer, 
+										numberFormat, indexOutOfBounds)
+
+* Checked Exception:The classes which directly inherit Throwable class except RuntimeException and Error are 
+known as checked exceptions e.g. IOException, SQLException etc. Checked exceptions are checked at compile-time.
+
+* Unchecked Exception: The classes which inherit RuntimeException are known as unchecked exceptions 
+e.g. ArithmeticException, NullPointerException, ArrayIndexOutOfBoundsException etc. Unchecked exceptions 
+are not checked at compile-time, but they are checked at runtime.
+
+* Error: Error is irrecoverable e.g. OutOfMemoryError, VirtualMachineError, AssertionError etc.
+
+* The "throw" keyword is used to throw an exception.
+
+* The "throws" keyword is used to declare exceptions. It doesn't throw an exception. 
+It specifies that there may occur an exception in the method. It is always used with method signature.
+
+*  For each try block there can be zero or more catch blocks, but only one finally block.
+
+* The finally block will not be executed if program exits(either by calling System.exit() 
+or by causing a fatal error that causes the process to abort).
+
+* An exception is first thrown from the top of the stack and if it is not caught, it drops down the call 
+stack to the previous method,If not caught there, the exception again drops down to the previous method, 
+and so on until they are caught or until they reach the very bottom of the call stack.
+This is called exception propagation.
+
+* By default, Checked Exceptions are not forwarded in calling chain (propagated).
+
+* Final(keyw) class can't be inherited, final method can't be overridden and final variable value can't be changed.
+
+* Finally(block) is used to place important code, it will be executed whether exception is handled or not.
+
+* Finalize(method) is used to perform clean up processing just before object is garbage collected.
+
+* If the superclass method does not declare an exception, subclass overridden method cannot 
+declare the checked exception.
+
+* If the superclass method does not declare an exception, subclass overridden method 
+cannot declare the checked exception but can declare unchecked exception.
+
+* Java inner class or nested class is a class which is declared inside the class or interface.
+it can access all the members of outer class including private data members and methods.
+
+* Difference between nested class and inner class in Java
+Inner class is a part of nested class. Non-static nested classes are known as inner classes.
+
+* The java compiler creates two class files in case of inner class. The class file name of inner class is 
+"Outer$Inner". If you want to instantiate inner class, you must have to create the instance of outer class. 
+In such case, instance of inner class is created inside the instance of outer class.
+
+* Simula is considered the first object-oriented programming language.
+
+* Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. 
+It simplifies software development and maintenance by providing some concepts
+
+* Coupling refers to the knowledge or information or dependency of another class.  
+In Java, we use private, protected, and public modifiers to display the visibility level of a class, method, 
+and field. You can use interfaces for the weaker coupling because there is no concrete implementation.
+
+* Association represents the relationship between the objects. 
+Here, one object can be associated with one object or many objects.
+
+* Aggregation is a way to achieve Association. Aggregation represents the relationship where one object contains other objects as a part of its state. It represents the weak relationship between objects. It is also termed as a has-a relationship in Java. Like, inheritance represents the is-a relationship. It is another way to reuse objects.
+
+* The composition is also a way to achieve Association. The composition represents the relationship where one object contains other objects as a part of its state. There is a strong relationship between the containing object and the dependent object.
+
+* Object-based programming language follows all the features of OOPs except Inheritance. JavaScript and VBScript are examples of object-based programming languages.
+
+* Instance variable doesn't get memory at compile time. It gets memory at runtime when an object or instance is created.
+
+* There are many ways to create an object in java. They are:
+
+By new keyword
+By newInstance() method
+By clone() method
+By deserialization
+By factory method etc.
+
+* Anonymous object
+Anonymous simply means nameless. An object which has no reference is known as an anonymous object. It can be used at the time of object creation only.
+If you have to use an object only once, an anonymous object is a good approach.
+
+* There are two rules defined for the constructor.
+Constructor name must be the same as its class name
+A Constructor must have no explicit return type
+A Java constructor cannot be abstract, static, final, and synchronized
+
+* We can use access modifiers while declaring a constructor. It controls the object creation. In other words, we can have private, protected, public or default constructor in Java.
+
+* The default constructor is used to provide the default values to the object like 0, null, etc., depending on the type.
+
+* There are many ways to copy the values of one object into another in Java. They are:
+
+By constructor
+By assigning the values of one object into another
+By clone() method of Object class
+
+* If you apply static keyword with any method, it is known as static method.
+
+A static method belongs to the class rather than the object of a class.
+A static method can be invoked without the need for creating an instance of a class.
+A static method can access static data member and can change the value of it.
+
+* There are two main restrictions for the static method. They are:
+
+The static method can not use non static data member or call non-static method directly.
+this and super cannot be used in static context.
+
+* Why is the Java main method static?
+Ans) It is because the object is not required to call a static method. If it were a non-static method, JVM creates an object first then
+call main() method that will lead the problem of extra memory allocation.
+
+* Java static block
+Is used to initialize the static data member.
+It is executed before the main method at the time of classloading.
+
+* Autoboxing and Unboxing:
+The automatic conversion of primitive data types into its equivalent Wrapper type is known as boxing and opposite operation is known as unboxing. This is the new feature of Java5. So java programmer doesn't need to write the conversion code.
+
+* Equals and hashCode contract in Java
+1) If two objects are equal by equals() method then there hashcode must be same.
+2) If two objects are not equal by equals() method then there hashcode could be same or different.
+
+* In java programming, multiple and hybrid inheritance is supported through interface only. 
+
+* In java, Method Overloading is not possible by changing the return type of the method only.
+There are two ways to overload the method in java
+
+By changing number of arguments
+By changing the data type
+
+* Can we overload java main() method?
+Yes, by method overloading. You can have any number of main methods in a class by method overloading. 
+But JVM calls main() method which receives string array as arguments only.
+
+Can we override java main method?
+No, because the main is a static method.
+
+* Can we override static method?
+No, a static method cannot be overridden. It can be proved by runtime polymorphism.
+It is because the static method is bound with class whereas instance method is bound with an object. Static belongs to the class area, and an instance belongs to the heap area.
+
+* How is Covariant return types implemented?
+Java doesn't allow the return type based overloading but JVM always allows return type based overloading. 
+JVM uses full signature of a method for lookup/resolution. Full signature means it includes return type in 
+addition to argument types. i.e., a class can have two or more methods differing only by return type. 
+javac uses this fact to implement covariant return types.
+
+* The super keyword in Java is a reference variable which is used to refer immediate parent class object.
+Whenever you create the instance of subclass, an instance of parent class is created implicitly which is 
+referred by super reference variable.
+
+Usage of Java super Keyword
+super can be used to refer immediate parent class instance variable.
+super can be used to invoke immediate parent class method.
+super() can be used to invoke immediate parent class constructor.
+
+* There are three places in java where you can perform operations:
+method
+constructor
+block
+
+* What is invoked first, instance initializer block or constructor?
+Ans: Constructor, The java compiler copies the code of instance initializer block in every constructor
+
+There are mainly three rules for the instance initializer block. They are as follows:
+The instance initializer block is created when instance of the class is created.
+The instance initializer block is invoked after the parent class constructor is invoked (i.e. after super() constructor call).
+The instance initializer block comes in the order in which they appear.
+
+* Java Final keyword
+-Stop value change
+-Stop method overriding 
+-Stop inheritance
+
+Q) Can we declare a constructor final?
+No, because constructor is never inherited.
+
+* Connecting a method call to the method body is known as binding.
+
+* If there is any private, final or static method in a class, there is static binding.
+
+* A class which is declared with the abstract keyword is known as an abstract class in Java. 
+It can have abstract and non-abstract methods (method with the body). 
+It needs to be extended and its method implemented. It cannot be instantiated.
+
+* Ways to achieve Abstraction
+There are two ways to achieve abstraction in java
+Abstract class (0 to 100%)
+Interface (100%)
+
+* Points to Remember
+An abstract class must be declared with an abstract keyword.
+It can have abstract and non-abstract methods.
+It cannot be instantiated.
+It can have constructors and static methods also.
+It can have final methods which will force the subclass not to change the body of the method.
+
+* Rule: If there is an abstract method in a class, that class must be abstract.
+
+* Rule: If you are extending an abstract class that has an abstract method, 
+you must either provide the implementation of the method or make this class abstract.
+
+* An interface in java is a blueprint of a class.The interface in Java is a mechanism to achieve abstraction.
+
+* There are mainly three reasons to use interface. They are given below.
+
+It is used to achieve abstraction.
+By interface, we can support the functionality of multiple inheritance.
+It can be used to achieve loose coupling.
+
+* The relationship between classes and interfaces
+a class extends another class, an interface extends another interface, but a class implements an interface.
+
+* Note: An interface can have another interface which is known as a nested interface.
+ We will learn it in detail in the nested classes chapter
+
+* There are 4 types of java access modifiers:
+
+private
+default
+protected
+public
+
+* Role of Private Constructor
+If you make any class constructor private, you cannot create the instance of that class from outside the class.
+
+* Note: A class cannot be private or protected except nested class.
+
+* 1) private access modifier
+The private access modifier is accessible only within class.
+
+2) default access modifier
+If you don't use any modifier, it is treated as default bydefault. 
+The default modifier is accessible only within package.
+
+3) protected access modifier
+The protected access modifier is accessible within package and outside the package but through inheritance only.
+
+4) public access modifier
+The public access modifier is accessible everywhere. It has the widest scope among all other modifiers.
+
+* Wrapper class in java provides the mechanism to convert primitive into object and object into primitive.
+
+* Java Strictfp Keyword
+Java strictfp keyword ensures that you will get the same result on every platform if you perform 
+operations in the floating-point variable. 
+
+* Java String
+In Java, string is basically an object that represents sequence of char values. 
+An array of characters works same as Java string.
+
+* Each time you create a string literal, the JVM checks the "string constant pool" first. 
+If the string already exists in the pool, a reference to the pooled instance is returned. 
+If the string doesn't exist in the pool, a new string instance is created and placed in the pool.
+
+* Why string objects are immutable in java?
+Because java uses the concept of string literal.Suppose there are 5 reference variables,
+all referes to one object "sachin". If one reference variable changes the value of the object,
+ it will be affected to all the reference variables. That is why string objects are immutable in java.
+
+* Java StringBuffer class is used to create mutable (modifiable) string. 
+The StringBuffer class in java is same as String class except it is mutable i.e. it can be changed.
+
+* Java provides three classes to represent a sequence of characters: String, StringBuffer, and StringBuilder. 
+
+* There are many immutable classes like String, Boolean, Byte, Short, Integer, Long, Float, Double etc. 
+In short, all the wrapper classes and String class is immutable. 
+
+*
+Member Inner Class	A class created within class and outside method.
+Anonymous Inner Class	A class created for implementing interface or extending class. Its name is decided by the java compiler.
+Local Inner Class	A class created within method.
+Static Nested Class	A static class created within class.
+Nested Interface	An interface created within class or interface.
+
+* Can we start a thread twice
+No. After starting a thread, it can never be started again. 
+If you does so, an IllegalThreadStateException is thrown. In such case, thread will run once but for second time, 
+it will throw exception.
+
+* What if we call run() method directly instead start() method?
+Each thread starts in a separate call stack.
+Invoking the run() method from main thread, the run() method goes onto the current call stack rather than at 
+the beginning of a new call stack.
+
+* The join() method
+The join() method waits for a thread to die. In other words, it causes the currently running threads to stop 
+executing until the thread it joins with completes its task.
+
+* Daemon thread in java is a service provider thread that provides services to the user thread. 
+Its life depend on the mercy of user threads i.e. when all the user threads dies, JVM terminates this thread automatically.
+
+* Java Shutdown Hook
+The shutdown hook can be used to perform cleanup resource or save the state when JVM shuts down normally or 
+abruptly.Performing clean resource means closing log file, sending some alerts or something else. 
+So if you want to execute some code before JVM shuts down, use shutdown hook.
+
+*In java, garbage means unreferenced objects.
+Garbage Collection is process of reclaiming the runtime unused memory automatically. 
+In other words, it is a way to destroy the unused objects.
+
+* finalize() method
+Note: The Garbage collector of JVM collects only those objects that are created by new keyword. 
+So if you have created any object without new, you can use finalize method to perform cleanup processing 
+(destroying remaining objects).
+
+* 1) wait() method
+Causes current thread to release the lock and wait until either another thread invokes the notify() method or 
+the notifyAll() method for this object, or a specified amount of time has elapsed.
+
+2) notify() method
+Wakes up a single thread that is waiting on this object's monitor. If any threads are waiting on this object,
+one of them is chosen to be awakened. The choice is arbitrary and occurs at the discretion of the implementation.
+
+3) notifyAll() method
+Wakes up all threads that are waiting on this object's monitor.
+
+* The writeObject() method of ObjectOutputStream class provides the functionality to serialize the object. 
+
+* An ObjectInputStream deserializes objects and primitive data written using an ObjectOutputStream.
+
+* Java Serialization with Aggregation (HAS-A Relationship)
+If a class has a reference to another class, all the references must be Serializable otherwise serialization 
+process will not be performed. In such case, NotSerializableException is thrown at runtime.
+
+* Java Serialization with Inheritance (IS-A Relationship)
+If a class implements serializable then all its sub classes will also be serializable
+
+* Java Serialization with the static data member
+If there is any static data member in a class, it will not be serialized because static is the part of class
+not object.
+
+* Java Transient Keyword
+If you don't want to serialize any data member of a class, you can mark it as transient.
+
+* Collections in Java
+The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
+
+* What is a framework in Java
+It provides readymade architecture.
+It represents a set of classes and interfaces.
+It is optional.
+
+* LinkedList
+LinkedList implements the Collection interface. 
+It uses a doubly linked list internally to store the elements. It can store the duplicate elements. 
+
+* Vector
+Vector uses a dynamic array to store the data elements. It is similar to ArrayList. 
+However, It is synchronized and contains many methods that are not the part of Collection framework.
+
+ArrayDeque is faster than ArrayList and Stack and has no capacity restrictions.
+
+* A Map can't be traversed, so you need to convert it into Set using keySet() or entrySet() method.
+
+* We use put() method to insert the Key and Value pair in the HashMap. The default size of HashMap is 16 (0 to 15).
+
+* JPA is just a specification that facilitates object-relational mapping to manage relational data in Java 
+applications. It provides a platform to work directly with objects instead of using SQL statements.
+
+* If the superclass method does not declare an exception, subclass overridden 
+method cannot declare the checked exception, but it can declare the unchecked exception.
+
+* If the superclass method declares an exception, subclass overridden 
+method can declare same, subclass exception or no exception but cannot declare parent exception.
+
+* What is a marker interface?
+A Marker interface can be defined as the interface which has no data member and member functions. 
+For example, Serializable, Cloneable are marker interfaces. The marker interface can be declared as follows.
+
+* It is not necessary that each try block must be followed by a catch block. 
+It should be followed by either a catch block OR a finally block. So whatever exceptions are likely to be 
+thrown should be declared in the throws clause of the method.
+
+* The finally block will not be executed if program exits(either by calling System.exit() or by causing 
+a fatal error that causes the process to abort).
+
+
+* Reflection is the process of examining or modifying the runtime behavior of a class at runtime. The java.lang.
+Class class provides various methods that can be used to get metadata, examine and change the runtime behavior of 
+a class. The java.lang and java.lang.reflect packages provide classes for java reflection. 
+
+* Wrapper classes are classes that allow primitive types to be accessed as objects. In other words, we can 
+say that wrapper classes are built-in java classes which allow the conversion of objects to primitives and 
+primitives to objects. The process of converting primitives to objects is called autoboxing, and the process 
+of converting objects to primitives is called unboxing. There are eight wrapper classes present in java.lang
+
+* What is the purpose of the strictfp keyword?
+Java strictfp keyword ensures that you will get the same result on every platform if you perform operations 
+in the floating-point variable. The precision may differ from platform to platform that is why java programming 
+language has provided the strictfp keyword so that you get the same result on every platform. So, now you have 
+better control over the floating-point arithmetic.
+
+* An applet is a small java program that runs inside the browser and generates dynamic content. It is embedded 
+in the webpage and runs on the client side. It is secured and takes less response time. It can be executed by 
+browsers running under many platforms, including Linux, Windows, Mac Os, etc. However, the plugins are required 
+at the client browser to execute the applet. The following image shows the architecture of Applet.
+
+* What is static synchronization?
+If you make any static method as synchronized, the lock will be on the class not on the object. 
+If we use the synchronized keyword before a method so it will lock the object (one thread can access an object 
+at a time) but if we use static synchronized so it will lock a class (one thread can access a class at a time).
+
