@@ -1752,6 +1752,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I enjoy playing video games and surfing the web and sailing
 - [![github-alt][github-img]](https://github.com/dubsy9)
 
+### Janhavi Shedge
+- I am currently a btech first year student.
+- I like to read novels and play outdoor games.
+- [![github-alt][github-img]](https://github.com/JanhaviShedge)
+
 ### janicek1m
 
 - I am currently a high school student.
