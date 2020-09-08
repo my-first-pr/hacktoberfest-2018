@@ -3638,6 +3638,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - you can check my site [https://shubhamnishad.com/](https://shubhamnishad.com/)
 - [![twitter-alt][twitter-img]](https://twitter.com/shubhamnishad97)
   [![github-alt][github-img]](https://github.com/shubhamnishad97)
+  
+### Shubhankar Khare
+-2nd yaer cse
+-new to open source
 
  ### Siddharth Varshney
  - I am Civil Engineering student at IIT ROORKEE.
