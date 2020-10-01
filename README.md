@@ -619,6 +619,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student Developer
 - [![github-alt][github-img]](https://github.com/starsign24)
 
+### Atif
+- Developer
+- Open Source Enthusiast
+- [![github-alt][github-img]](https://github.com/gupta-ji6)
+[![twitter-alt][twitter-img]](https://twitter.com/_guptaji_)
+[![facebook-alt][facebook-img]](https://www.facebook.com/guptaji.6)
+[![google-img][google-img]](https://plus.google.com/+AyushGupta66)
+
 # B
 
 ### Banso D. Wisdom
