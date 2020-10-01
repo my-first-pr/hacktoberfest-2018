@@ -2129,6 +2129,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 ### Konrad
 - Big Data student, Poland
 
+### Krishna Chourasia
+
+- Software Developer, Life Learner
+- Loves Coding and Music, seasonal Guitar and Piano player
+- [![twitter-alt][twitter-img]](https://twitter.com/thelazyninja_)
+  [![github-alt][github-img]](https://github.com/krishnachourasia)
+
 ### Kshitij Mhatre
 - I am developer in Bangalore, India
 - I also sketch and binge on TV shows
