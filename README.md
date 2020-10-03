@@ -3525,6 +3525,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Open Source Enthusiast
 - [![github-alt][github-img]](https://gihub.com/SarthakKhoche)
 
+### Saloni
+
+- Full Stack Developer
+- []
+
 ### Sarvasv
 
 - I'm a high schooler, programmer, AI enthusiast and writer
@@ -3563,6 +3568,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Python Server Developer
 - I live in Seoul
 - [![github-alt][github-img]](https://github.com/lee-seul)
+
+### Saloni Gupta
+
+- [![github-alt]: GitHub] (htttps://github.com/shades-7)
 
 ### Shalini chaurasia
 
