@@ -619,6 +619,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student Developer
 - [![github-alt][github-img]](https://github.com/starsign24)
 
+### Avi Agarwal
+- Senior Data Scientist working in machine learning, natural language processing, and deep learning.
+- Pythonista hoping to contribute to open-source development
+- [![github-alt][github=img]](https://github.com/avidiotic)
+- [![twitter-alt][twitter-img]](https://twitter.com/avidiotic)
+
 # B
 
 ### Banso D. Wisdom
