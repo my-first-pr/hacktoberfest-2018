@@ -1765,6 +1765,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - My hobbies include reading, watching movies and animes.
 - [![github-alt][github-img]](https://github.com/Gotaskaen)
 
+ ### Jānis Īvāns
+- IT student
+  [![github-alt][github-img]](https://github.com/ANormalStick)
+
 ### Janitha Rasanga
 - I am a student of University of Moratuwa
 - [![facebook-alt][facebook-img]](https://web.facebook.com/janitha.rasanga.7)
