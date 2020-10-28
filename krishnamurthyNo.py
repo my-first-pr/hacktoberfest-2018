@@ -25,7 +25,7 @@ def isKrishnamurthy(n) :
         # replace value of temp by temp / 10 
         temp = temp // 10
           
-    # Check if number is krishnamurthy 
+    # Check if number is krishnamurhy 
     return (sum == n) 
   
 # Driver code 
