@@ -7,20 +7,23 @@ from selenium.common.exceptions import TimeoutException
  
  
 def init_driver():
+ 
     driver = webdriver.Chrome()
-    driver.wait = WebDriverWait(driver, 5)
+    driver.wait = WebDriverWait(driver, 10)
     return driver
  
  
 def lookup(driver, query):
     driver.get("http://www.google.com")
     try:
-        box = driver.wait.until(EC.presence_of_element_located(
-            (By.NAME, "q")))
-        button = driver.wait.until(EC.element_to_be_clickable(
-            (By.NAME, "btnK")))
+    
+        box = driver.wait.until(EC.presence_of_element_located((By.NAME, "q")))
+     
+        button = driver.wait.until(EC.element_to_be_clickable((By.NAME, "btnK")))
+      
         box.send_keys(query)
         button.click()
+        
     except TimeoutException:
         print("Box or Button not found in google.com")
  
@@ -28,5 +31,5 @@ def lookup(driver, query):
 if __name__ == "__main__":
     driver = init_driver()
     lookup(driver, "Selenium")
-    time.sleep(5)
+    time.sleep(10)
     driver.quit()
