@@ -3713,6 +3713,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Computer Science Graduate
 - [![github-alt][github-img]](https://github.com/Shwetago)
 
+### Skylar K.
+- I enjoy computers and diet coke. 
+- Computer Science graduate.
+- [![github-alt][github-img]](https://github.com/skylarkrug)
+
 ### slouch
 
 - Linux Systems Administrator turning DevOps person
