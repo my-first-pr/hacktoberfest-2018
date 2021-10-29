@@ -2617,7 +2617,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 ### Nikhil Singh
 
-- I'm a full stack Blokchain and NodeJS Developer.
+- I'm a mobile and web dev currently building things at scale at Thoughtworks.
 - I'm a huge Manchester United fan and an avid traveller.
 - [![github-alt][github-img]](https://github.com/nikmufc7)
   [![twitter-alt][twitter-img]](https://twitter.com/creativemartial)
