@@ -1412,6 +1412,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/gdeusdara)
   [![facebook-alt][facebook-img]](https://www.facebook.com/gdeusdara)
 
+### Guilherme Leandro Rolim
+- Front-end Developer
+- React, Next.js, TypeScript
+- [![github-alt][github-img]](https://github.com/guirdy)
+
 ### Gustavo Martusewicz
 - I'm a front-end developer
 - Drupal front-end Dev
