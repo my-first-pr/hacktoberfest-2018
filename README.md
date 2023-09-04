@@ -1266,6 +1266,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Interested in Android
 - [![github-alt][github-img]](https://github.com/nonamekunn)
 
+### Firdaus Razali
+
+- I am a Bachelor of IT (Software Engineering) student
+- Baby steps learning everything I need to know to land a software engineer job as soon as I graduate. Pray the best for me!
+- Love to contribute to open source project, and start my OSP too. Soon.
+- Follow me https://github.com/ausrazali
+
 # G
 
 ### Gabe
