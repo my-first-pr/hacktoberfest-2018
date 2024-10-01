@@ -1649,6 +1649,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![github-alt][github-img]](https://github.com/ilhamtaufiq)
   [![twitter-alt][twitter-img]](https://twitter.com/ailhaeim)
 
+###Ishan Parashar
+  
+- I'm Ishan Parashar
+- I work on many things related to makes android apps from designing ui using figma from, coding front-end code, to backend implementation on firebase  
+- My hobbies include singing, writing poetry, and beautiful code for open source projects 
+- [![twitter-alt][twitter-img]](https://twitter.com/ishanparashar24)
+- [![github-alt][github-img]](https://github.com/ishanparashar24)
+- [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/ishanparashar24)
+  
 ### Ishita Chourasia
 - I am a software developer
 - I enjoy competitive programing
