@@ -1689,6 +1689,15 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   -I love programming, I like AI content and IT related areas.
 - [(_\__)](https://github.com/Ivonildo31)
 
+###Ishan Parashar
+
+- I'm Ishan Parashar
+- I work on many things related to makes android apps from designing ui using figma from, coding front-end code, to backend implementation on firebase  
+- My hobbies include singing, writing poetry, and beautiful code for open source projects 
+- [![twitter-alt][twitter-img]](https://twitter.com/ishanparashar24)
+- [![github-alt][github-img]](https://github.com/ishanparashar24)
+- [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/ishanparashar24)
+
 ### Ishita Varshney
 
 - I'm a computer science graduate student
